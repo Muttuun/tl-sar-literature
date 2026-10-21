@@ -1,29 +1,78 @@
-
 <!doctype html>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>TL-SAR 文献工作台</title>
+  <meta name="description" content="TL-SAR 文献工作台：检索、筛选与研读空间自回归及迁移学习文献。">
+  <meta name="theme-color" content="#264e40">
+  <title>TL-SAR · 文献工作台</title>
   <link rel="stylesheet" href="./style.css">
+  <script src="./app.js" defer></script>
 </head>
 <body>
-  <main>
-    <h1>TL-SAR 文献工作台</h1>
-    <p>近五年空间自回归与迁移学习文献库</p>
-
-    <p id="status">正在加载论文数据...</p>
-
-    <input
-      id="searchInput"
-      type="search"
-      placeholder="搜索论文标题、作者、关键词或摘要"
-    >
-
-    <section id="paperList"></section>
-  </main>
-
-  <script src="./app.js"></script>
+  <a class="skip-link" href="#main">跳到主要内容</a>
+  <div class="desk">
+    <aside class="sidebar" id="sidebar" aria-label="研究工作台导航">
+      <a class="brand" href="./" aria-label="TL-SAR 工作台首页"><span class="brand-symbol" data-icon="book"></span><span>TL–SAR<small>RESEARCH WATCH</small></span></a>
+      <div class="side-label">研究工作台</div>
+      <nav>
+        <a href="#papers" data-view="papers" class="active" aria-current="page"><span data-icon="book"></span>文献库<span class="nav-number" id="navCount">—</span></a>
+        <a href="#runs" data-view="runs"><span data-icon="clock"></span>更新记录</a>
+        <a href="#sources" data-view="sources"><span data-icon="shield"></span>来源说明</a>
+      </nav>
+      <div class="side-divider"></div>
+      <div class="side-label">研究主题</div>
+      <div class="topics"><span>空间自回归模型</span><span>迁移学习与跨域学习</span><span>异质性与部分共享</span><span>剖面似然与估计理论</span></div>
+      <div class="side-bottom"><a class="repository-link" href="https://github.com/Muttuun/tl-sar-literature" target="_blank" rel="noopener noreferrer"><span data-icon="external"></span>GitHub 文献库</a><p>发现有价值的文献<br>让每一次阅读有所积累。</p><small>TL-SAR · LITERATURE OBSERVATORY</small></div>
+    </aside>
+    <button class="menu-backdrop" id="menuBackdrop" aria-label="关闭导航" hidden></button>
+    <div class="main-shell">
+      <header class="topbar">
+        <button class="icon-button mobile-toggle" id="menuToggle" aria-label="展开导航" aria-expanded="false" aria-controls="sidebar"><span data-icon="menu"></span></button>
+        <div class="breadcrumb">研究工作台<span>/</span><strong id="breadcrumbCurrent">文献追踪</strong></div>
+        <div class="topbar-right"><span class="timezone"><span data-icon="globe"></span>北京时间</span><span class="owner-avatar" aria-hidden="true">研</span></div>
+      </header>
+      <main id="main" tabindex="-1">
+        <section class="hero">
+          <div><div class="eyebrow"><span></span>THE RESEARCH OBSERVATORY</div><h1 id="pageHeading">文献有据，<em>研究有序。</em></h1><p id="pageIntro">围绕 TL-SAR，持续积累空间自回归与迁移学习领域的研究文献。</p></div>
+          <button class="primary-button" id="refreshButton"><span data-icon="refresh"></span><span>刷新文献库</span></button>
+        </section>
+        <div class="notice error" id="loadError" role="alert" hidden></div>
+        <section class="update-strip" aria-label="文献库更新状态">
+          <div class="update-left"><span class="status-dot" id="dataDot"></span><strong id="dataState">正在读取文献库</strong><span class="vertical-line"></span><span>历史文献持续保留</span></div>
+          <div class="update-right">最近入库 <b id="lastUpdated">—</b></div>
+        </section>
+        <section id="papersView" aria-label="文献库">
+          <section class="stats" aria-label="文献统计">
+            <div><span>文献总库</span><strong><span id="totalCount">—</span><small>篇</small></strong><p>全部历史入库记录</p></div>
+            <div><span>中文 / 英文</span><strong><span id="zhCount">—</span><i>/</i><span id="enCount">—</span></strong><p id="languageNote">按文献语言字段统计</p></div>
+            <div><span>核验待完成</span><strong><span id="pendingCount">—</span><small>篇</small></strong><p>含部分核对、预印本与待核验记录</p></div>
+            <div><span>入库文献年份</span><strong class="range-number" id="yearRange">—</strong><p>按现有年份统计，保留历史文献</p></div>
+          </section>
+          <section class="spotlight" id="spotlight" hidden><span class="spotlight-mark" data-icon="book"></span><div class="spotlight-copy"><div class="spotlight-label">已有研究笔记 <span>RESEARCH NOTES</span></div><button id="spotlightTitle"></button></div><button class="text-button" id="spotlightOpen">阅读笔记 <span data-icon="arrow"></span></button></section>
+          <section class="library" aria-labelledby="libraryHeading">
+            <div class="section-heading"><div><h2 id="libraryHeading">研究文献库 <span id="libraryCount">—</span></h2><p>发现、筛选与研读，在一处完成。</p></div><button class="secondary-button export" id="exportButton" disabled><span data-icon="download"></span>导出 RIS</button></div>
+            <div class="library-toolbar">
+              <div class="segmented" role="group" aria-label="核验状态筛选"><button data-state="all" class="chosen" aria-pressed="true">全部</button><button data-state="verified" aria-pressed="false">已核验</button><button data-state="pending" aria-pressed="false">待完成<span id="pendingBadge">—</span></button></div>
+              <div class="search-field"><span data-icon="search"></span><label class="sr-only" for="searchInput">搜索文献</label><input id="searchInput" type="search" placeholder="搜索标题、作者、关键词或 DOI" autocomplete="off"><button class="icon-button" id="clearSearch" aria-label="清除搜索" hidden><span data-icon="close"></span></button></div>
+            </div>
+            <div class="filter-row"><div class="language-filter" role="group" aria-label="语言筛选"><button data-language="all" class="chosen" aria-pressed="true">全部语言</button><button data-language="zh" aria-pressed="false">中文</button><button data-language="en" aria-pressed="false">English</button></div><div class="select-filters"><label class="sr-only" for="yearFilter">发表年份</label><select id="yearFilter"><option value="all">全部年份</option></select><label class="sr-only" for="sortSelect">排序方式</label><select id="sortSelect"><option value="original">入库顺序</option><option value="latest">最新发表优先</option><option value="earliest">最早发表优先</option></select></div></div>
+            <p class="result-caption" id="status" role="status" aria-live="polite">正在加载论文数据…</p>
+            <div class="paper-grid" id="paperList"></div>
+            <div class="empty-state" id="emptyState" hidden><span data-icon="search"></span><h3>这里暂时没有匹配的文献</h3><p>换一个关键词，或调整语言、年份与核验状态。</p><button class="secondary-button" id="resetFilters">重置筛选</button></div>
+            <div class="load-more" id="loadMoreWrap" hidden><button class="secondary-button" id="loadMore">继续浏览</button></div>
+          </section>
+        </section>
+        <section id="runsView" class="content-panel" aria-labelledby="runsHeading" hidden><div class="section-heading"><div><h2 id="runsHeading">检索与入库记录</h2><p>展示文献库实际保存的运行日志。</p></div><span class="muted" id="runCount"></span></div><div class="timeline" id="runList"></div></section>
+        <section id="sourcesView" class="sources-layout" aria-labelledby="sourcesHeading" hidden>
+          <div class="content-panel"><span class="panel-eyebrow">SOURCE & VERIFICATION</span><h2 id="sourcesHeading">每一篇，都应有据可查。</h2><p class="intro">论文原始来源、内容概述与核验进度分别展示，方便返回原文继续研读。</p><div class="policy-steps"><div><span>01</span><p>展示仓库现有的全部论文记录。搜索、筛选与排序只影响当前页面，不会删除或改写历史文献。</p></div><div><span>02</span><p>OpenAlex 题录与 GPT 整理的内容保留各自来源。AI 整理的概述会明确标注“非原文”，研究方法与主要贡献按已有记录展示。</p></div><div><span>03</span><p>完整保留每篇文献的核验说明。含“待核验”、部分核对或预印本的记录归入“待完成”；字段缺失不会被视为已核验。</p></div></div><h3>从题录到研读</h3><div class="stage-grid"><div><span class="verified">已核验</span><p>仅依据记录中明确的核验标记展示，仍需结合具体说明阅读。</p></div><div><span class="candidate-label">核验待完成</span><p>可能已核对部分元数据；不代表已完成摘要、研究结论或同行评审状态核验。</p></div></div></div>
+          <aside class="content-panel source-aside"><span data-icon="shield"></span><h3>当前文献来源</h3><p>依据已入库文献的来源字段统计。</p><div id="sourceList"></div><div class="source-note">刷新按钮重新读取仓库已发布的数据。增量检索由现有 GitHub 工作流执行。</div><a href="https://github.com/Muttuun/tl-sar-literature/actions" target="_blank" rel="noopener noreferrer">查看检索工作流 <span data-icon="external"></span></a></aside>
+        </section>
+        <footer><span>TL–SAR <i>RESEARCH WATCH</i></span><p>持续积累 · 以原始文献与实际入库记录为依据</p><a href="#sources">了解来源说明 <span data-icon="arrow"></span></a></footer>
+        <noscript><p class="notice">此工作台需要启用 JavaScript。你也可以直接查看 <a href="./data/papers.json">论文数据</a>。</p></noscript>
+      </main>
+    </div>
+  </div>
+  <dialog id="paperDialog" class="paper-modal" aria-labelledby="paperTitle"><div class="modal-top"><span class="panel-eyebrow">RESEARCH NOTES</span><button class="icon-button" id="closeDialog" aria-label="关闭文献详情" autofocus><span data-icon="close"></span></button></div><div class="modal-content" id="paperDetail"></div><div class="modal-bottom"><button class="secondary-button" id="backToLibrary">返回文献库</button><a class="primary-button" id="paperSource" target="_blank" rel="noopener noreferrer">查看论文原文 <span data-icon="external"></span></a><span class="muted" id="missingLink" hidden>原文链接待补充</span></div></dialog>
 </body>
 </html>
-
