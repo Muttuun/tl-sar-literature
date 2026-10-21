@@ -23,6 +23,23 @@
       "source": "GPT手动检索与分析",
       "note": "新增1篇高度相关的arXiv预印本；文献元数据按原始页面核对，同行评审发表状态待核验。",
       "errors": []
+    },
+    {
+      "run_date": "2026-10-21",
+      "completed_at": "2026-10-21T14:20:52.233Z",
+      "candidate_count": 50,
+      "new_count": 50,
+      "duplicate_count": 0,
+      "total_count": 50,
+      "removed_count": 51,
+      "pending_count": 50,
+      "error_count": 0,
+      "status": "success",
+      "run_type": "replace_from_share",
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "note": "按用户要求清空当前 51 篇文献，替换为指定分享页的 50 篇（英文 35 篇、中文 15 篇）；保留来源、原始序号、概述与借鉴建议。题录与摘要均待独立核验，旧库可从 Git 历史恢复。",
+      "errors": []
     }
   ]
 }
