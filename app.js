@@ -46,6 +46,15 @@ function renderPapers() {
     const year = escapeHtml(paper.year || "年份待核验");
     const venue = escapeHtml(paper.venue || "来源待核验");
     const abstract = escapeHtml(paper.abstract || "暂无摘要");
+    const abstractLabel = escapeHtml(
+      (paper.abstract_source || "").includes("GPT")
+        ? "内容概述（AI整理，非原文）"
+        : "摘要"
+    );
+    const method = escapeHtml(paper.method || "");
+    const novelty = escapeHtml(paper.novelty || "");
+    const verifiedStatus = escapeHtml(paper.verified_status || "待核验");
+    const keywords = escapeHtml((paper.keywords || []).join(", "));
     const url = /^https?:\/\//i.test(paper.url || "")
       ? paper.url
       : "";
@@ -55,7 +64,11 @@ function renderPapers() {
         <h2>${title}</h2>
         <p>${authors}</p>
         <p>${year} · ${venue}</p>
-        <p>${abstract}</p>
+        <p><strong>${abstractLabel}：</strong>${abstract}</p>
+        ${method ? `<p><strong>研究方法：</strong>${method}</p>` : ""}
+        ${novelty ? `<p><strong>主要贡献：</strong>${novelty}</p>` : ""}
+        ${keywords ? `<p><strong>关键词：</strong>${keywords}</p>` : ""}
+        <p class="paper-status"><strong>核验状态：</strong>${verifiedStatus}</p>
         ${url
           ? `<a href="${escapeHtml(url)}"
                target="_blank"
