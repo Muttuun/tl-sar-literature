@@ -1474,7 +1474,45 @@
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-21",
       "verified_status": "待核验"
+    },
+    {
+      "title": "Parameter-transfer in spatial autoregressive models via model averaging",
+      "authors": [
+        "Fen Jiang",
+        "Wenhui Li",
+        "Xinyu Zhang"
+      ],
+      "year": 2025,
+      "venue": "arXiv preprint",
+      "doi": "https://doi.org/10.48550/arXiv.2507.14453",
+      "url": "https://arxiv.org/abs/2507.14453",
+      "language": "en",
+      "abstract": "本文针对空间自回归模型在目标域样本不足时的预测问题，提出将参数迁移与 Mallows 模型平均相结合的方法。该方法无需共享多源空间原始数据，并可与最大似然估计、两阶段最小二乘等参数估计方法结合。作者分析了方法的渐近最优性与权重收敛性质，并通过模拟研究及非洲感染人数预测案例进行评估。",
+      "abstract_source": "GPT根据arXiv原文摘要整理（非逐字原文）",
+      "keywords": [
+        "parameter transfer",
+        "Mallows model averaging",
+        "spatial autoregressive model",
+        "asymptotic optimality",
+        "weight convergence"
+      ],
+      "method": "基于 Mallows 模型平均的参数迁移；可与最大似然估计和两阶段最小二乘等估计方法结合。",
+      "novelty": "将参数迁移与模型平均结合用于空间自回归模型；研究渐近最优性和权重收敛，并通过模拟与感染人数预测应用验证。",
+      "matched_queries": [
+        "parameter-transfer spatial autoregressive models via model averaging",
+        "transfer learning spatial autoregressive model"
+      ],
+      "source": "arXiv",
+      "metadata_sources": [
+        "arXiv"
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "verified_status": "预印本；题名、作者、发布日期与摘要已按 arXiv 页面核对；同行评审发表状态待核验",
+      "relevance_category": "核心TL-SAR",
+      "relevance_reason": "研究主题直接涉及空间自回归模型中的参数迁移",
+      "relevance_score": 100
     }
   ],
-  "updated_at": "2026-10-21T19:06:31+08:00"
+  "updated_at": "2026-10-21T21:00:00+08:00"
 }
