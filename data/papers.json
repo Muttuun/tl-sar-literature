@@ -1,6 +1,216 @@
 {
   "papers": [
     {
+      "title": "隐私保护下基于多源域迁移学习的信用风险预警研究",
+      "authors": [
+        "王小燕",
+        "冮建伟",
+        "方匡南"
+      ],
+      "year": 2026,
+      "venue": "统计研究",
+      "doi": "",
+      "url": "https://tjyj.cbpt.cnki.net/portal",
+      "language": "zh",
+      "abstract": "提出多源域迁移方法，处理跨机构异质性与隐私限制。可参考多源权重和负迁移的实证比较。期刊目录已核实，单篇 DOI 尚未单独核实。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [],
+      "method": "提出多源域迁移方法，处理跨机构异质性与隐私限制。",
+      "novelty": "",
+      "relevance_category": "中文研究",
+      "relevance_reason": "可参考多源权重和负迁移的实证比较。期刊目录已核实，单篇 DOI 尚未单独核实。",
+      "matched_queries": [],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 47,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "提出多源域迁移方法，处理跨机构异质性与隐私限制。可参考多源权重和负迁移的实证比较。期刊目录已核实，单篇 DOI 尚未单独核实。",
+      "publication_note": "年第 9 期",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://tjyj.cbpt.cnki.net/portal"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "verified_status": "分享页导入；题录与摘要待独立核验；分享页注明单篇 DOI 尚未单独核实"
+    },
+    {
+      "title": "矩阵值时间序列的时空自回归模型及其应用",
+      "authors": [
+        "秦磊",
+        "陈阳",
+        "朱映秋",
+        "谢邦昌"
+      ],
+      "year": 2026,
+      "venue": "统计研究",
+      "doi": "https://doi.org/10.19343/j.cnki.11-1302/c.2026.04.011",
+      "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2026.04.011",
+      "language": "zh",
+      "abstract": "构造 MSTAR 模型，采用 Yule-Walker 迭代估计和减秩方法。可借鉴算法与模拟结果的衔接。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [],
+      "method": "构造 MSTAR 模型，采用 Yule-Walker 迭代估计和减秩方法。",
+      "novelty": "",
+      "relevance_category": "中文研究",
+      "relevance_reason": "可借鉴算法与模拟结果的衔接。",
+      "matched_queries": [],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 39,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "构造 MSTAR 模型，采用 Yule-Walker 迭代估计和减秩方法。可借鉴算法与模拟结果的衔接。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2026.04.011"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "多源数据的Knockoff-Cox整合分析模型及其信用违约预警应用",
+      "authors": [
+        "张中艳",
+        "王小燕"
+      ],
+      "year": 2026,
+      "venue": "统计研究",
+      "doi": "https://doi.org/10.19343/j.cnki.11-1302/c.2026.02.009",
+      "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2026.02.009",
+      "language": "zh",
+      "abstract": "结合多源整合、CMCP 惩罚和组坐标下降算法。可参考多源参数惩罚与迭代优化。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [],
+      "method": "结合多源整合、CMCP 惩罚和组坐标下降算法。",
+      "novelty": "",
+      "relevance_category": "中文研究",
+      "relevance_reason": "可参考多源参数惩罚与迭代优化。",
+      "matched_queries": [],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 48,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "结合多源整合、CMCP 惩罚和组坐标下降算法。可参考多源参数惩罚与迭代优化。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2026.02.009"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "具有可分时空过滤器的固定效应半参数单指标面板模型的估计和检验",
+      "authors": [
+        "陈建宝",
+        "李铂桂"
+      ],
+      "year": 2026,
+      "venue": "统计研究",
+      "doi": "https://doi.org/10.19343/j.cnki.11-1302/c.2026.03.010",
+      "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2026.03.010",
+      "language": "zh",
+      "abstract": "采用截面拟极大似然，证明相合性和渐进正态性。与后续 2.5 节理论证明直接相关。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [],
+      "method": "采用截面拟极大似然，证明相合性和渐进正态性。",
+      "novelty": "",
+      "relevance_category": "中文研究",
+      "relevance_reason": "与后续 2.5 节理论证明直接相关。",
+      "matched_queries": [],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 38,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "采用截面拟极大似然，证明相合性和渐进正态性。与后续 2.5 节理论证明直接相关。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2026.03.010"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "Transfer learning for spatial autoregressive models with missing responses",
+      "authors": [
+        "Yunquan Song"
+      ],
+      "year": 2026,
+      "venue": "Spatial Statistics",
+      "doi": "https://doi.org/10.1016/j.spasta.2026.100955",
+      "url": "https://doi.org/10.1016/j.spasta.2026.100955",
+      "language": "en",
+      "abstract": "结合 EM 算法与两阶段迁移学习处理响应缺失，模拟结果显示估计稳健性改善。适合参考缺失数据扩展。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Domain Adaptation and Few-Shot Learning",
+        "demographic modeling and climate adaptation"
+      ],
+      "method": "结合 EM 算法与两阶段迁移学习处理响应缺失，模拟结果显示估计稳健性改善。",
+      "novelty": "",
+      "relevance_category": "英文研究",
+      "relevance_reason": "适合参考缺失数据扩展。",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "transfer learning spatial data",
+        "transfer learning spatial regression"
+      ],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 7,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "结合 EM 算法与两阶段迁移学习处理响应缺失，模拟结果显示估计稳健性改善。适合参考缺失数据扩展。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://doi.org/10.1016/j.spasta.2026.100955"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
       "title": "Transfer learning for Box–Cox transformed spatial autoregressive models",
       "authors": [
         "Haixu Bian",
@@ -13,12 +223,19 @@
       "language": "en",
       "abstract": "将 Box-Cox 变换、SAR 与迁移学习结合，联合估计变换和回归参数，并通过 Bootstrap 筛选可迁移源域。其模拟和加州住房数据应用报告了预测改进。你需要重点比较其变换参数估计、源域筛选、目标函数与理论结论。",
       "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "demographic modeling and climate adaptation",
+        "Housing Market and Economics"
+      ],
       "method": "将 Box-Cox 变换、SAR 与迁移学习结合，联合估计变换和回归参数，并通过 Bootstrap 筛选可迁移源域。其模拟和加州住房数据应用报告了预测改进。",
       "novelty": "",
       "relevance_category": "优先阅读",
       "relevance_reason": "你需要重点比较其变换参数估计、源域筛选、目标函数与理论结论。",
-      "matched_queries": [],
+      "matched_queries": [
+        "transfer learning spatial data",
+        "transfer learning spatial regression"
+      ],
       "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
       "source_rank": 1,
       "source_date": "2026-10-21",
@@ -34,6 +251,46 @@
         {
           "name": "分享页列出的出版或索引链接",
           "url": "https://doi.org/10.1007/s00362-026-01886-z"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "Transfer learning for Box–Cox spatial autoregressive models with final-stage RDP-accounted Gaussian-perturbed fine-tuning",
+      "authors": [
+        "Jinya Liang",
+        "Yunquan Song"
+      ],
+      "year": 2026,
+      "venue": "Spatial Statistics",
+      "doi": "https://doi.org/10.1016/j.spasta.2026.101027",
+      "url": "https://doi.org/10.1016/j.spasta.2026.101027",
+      "language": "en",
+      "abstract": "在 Box-Cox SAR 迁移框架下研究隐私保护微调。应核对其模型结构与当前 TL-SAR 的重合范围。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [],
+      "method": "在 Box-Cox SAR 迁移框架下研究隐私保护微调。",
+      "novelty": "",
+      "relevance_category": "英文研究",
+      "relevance_reason": "应核对其模型结构与当前 TL-SAR 的重合范围。",
+      "matched_queries": [],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 8,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "在 Box-Cox SAR 迁移框架下研究隐私保护微调。应核对其模型结构与当前 TL-SAR 的重合范围。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://doi.org/10.1016/j.spasta.2026.101027"
         }
       ],
       "first_seen": "2026-10-21",
@@ -54,12 +311,20 @@
       "language": "en",
       "abstract": "提出 tranSAR，采用迁移与去偏两阶段估计，并通过空间残差 Bootstrap 检测有效源域。文章建立估计收敛速率及源域检测一致性。特别适合对照你目前的联合估计和理论证明路线。",
       "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "demographic modeling and climate adaptation",
+        "Regional Economic and Spatial Analysis"
+      ],
       "method": "提出 tranSAR，采用迁移与去偏两阶段估计，并通过空间残差 Bootstrap 检测有效源域。文章建立估计收敛速率及源域检测一致性。",
       "novelty": "",
       "relevance_category": "优先阅读",
       "relevance_reason": "特别适合对照你目前的联合估计和理论证明路线。",
-      "matched_queries": [],
+      "matched_queries": [
+        "spatial econometrics transfer learning",
+        "transfer learning spatial data",
+        "transfer learning spatial regression"
+      ],
       "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
       "source_rank": 2,
       "source_date": "2026-10-21",
@@ -78,129 +343,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
-    },
-    {
-      "title": "Transfer learning for high dimensional spatial autoregressive model",
-      "authors": [
-        "Yunquan Song",
-        "Xuan Chen",
-        "R. Yang",
-        "Y. Li"
-      ],
-      "year": 2025,
-      "venue": "Spatial Statistics",
-      "doi": "https://doi.org/10.1016/j.spasta.2025.100908",
-      "url": "https://doi.org/10.1016/j.spasta.2025.100908",
-      "language": "en",
-      "abstract": "针对高维 SAR 利用辅助源域数据提升目标域估计与预测，并设计源域相似性判定标准。适合比较你的连续迁移权重与已有源域判别机制。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "针对高维 SAR 利用辅助源域数据提升目标域估计与预测，并设计源域相似性判定标准。",
-      "novelty": "",
-      "relevance_category": "优先阅读",
-      "relevance_reason": "适合比较你的连续迁移权重与已有源域判别机制。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 3,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "针对高维 SAR 利用辅助源域数据提升目标域估计与预测，并设计源域相似性判定标准。适合比较你的连续迁移权重与已有源域判别机制。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.1016/j.spasta.2025.100908"
-        }
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
-    },
-    {
-      "title": "Transfer learning for semiparametric varying coefficient spatial autoregressive models",
-      "authors": [
-        "Xuan Chen",
-        "Yunquan Song"
-      ],
-      "year": 2025,
-      "venue": "Statistical Papers",
-      "doi": "https://doi.org/10.1007/s00362-025-01662-5",
-      "url": "https://doi.org/10.1007/s00362-025-01662-5",
-      "language": "en",
-      "abstract": "在半参数变系数 SAR 框架中研究迁移学习，并区分已知与未知可迁移源域。可用于比较部分异质参数结构与变系数建模的区别。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "在半参数变系数 SAR 框架中研究迁移学习，并区分已知与未知可迁移源域。",
-      "novelty": "",
-      "relevance_category": "优先阅读",
-      "relevance_reason": "可用于比较部分异质参数结构与变系数建模的区别。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 4,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "在半参数变系数 SAR 框架中研究迁移学习，并区分已知与未知可迁移源域。可用于比较部分异质参数结构与变系数建模的区别。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.1007/s00362-025-01662-5"
-        }
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
-    },
-    {
-      "title": "Weighted likelihood transfer learning for high-dimensional generalized linear models",
-      "authors": [
-        "Zhaolei Liu",
-        "Lu Lin"
-      ],
-      "year": 2024,
-      "venue": "Statistics",
-      "doi": "https://doi.org/10.1080/02331888.2024.2361861",
-      "url": "https://doi.org/10.1080/02331888.2024.2361861",
-      "language": "en",
-      "abstract": "将加权似然与正则化结合，建立估计误差界和相合性，并提出权重选择方法。与你当前的加权平均剖面对数似然目标函数有直接方法论联系。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "将加权似然与正则化结合，建立估计误差界和相合性，并提出权重选择方法。",
-      "novelty": "",
-      "relevance_category": "优先阅读",
-      "relevance_reason": "与你当前的加权平均剖面对数似然目标函数有直接方法论联系。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 5,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "将加权似然与正则化结合，建立估计误差界和相合性，并提出权重选择方法。与你当前的加权平均剖面对数似然目标函数有直接方法论联系。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.1080/02331888.2024.2361861"
-        }
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -245,165 +388,103 @@
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
-      "title": "Transfer learning for spatial autoregressive models with missing responses",
+      "title": "Trans-Glasso: A Transfer Learning Approach to Precision Matrix Estimation",
       "authors": [
-        "Yunquan Song"
+        "Boxin Zhao",
+        "Cong Ma",
+        "Mladen Kolar"
+      ],
+      "year": 2026,
+      "venue": "JASA",
+      "doi": "https://doi.org/10.1080/01621459.2025.2602856",
+      "url": "https://doi.org/10.1080/01621459.2025.2602856",
+      "language": "en",
+      "abstract": "将共享结构和差异网络估计结合，建立误差界与最优性结果。可参考共享参数加偏移结构的设计思想。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [],
+      "method": "将共享结构和差异网络估计结合，建立误差界与最优性结果。",
+      "novelty": "",
+      "relevance_category": "英文研究",
+      "relevance_reason": "可参考共享参数加偏移结构的设计思想。",
+      "matched_queries": [],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 35,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "将共享结构和差异网络估计结合，建立误差界与最优性结果。可参考共享参数加偏移结构的设计思想。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://doi.org/10.1080/01621459.2025.2602856"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "Some notes on the spatial autoregressive model",
+      "authors": [
+        "Mengling Gong",
+        "Ting Cui",
+        "Lijia Xu",
+        "Shifeng Xiong"
       ],
       "year": 2026,
       "venue": "Spatial Statistics",
-      "doi": "https://doi.org/10.1016/j.spasta.2026.100955",
-      "url": "https://doi.org/10.1016/j.spasta.2026.100955",
+      "doi": "https://doi.org/10.1016/j.spasta.2026.100994",
+      "url": "https://doi.org/10.1016/j.spasta.2026.100994",
       "language": "en",
-      "abstract": "结合 EM 算法与两阶段迁移学习处理响应缺失，模拟结果显示估计稳健性改善。适合参考缺失数据扩展。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "结合 EM 算法与两阶段迁移学习处理响应缺失，模拟结果显示估计稳健性改善。",
-      "novelty": "",
-      "relevance_category": "英文研究",
-      "relevance_reason": "适合参考缺失数据扩展。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 7,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "结合 EM 算法与两阶段迁移学习处理响应缺失，模拟结果显示估计稳健性改善。适合参考缺失数据扩展。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.1016/j.spasta.2026.100955"
-        }
+      "abstract": "",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Soil Geostatistics and Mapping",
+        "Gaussian Processes and Bayesian Inference"
       ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
     },
     {
-      "title": "Transfer learning for Box–Cox spatial autoregressive models with final-stage RDP-accounted Gaussian-perturbed fine-tuning",
+      "title": "Robust transfer learning for spatial expectile regression: linear and semi-parametric additive models",
       "authors": [
-        "Jinya Liang",
+        "Yongqi Wang",
         "Yunquan Song"
       ],
       "year": 2026,
-      "venue": "Spatial Statistics",
-      "doi": "https://doi.org/10.1016/j.spasta.2026.101027",
-      "url": "https://doi.org/10.1016/j.spasta.2026.101027",
+      "venue": "Statistical Papers",
+      "doi": "https://doi.org/10.1007/s00362-026-01904-0",
+      "url": "https://doi.org/10.1007/s00362-026-01904-0",
       "language": "en",
-      "abstract": "在 Box-Cox SAR 迁移框架下研究隐私保护微调。应核对其模型结构与当前 TL-SAR 的重合范围。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "在 Box-Cox SAR 迁移框架下研究隐私保护微调。",
+      "abstract": "",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Domain Adaptation and Few-Shot Learning",
+        "Advanced Statistical Methods and Models"
+      ],
+      "method": "",
       "novelty": "",
-      "relevance_category": "英文研究",
-      "relevance_reason": "应核对其模型结构与当前 TL-SAR 的重合范围。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 8,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "在 Box-Cox SAR 迁移框架下研究隐私保护微调。应核对其模型结构与当前 TL-SAR 的重合范围。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.1016/j.spasta.2026.101027"
-        }
+      "matched_queries": [
+        "transfer learning spatial data",
+        "transfer learning spatial regression"
       ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
-    },
-    {
-      "title": "Spatial process-based transfer learning for prediction problems",
-      "authors": [
-        "Daisuke Murakami",
-        "Mami Kajita",
-        "Seiji Kajita"
-      ],
-      "year": 2025,
-      "venue": "Journal of Geographical Systems",
-      "doi": "https://doi.org/10.1007/s10109-024-00455-y",
-      "url": "https://doi.org/10.1007/s10109-024-00455-y",
-      "language": "en",
-      "abstract": "提出 SpTrans，迁移不同地区的空间过程模式以改善小样本预测。适合参考目标域预测验证。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "提出 SpTrans，迁移不同地区的空间过程模式以改善小样本预测。",
-      "novelty": "",
-      "relevance_category": "英文研究",
-      "relevance_reason": "适合参考目标域预测验证。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 9,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "提出 SpTrans，迁移不同地区的空间过程模式以改善小样本预测。适合参考目标域预测验证。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.1007/s10109-024-00455-y"
-        }
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
-    },
-    {
-      "title": "Sparse spatio-temporal autoregressions by profiling and bagging",
-      "authors": [
-        "Yingying Ma",
-        "Shaojun Guo",
-        "Hansheng Wang"
-      ],
-      "year": 2023,
-      "venue": "Journal of Econometrics",
-      "doi": "",
-      "url": "https://ideas.repec.org/a/eee/econom/v232y2023i1p132-147.html",
-      "language": "en",
-      "abstract": "结合剖面处理、GMM、Bagging 和稀疏选择，研究时空自回归估计及渐近性质。适合参考剖面估计与算法设计。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "结合剖面处理、GMM、Bagging 和稀疏选择，研究时空自回归估计及渐近性质。",
-      "novelty": "",
-      "relevance_category": "英文研究",
-      "relevance_reason": "适合参考剖面估计与算法设计。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 10,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "结合剖面处理、GMM、Bagging 和稀疏选择，研究时空自回归估计及渐近性质。适合参考剖面估计与算法设计。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://ideas.repec.org/a/eee/econom/v232y2023i1p132-147.html"
-        }
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
     },
     {
       "title": "Robust Estimation for the Spatial Autoregressive Model",
@@ -420,12 +501,19 @@
       "language": "en",
       "abstract": "研究 SAR 的稳健估计与理论性质，可用于评估 TL-SAR 正态误差假设的局限。",
       "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Advanced Statistical Methods and Models",
+        "Statistical and numerical algorithms"
+      ],
       "method": "研究 SAR 的稳健估计与理论性质，",
       "novelty": "",
       "relevance_category": "英文研究",
       "relevance_reason": "可用于评估 TL-SAR 正态误差假设的局限。",
-      "matched_queries": [],
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
       "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
       "source_rank": 11,
       "source_date": "2026-10-21",
@@ -444,251 +532,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
-    },
-    {
-      "title": "Consistent Non-Gaussian Pseudo Maximum Likelihood Estimators of Spatial Autoregressive Models",
-      "authors": [
-        "Fei Jin",
-        "Yuqin Wang"
-      ],
-      "year": 2024,
-      "venue": "Econometric Theory",
-      "doi": "https://doi.org/10.1017/S0266466623000026",
-      "url": "https://doi.org/10.1017/S0266466623000026",
-      "language": "en",
-      "abstract": "在非高斯情形下建立伪极大似然估计的相合性条件。值得借鉴参数识别和空间矩阵条件的论证方式。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "在非高斯情形下建立伪极大似然估计的相合性条件。",
-      "novelty": "",
-      "relevance_category": "英文研究",
-      "relevance_reason": "值得借鉴参数识别和空间矩阵条件的论证方式。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 12,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "在非高斯情形下建立伪极大似然估计的相合性条件。值得借鉴参数识别和空间矩阵条件的论证方式。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.1017/S0266466623000026"
-        }
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
-    },
-    {
-      "title": "QML and Efficient GMM Estimation of Spatial Autoregressive Models with Dominant (Popular) Units",
-      "authors": [
-        "Lung-Fei Lee",
-        "Chao Yang",
-        "Jihai Yu"
-      ],
-      "year": 2023,
-      "venue": "Journal of Business & Economic Statistics",
-      "doi": "https://doi.org/10.1080/07350015.2022.2041424",
-      "url": "https://doi.org/10.1080/07350015.2022.2041424",
-      "language": "en",
-      "abstract": "放宽空间权重矩阵列和有界条件，建立中心极限定理及 QML/GMM 渐近分布。适合参考空间依赖正则条件。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "放宽空间权重矩阵列和有界条件，建立中心极限定理及 QML/GMM 渐近分布。",
-      "novelty": "",
-      "relevance_category": "英文研究",
-      "relevance_reason": "适合参考空间依赖正则条件。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 13,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "放宽空间权重矩阵列和有界条件，建立中心极限定理及 QML/GMM 渐近分布。适合参考空间依赖正则条件。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.1080/07350015.2022.2041424"
-        }
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
-    },
-    {
-      "title": "Estimation of spatial autoregressive panel data models with nonparametric endogenous effect",
-      "authors": [
-        "Zixin Yang",
-        "Xiaojun Song",
-        "Jihai Yu"
-      ],
-      "year": 2025,
-      "venue": "Journal of Econometrics",
-      "doi": "https://doi.org/10.1016/j.jeconom.2025.106112",
-      "url": "https://doi.org/10.1016/j.jeconom.2025.106112",
-      "language": "en",
-      "abstract": "利用筛估计与 GMM 处理非参数内生效应，证明相合性和渐进正态性。适合参考联合参数的理论推导。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "利用筛估计与 GMM 处理非参数内生效应，证明相合性和渐进正态性。",
-      "novelty": "",
-      "relevance_category": "英文研究",
-      "relevance_reason": "适合参考联合参数的理论推导。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 14,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "利用筛估计与 GMM 处理非参数内生效应，证明相合性和渐进正态性。适合参考联合参数的理论推导。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.1016/j.jeconom.2025.106112"
-        }
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
-    },
-    {
-      "title": "Maximum likelihood estimation of a spatial autoregressive model for origin–destination flow variables",
-      "authors": [
-        "Hanbat Jeong",
-        "Lung-Fei Lee"
-      ],
-      "year": 2024,
-      "venue": "Journal of Econometrics",
-      "doi": "",
-      "url": "https://econpapers.repec.org/article/eeeeconom/v_3a242_3ay_3a2024_3ai_3a1_3as0304407624001362.htm",
-      "language": "en",
-      "abstract": "建立空间流量模型的极大似然估计与渐近理论，使用空间近历程依赖条件。可参考非独立空间样本的渐近处理。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "建立空间流量模型的极大似然估计与渐近理论，使用空间近历程依赖条件。",
-      "novelty": "",
-      "relevance_category": "英文研究",
-      "relevance_reason": "可参考非独立空间样本的渐近处理。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 15,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "建立空间流量模型的极大似然估计与渐近理论，使用空间近历程依赖条件。可参考非独立空间样本的渐近处理。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://econpapers.repec.org/article/eeeeconom/v_3a242_3ay_3a2024_3ai_3a1_3as0304407624001362.htm"
-        }
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
-    },
-    {
-      "title": "Threshold spatial autoregressive model",
-      "authors": [
-        "Kunpeng Li",
-        "Wei Lin"
-      ],
-      "year": 2024,
-      "venue": "Journal of Econometrics",
-      "doi": "",
-      "url": "https://econpapers.repec.org/article/eeeeconom/v_3a244_3ay_3a2024_3ai_3a1_3as0304407624001866.htm",
-      "language": "en",
-      "abstract": "研究门槛 SAR 的 QML 推断、Bootstrap 检验和有限样本性质。适合参考复杂 SAR 的理论与模拟组织方式。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "研究门槛 SAR 的 QML 推断、Bootstrap 检验和有限样本性质。",
-      "novelty": "",
-      "relevance_category": "英文研究",
-      "relevance_reason": "适合参考复杂 SAR 的理论与模拟组织方式。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 16,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "研究门槛 SAR 的 QML 推断、Bootstrap 检验和有限样本性质。适合参考复杂 SAR 的理论与模拟组织方式。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://econpapers.repec.org/article/eeeeconom/v_3a244_3ay_3a2024_3ai_3a1_3as0304407624001866.htm"
-        }
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
-    },
-    {
-      "title": "Estimation and testing of time-varying coefficients spatial autoregressive panel data model",
-      "authors": [
-        "L. Tian",
-        "C. Wei",
-        "W. Ding",
-        "M. Wu"
-      ],
-      "year": 2025,
-      "venue": "Spatial Statistics",
-      "doi": "https://doi.org/10.1016/j.spasta.2025.100922",
-      "url": "https://doi.org/10.1016/j.spasta.2025.100922",
-      "language": "en",
-      "abstract": "对时变系数 SAR 建立两阶段最小二乘估计及渐进正态性，利用 Bootstrap 检验参数稳定性。适合参考异质参数检验。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "对时变系数 SAR 建立两阶段最小二乘估计及渐进正态性，利用 Bootstrap 检验参数稳定性。",
-      "novelty": "",
-      "relevance_category": "英文研究",
-      "relevance_reason": "适合参考异质参数检验。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 17,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "对时变系数 SAR 建立两阶段最小二乘估计及渐进正态性，利用 Bootstrap 检验参数稳定性。适合参考异质参数检验。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.1016/j.spasta.2025.100922"
-        }
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -773,111 +617,88 @@
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
-      "title": "Efficient closed-form estimation of large spatial autoregressions",
+      "title": "Heterogeneous Transfer Learning for Linear Regression Model with Heteroscedasticity",
       "authors": [
-        "Abhimanyu Gupta"
+        "Hongxia Hao",
+        "Hongqian Hu",
+        "Yao Cheng"
       ],
-      "year": 2023,
-      "venue": "Journal of Econometrics",
-      "doi": "https://doi.org/10.1016/j.jeconom.2021.05.005",
-      "url": "https://doi.org/10.1016/j.jeconom.2021.05.005",
+      "year": 2026,
+      "venue": "Mathematics",
+      "doi": "https://doi.org/10.3390/math14081395",
+      "url": "https://doi.org/10.3390/math14081395",
       "language": "en",
-      "abstract": "使用 Newton-step 近似构造计算简便的估计量，并研究与极大似然估计的渐近效率关系。对算法输出渐近等价性证明很有参考价值。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "使用 Newton-step 近似构造计算简便的估计量，并研究与极大似然估计的渐近效率关系。",
-      "novelty": "",
-      "relevance_category": "英文研究",
-      "relevance_reason": "对算法输出渐近等价性证明很有参考价值。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 20,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "使用 Newton-step 近似构造计算简便的估计量，并研究与极大似然估计的渐近效率关系。对算法输出渐近等价性证明很有参考价值。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.1016/j.jeconom.2021.05.005"
-        }
+      "abstract": "We consider the transfer learning problem in the linear regression model, where the source domain and target domain have different features and the model exhibits heteroscedasticity. The existing homogeneous transfer learning methods cannot yet handle this type of problem. In this work, a transfer learning algorithm is proposed, which integrates data of varying dimensions and accounts for heteroscedasticity, thereby yielding a data-pooling estimator. The algorithm is simple to implement and easy to operate. The theoretical properties of the proposed estimator are established, including an upper bound on the generalization error and robustness against negative transfer. Simulation studies indicate that the proposed method performs well in terms of parameter estimation. The effectiveness of the proposed method is also validated using real-life datasets in UCI public repository, demonstrating favorable performance compared to the existing methods.",
+      "keywords": [
+        "Domain Adaptation and Few-Shot Learning",
+        "Machine Learning and Algorithms",
+        "Statistical Methods and Inference"
       ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial econometrics transfer learning",
+        "transfer learning spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
     },
     {
-      "title": "A Bayesian estimation approach for heterogeneous spatial autoregressive model with hierarchical data structure",
+      "title": "Fast and scalable variable selection for spatial autoregressive models",
       "authors": [
-        "Miao Long",
-        "Zhimeng Sun",
-        "Yonghong Hu"
+        "Michael Balzer"
       ],
-      "year": 2025,
-      "venue": "Journal of Spatial Science",
-      "doi": "https://doi.org/10.1080/14498596.2025.2485244",
-      "url": "https://doi.org/10.1080/14498596.2025.2485244",
+      "year": 2026,
+      "venue": "Statistical Papers",
+      "doi": "https://doi.org/10.1007/s00362-026-01819-w",
+      "url": "https://doi.org/10.1007/s00362-026-01819-w",
       "language": "en",
-      "abstract": "在层次 SAR 中允许异方差，使用 MCMC 估计。可作为部分异质模型的对比文献。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "在层次 SAR 中允许异方差，使用 MCMC 估计。",
-      "novelty": "",
-      "relevance_category": "英文研究",
-      "relevance_reason": "可作为部分异质模型的对比文献。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 21,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "在层次 SAR 中允许异方差，使用 MCMC 估计。可作为部分异质模型的对比文献。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.1080/14498596.2025.2485244"
-        }
+      "abstract": "Abstract In urban and regional studies, spatial autoregressive models are widely employed to capture spatial patterns and a dependence structure in data. While numerous variable selection techniques based on the likelihood principle with favorable theoretical properties have been proposed, the practical applicability is limited by the computational burden of repeatedly evaluating the logarithm of the Jacobian occurring in the quasi log-likelihood which scales poorly with the number of observations. In this article, variable selection techniques that leverage a closed-form estimator for the spatial autoregressive parameter are discussed. The closed-form estimator in combination with spatial-cross validation techniques for regularization parameter tuning enables fast and scalable variable selection utilizing the least absolute shrinkage and selection operator as well as $$L_2$$ L 2 -boosting while preserving theoretical properties and ensuring computational efficiency. Furthermore, a dimensionality reduction approach is proposed that enables feasibility in high-dimensional settings where classical quasi-maximum likelihood or two-stage least squares estimators may fail to yield unique solutions. Monte Carlo experiments confirm proper functionality of the proposed methodology while the potential application is illustrated by investigating the drivers of life expectancy in German districts.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Statistical Methods and Inference",
+        "Advanced Statistical Methods and Models"
       ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
     },
     {
-      "title": "A Semiparametric Bayesian Approach to Heterogeneous Spatial Autoregressive Models",
+      "title": "Bayesian local influence analysis for the spatial autoregressive combined model",
       "authors": [
-        "Ting Liu",
-        "Dengke Xu",
-        "Shiqi Ke"
+        "Yonghui Liu",
+        "Sai Yan",
+        "Tianyifeng Chu",
+        "Shuangzhe Liu"
       ],
-      "year": 2024,
-      "venue": "Entropy",
-      "doi": "https://doi.org/10.3390/e26060498",
-      "url": "https://doi.org/10.3390/e26060498",
+      "year": 2026,
+      "venue": "Spatial Statistics",
+      "doi": "https://doi.org/10.1016/j.spasta.2026.101001",
+      "url": "https://doi.org/10.1016/j.spasta.2026.101001",
       "language": "en",
-      "abstract": "将异方差结构引入半参数 SAR，采用贝叶斯估计。可用于说明区域异质性与误差异质性的区别。",
+      "abstract": "建立空间滞后与空间误差联合模型的局部影响诊断。可参考异常观测敏感性分析。",
       "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
       "keywords": [],
-      "method": "将异方差结构引入半参数 SAR，采用贝叶斯估计。",
+      "method": "建立空间滞后与空间误差联合模型的局部影响诊断。",
       "novelty": "",
       "relevance_category": "英文研究",
-      "relevance_reason": "可用于说明区域异质性与误差异质性的区别。",
+      "relevance_reason": "可参考异常观测敏感性分析。",
       "matched_queries": [],
       "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 22,
+      "source_rank": 25,
       "source_date": "2026-10-21",
       "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
       "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "将异方差结构引入半参数 SAR，采用贝叶斯估计。可用于说明区域异质性与误差异质性的区别。",
+      "source_excerpt": "建立空间滞后与空间误差联合模型的局部影响诊断。可参考异常观测敏感性分析。",
       "publication_note": "",
       "metadata_sources": [
         {
@@ -886,48 +707,7 @@
         },
         {
           "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.3390/e26060498"
-        }
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
-    },
-    {
-      "title": "A Penalized Profile Quasi-Likelihood Method for a Semiparametric Varying Coefficient Spatial Autoregressive Panel Model with Fixed Effects",
-      "authors": [
-        "Ruiqin Tian",
-        "Miaojie Xia",
-        "Dengke Xu"
-      ],
-      "year": 2025,
-      "venue": "Axioms",
-      "doi": "https://doi.org/10.3390/axioms14020121",
-      "url": "https://doi.org/10.3390/axioms14020121",
-      "language": "en",
-      "abstract": "将剖面拟似然与惩罚变量选择结合，避免单独估计固定效应。适合参考剖面化与正则化的数学衔接。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "将剖面拟似然与惩罚变量选择结合，避免单独估计固定效应。",
-      "novelty": "",
-      "relevance_category": "英文研究",
-      "relevance_reason": "适合参考剖面化与正则化的数学衔接。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 23,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "将剖面拟似然与惩罚变量选择结合，避免单独估计固定效应。适合参考剖面化与正则化的数学衔接。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.3390/axioms14020121"
+          "url": "https://doi.org/10.1016/j.spasta.2026.101001"
         }
       ],
       "first_seen": "2026-10-21",
@@ -976,88 +756,6 @@
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
-      "title": "Bayesian local influence analysis for the spatial autoregressive combined model",
-      "authors": [
-        "Yonghui Liu",
-        "Sai Yan",
-        "Tianyifeng Chu",
-        "Shuangzhe Liu"
-      ],
-      "year": 2026,
-      "venue": "Spatial Statistics",
-      "doi": "https://doi.org/10.1016/j.spasta.2026.101001",
-      "url": "https://doi.org/10.1016/j.spasta.2026.101001",
-      "language": "en",
-      "abstract": "建立空间滞后与空间误差联合模型的局部影响诊断。可参考异常观测敏感性分析。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "建立空间滞后与空间误差联合模型的局部影响诊断。",
-      "novelty": "",
-      "relevance_category": "英文研究",
-      "relevance_reason": "可参考异常观测敏感性分析。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 25,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "建立空间滞后与空间误差联合模型的局部影响诊断。可参考异常观测敏感性分析。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.1016/j.spasta.2026.101001"
-        }
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
-    },
-    {
-      "title": "Characterization and estimation of heterogeneous spatial autocorrelation in spatial autoregressive models",
-      "authors": [
-        "Jing Zhao",
-        "Yue Pu"
-      ],
-      "year": 2025,
-      "venue": "PLOS ONE",
-      "doi": "https://doi.org/10.1371/journal.pone.0327316",
-      "url": "https://doi.org/10.1371/journal.pone.0327316",
-      "language": "en",
-      "abstract": "利用单指标变系数形式刻画空间相关系数异质性。适合与当前按域设置参数偏移的方案比较。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "利用单指标变系数形式刻画空间相关系数异质性。",
-      "novelty": "",
-      "relevance_category": "英文研究",
-      "relevance_reason": "适合与当前按域设置参数偏移的方案比较。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 26,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "利用单指标变系数形式刻画空间相关系数异质性。适合与当前按域设置参数偏移的方案比较。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.1371/journal.pone.0327316"
-        }
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
-    },
-    {
       "title": "A geographically neural network weighted regression with spatial autoregressive model: model design, estimation, and variable selection",
       "authors": [
         "Feng Chen",
@@ -1099,192 +797,31 @@
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
-      "title": "A multivariate spatial and spatiotemporal ARCH model",
+      "title": "贝叶斯时空统计方法及应用进展与趋势",
       "authors": [
-        "Philipp Otto"
-      ],
-      "year": 2024,
-      "venue": "Spatial Statistics",
-      "doi": "https://doi.org/10.1016/j.spasta.2024.100823",
-      "url": "https://doi.org/10.1016/j.spasta.2024.100823",
-      "language": "en",
-      "abstract": "构建多变量空间 ARCH 模型并推导 QML 相合性，使用 Monte Carlo 评估有限样本表现。可借鉴模拟设计。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "构建多变量空间 ARCH 模型并推导 QML 相合性，使用 Monte Carlo 评估有限样本表现。",
-      "novelty": "",
-      "relevance_category": "英文研究",
-      "relevance_reason": "可借鉴模拟设计。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 28,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "构建多变量空间 ARCH 模型并推导 QML 相合性，使用 Monte Carlo 评估有限样本表现。可借鉴模拟设计。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.1016/j.spasta.2024.100823"
-        }
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
-    },
-    {
-      "title": "Transfer Learning for High-Dimensional Linear Regression: Prediction, Estimation and Minimax Optimality",
-      "authors": [
-        "Sai Li",
-        "T. Tony Cai",
-        "Hongzhe Li"
-      ],
-      "year": 2022,
-      "venue": "JRSS Series B",
-      "doi": "https://doi.org/10.1111/rssb.12479",
-      "url": "https://doi.org/10.1111/rssb.12479",
-      "language": "en",
-      "abstract": "提出 Trans-Lasso，研究有效源域未知时的迁移估计、最优速率及负迁移鲁棒性。是多源迁移统计理论的重要基础。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "提出 Trans-Lasso，研究有效源域未知时的迁移估计、最优速率及负迁移鲁棒性。",
-      "novelty": "",
-      "relevance_category": "英文研究",
-      "relevance_reason": "是多源迁移统计理论的重要基础。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 29,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "提出 Trans-Lasso，研究有效源域未知时的迁移估计、最优速率及负迁移鲁棒性。是多源迁移统计理论的重要基础。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.1111/rssb.12479"
-        }
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
-    },
-    {
-      "title": "Transfer Learning Under High-Dimensional Generalized Linear Models",
-      "authors": [
-        "Ye Tian",
-        "Yang Feng"
-      ],
-      "year": 2023,
-      "venue": "JASA",
-      "doi": "https://doi.org/10.1080/01621459.2022.2071278",
-      "url": "https://doi.org/10.1080/01621459.2022.2071278",
-      "language": "en",
-      "abstract": "研究 GLM 的多源迁移、有效源域检测和估计误差界。可参考源域筛选一致性与目标域推断。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "研究 GLM 的多源迁移、有效源域检测和估计误差界。",
-      "novelty": "",
-      "relevance_category": "英文研究",
-      "relevance_reason": "可参考源域筛选一致性与目标域推断。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 30,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "研究 GLM 的多源迁移、有效源域检测和估计误差界。可参考源域筛选一致性与目标域推断。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.1080/01621459.2022.2071278"
-        }
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
-    },
-    {
-      "title": "Transfer Learning with Large-Scale Quantile Regression",
-      "authors": [
-        "Jun Jin",
-        "Jun Yan",
-        "Robert H. Aseltine",
-        "Kun Chen"
-      ],
-      "year": 2024,
-      "venue": "Technometrics",
-      "doi": "https://doi.org/10.1080/00401706.2024.2315952",
-      "url": "https://doi.org/10.1080/00401706.2024.2315952",
-      "language": "en",
-      "abstract": "通过识别有用源域改善目标域分位数回归。可参考非正态数据下的迁移评价。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "通过识别有用源域改善目标域分位数回归。",
-      "novelty": "",
-      "relevance_category": "英文研究",
-      "relevance_reason": "可参考非正态数据下的迁移评价。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 31,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "通过识别有用源域改善目标域分位数回归。可参考非正态数据下的迁移评价。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.1080/00401706.2024.2315952"
-        }
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
-    },
-    {
-      "title": "Transfer learning for piecewise-constant mean estimation: optimality, ℓ1 and ℓ0 penalization",
-      "authors": [
-        "F. Wang",
-        "Y. Yu"
+        "李俊明",
+        "胡雅璇",
+        "王楠楠等"
       ],
       "year": 2025,
-      "venue": "Biometrika",
-      "doi": "https://doi.org/10.1093/biomet/asaf018",
-      "url": "https://doi.org/10.1093/biomet/asaf018",
-      "language": "en",
-      "abstract": "研究源域异质条件下分段常数信号的迁移与惩罚估计最优性。可借鉴偏移惩罚的理论处理。",
+      "venue": "地球信息科学学报",
+      "doi": "https://doi.org/10.12082/dqxxkx.2025.250161",
+      "url": "https://doi.org/10.12082/dqxxkx.2025.250161",
+      "language": "zh",
+      "abstract": "综述时空统计、层次建模和多源异构数据融合的发展。适合文献综述的背景部分。",
       "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
       "keywords": [],
-      "method": "研究源域异质条件下分段常数信号的迁移与惩罚估计最优性。",
+      "method": "综述时空统计、层次建模和多源异构数据融合的发展。",
       "novelty": "",
-      "relevance_category": "英文研究",
-      "relevance_reason": "可借鉴偏移惩罚的理论处理。",
+      "relevance_category": "中文研究",
+      "relevance_reason": "适合文献综述的背景部分。",
       "matched_queries": [],
       "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 32,
+      "source_rank": 45,
       "source_date": "2026-10-21",
       "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
       "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "研究源域异质条件下分段常数信号的迁移与惩罚估计最优性。可借鉴偏移惩罚的理论处理。",
+      "source_excerpt": "综述时空统计、层次建模和多源异构数据融合的发展。适合文献综述的背景部分。",
       "publication_note": "",
       "metadata_sources": [
         {
@@ -1293,131 +830,7 @@
         },
         {
           "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.1093/biomet/asaf018"
-        }
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
-    },
-    {
-      "title": "Semi-Supervised Triply Robust Inductive Transfer Learning",
-      "authors": [
-        "Tianxi Cai",
-        "Mengyan Li",
-        "Molei Liu"
-      ],
-      "year": 2025,
-      "venue": "JASA",
-      "doi": "https://doi.org/10.1080/01621459.2024.2393463",
-      "url": "https://doi.org/10.1080/01621459.2024.2393463",
-      "language": "en",
-      "abstract": "结合协变量分布偏移、密度比和插补模型实现稳健迁移。可参考不同域分布不一致时的理论条件。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "结合协变量分布偏移、密度比和插补模型实现稳健迁移。",
-      "novelty": "",
-      "relevance_category": "英文研究",
-      "relevance_reason": "可参考不同域分布不一致时的理论条件。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 33,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "结合协变量分布偏移、密度比和插补模型实现稳健迁移。可参考不同域分布不一致时的理论条件。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.1080/01621459.2024.2393463"
-        }
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
-    },
-    {
-      "title": "Doubly Robust Augmented Model Accuracy Transfer Inference with High Dimensional Features",
-      "authors": [
-        "Doudou Zhou",
-        "Molei Liu",
-        "Mengyan Li",
-        "Tianxi Cai"
-      ],
-      "year": 2025,
-      "venue": "JASA",
-      "doi": "https://doi.org/10.1080/01621459.2024.2356291",
-      "url": "https://doi.org/10.1080/01621459.2024.2356291",
-      "language": "en",
-      "abstract": "研究高维特征下的双重稳健迁移推断。适合借鉴目标域预测准确性的统计评价。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "研究高维特征下的双重稳健迁移推断。",
-      "novelty": "",
-      "relevance_category": "英文研究",
-      "relevance_reason": "适合借鉴目标域预测准确性的统计评价。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 34,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "研究高维特征下的双重稳健迁移推断。适合借鉴目标域预测准确性的统计评价。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.1080/01621459.2024.2356291"
-        }
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
-    },
-    {
-      "title": "Trans-Glasso: A Transfer Learning Approach to Precision Matrix Estimation",
-      "authors": [
-        "Boxin Zhao",
-        "Cong Ma",
-        "Mladen Kolar"
-      ],
-      "year": 2026,
-      "venue": "JASA",
-      "doi": "https://doi.org/10.1080/01621459.2025.2602856",
-      "url": "https://doi.org/10.1080/01621459.2025.2602856",
-      "language": "en",
-      "abstract": "将共享结构和差异网络估计结合，建立误差界与最优性结果。可参考共享参数加偏移结构的设计思想。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "将共享结构和差异网络估计结合，建立误差界与最优性结果。",
-      "novelty": "",
-      "relevance_category": "英文研究",
-      "relevance_reason": "可参考共享参数加偏移结构的设计思想。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 35,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "将共享结构和差异网络估计结合，建立误差界与最优性结果。可参考共享参数加偏移结构的设计思想。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.1080/01621459.2025.2602856"
+          "url": "https://doi.org/10.12082/dqxxkx.2025.250161"
         }
       ],
       "first_seen": "2026-10-21",
@@ -1457,292 +870,6 @@
         {
           "name": "分享页列出的出版或索引链接",
           "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2025.04.011"
-        }
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
-    },
-    {
-      "title": "未知空间权重矩阵及固定效应下空间自回归模型估计——以两层次市场发展格局为例",
-      "authors": [
-        "罗学洪",
-        "林金官",
-        "汪红霞"
-      ],
-      "year": 2025,
-      "venue": "统计研究",
-      "doi": "https://doi.org/10.19343/j.cnki.11-1302/c.2025.01.010",
-      "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2025.01.010",
-      "language": "zh",
-      "abstract": "处理未知非对称空间矩阵与固定效应，结合 Yule-Walker 和 GMM 估计。可参考空间矩阵可识别性及渐近假设。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "处理未知非对称空间矩阵与固定效应，结合 Yule-Walker 和 GMM 估计。",
-      "novelty": "",
-      "relevance_category": "中文研究",
-      "relevance_reason": "可参考空间矩阵可识别性及渐近假设。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 37,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "处理未知非对称空间矩阵与固定效应，结合 Yule-Walker 和 GMM 估计。可参考空间矩阵可识别性及渐近假设。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2025.01.010"
-        }
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
-    },
-    {
-      "title": "具有可分时空过滤器的固定效应半参数单指标面板模型的估计和检验",
-      "authors": [
-        "陈建宝",
-        "李铂桂"
-      ],
-      "year": 2026,
-      "venue": "统计研究",
-      "doi": "https://doi.org/10.19343/j.cnki.11-1302/c.2026.03.010",
-      "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2026.03.010",
-      "language": "zh",
-      "abstract": "采用截面拟极大似然，证明相合性和渐进正态性。与后续 2.5 节理论证明直接相关。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "采用截面拟极大似然，证明相合性和渐进正态性。",
-      "novelty": "",
-      "relevance_category": "中文研究",
-      "relevance_reason": "与后续 2.5 节理论证明直接相关。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 38,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "采用截面拟极大似然，证明相合性和渐进正态性。与后续 2.5 节理论证明直接相关。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2026.03.010"
-        }
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
-    },
-    {
-      "title": "矩阵值时间序列的时空自回归模型及其应用",
-      "authors": [
-        "秦磊",
-        "陈阳",
-        "朱映秋",
-        "谢邦昌"
-      ],
-      "year": 2026,
-      "venue": "统计研究",
-      "doi": "https://doi.org/10.19343/j.cnki.11-1302/c.2026.04.011",
-      "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2026.04.011",
-      "language": "zh",
-      "abstract": "构造 MSTAR 模型，采用 Yule-Walker 迭代估计和减秩方法。可借鉴算法与模拟结果的衔接。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "构造 MSTAR 模型，采用 Yule-Walker 迭代估计和减秩方法。",
-      "novelty": "",
-      "relevance_category": "中文研究",
-      "relevance_reason": "可借鉴算法与模拟结果的衔接。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 39,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "构造 MSTAR 模型，采用 Yule-Walker 迭代估计和减秩方法。可借鉴算法与模拟结果的衔接。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2026.04.011"
-        }
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
-    },
-    {
-      "title": "空间动态面板非线性Logistic模型的QML估计",
-      "authors": [
-        "徐晔",
-        "欧阳婉桦"
-      ],
-      "year": 2023,
-      "venue": "统计研究",
-      "doi": "https://doi.org/10.19343/j.cnki.11-1302/c.2023.10.010",
-      "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2023.10.010",
-      "language": "zh",
-      "abstract": "提出 QML 估计与修正方法，证明一致性并通过模拟分析有限样本偏差。可参考渐近与模拟部分的写作结构。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "提出 QML 估计与修正方法，证明一致性并通过模拟分析有限样本偏差。",
-      "novelty": "",
-      "relevance_category": "中文研究",
-      "relevance_reason": "可参考渐近与模拟部分的写作结构。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 40,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "提出 QML 估计与修正方法，证明一致性并通过模拟分析有限样本偏差。可参考渐近与模拟部分的写作结构。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2023.10.010"
-        }
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
-    },
-    {
-      "title": "东道国制度环境、市场规模和中国对外直接投资——基于“一带一路”国家的半参数变系数空间面板模型",
-      "authors": [
-        "刘玉",
-        "唐礼智",
-        "金梦洁"
-      ],
-      "year": 2023,
-      "venue": "统计研究",
-      "doi": "https://doi.org/10.19343/j.cnki.11-1302/c.2023.03.007",
-      "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2023.03.007",
-      "language": "zh",
-      "abstract": "使用截面似然估计半参数空间模型，并讨论渐近性质。可参考似然估计的应用写法。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "使用截面似然估计半参数空间模型，并讨论渐近性质。",
-      "novelty": "",
-      "relevance_category": "中文研究",
-      "relevance_reason": "可参考似然估计的应用写法。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 41,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "使用截面似然估计半参数空间模型，并讨论渐近性质。可参考似然估计的应用写法。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2023.03.007"
-        }
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
-    },
-    {
-      "title": "异质性空间随机前沿模型的参数估计及应用",
-      "authors": [
-        "冯冬发",
-        "张涛",
-        "李奥",
-        "宫汝娜"
-      ],
-      "year": 2023,
-      "venue": "统计研究",
-      "doi": "https://doi.org/10.19343/j.cnki.11-1302/c.2023.01.011",
-      "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2023.01.011",
-      "language": "zh",
-      "abstract": "研究空间相关下的异质性随机前沿参数估计。可参考异质性与空间依赖的联合建模。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "研究空间相关下的异质性随机前沿参数估计。",
-      "novelty": "",
-      "relevance_category": "中文研究",
-      "relevance_reason": "可参考异质性与空间依赖的联合建模。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 42,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "研究空间相关下的异质性随机前沿参数估计。可参考异质性与空间依赖的联合建模。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2023.01.011"
-        }
-      ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验"
-    },
-    {
-      "title": "部分线性可加空间滞后分位数回归模型的贝叶斯估计——基于自由节点样条的研究",
-      "authors": [
-        "陶长琪",
-        "徐玉婷"
-      ],
-      "year": 2024,
-      "venue": "计量经济学报",
-      "doi": "https://doi.org/10.12012/CJoE2023-0050",
-      "url": "https://doi.org/10.12012/CJoE2023-0050",
-      "language": "zh",
-      "abstract": "采用自由节点样条和贝叶斯方法估计空间滞后分位数模型。适合对比参数异质性处理方式。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "采用自由节点样条和贝叶斯方法估计空间滞后分位数模型。",
-      "novelty": "",
-      "relevance_category": "中文研究",
-      "relevance_reason": "适合对比参数异质性处理方式。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 43,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "采用自由节点样条和贝叶斯方法估计空间滞后分位数模型。适合对比参数异质性处理方式。",
-      "publication_note": "",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.12012/CJoE2023-0050"
         }
       ],
       "first_seen": "2026-10-21",
@@ -1792,31 +919,31 @@
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
-      "title": "贝叶斯时空统计方法及应用进展与趋势",
+      "title": "未知空间权重矩阵及固定效应下空间自回归模型估计——以两层次市场发展格局为例",
       "authors": [
-        "李俊明",
-        "胡雅璇",
-        "王楠楠等"
+        "罗学洪",
+        "林金官",
+        "汪红霞"
       ],
       "year": 2025,
-      "venue": "地球信息科学学报",
-      "doi": "https://doi.org/10.12082/dqxxkx.2025.250161",
-      "url": "https://doi.org/10.12082/dqxxkx.2025.250161",
+      "venue": "统计研究",
+      "doi": "https://doi.org/10.19343/j.cnki.11-1302/c.2025.01.010",
+      "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2025.01.010",
       "language": "zh",
-      "abstract": "综述时空统计、层次建模和多源异构数据融合的发展。适合文献综述的背景部分。",
+      "abstract": "处理未知非对称空间矩阵与固定效应，结合 Yule-Walker 和 GMM 估计。可参考空间矩阵可识别性及渐近假设。",
       "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
       "keywords": [],
-      "method": "综述时空统计、层次建模和多源异构数据融合的发展。",
+      "method": "处理未知非对称空间矩阵与固定效应，结合 Yule-Walker 和 GMM 估计。",
       "novelty": "",
       "relevance_category": "中文研究",
-      "relevance_reason": "适合文献综述的背景部分。",
+      "relevance_reason": "可参考空间矩阵可识别性及渐近假设。",
       "matched_queries": [],
       "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 45,
+      "source_rank": 37,
       "source_date": "2026-10-21",
       "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
       "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "综述时空统计、层次建模和多源异构数据融合的发展。适合文献综述的背景部分。",
+      "source_excerpt": "处理未知非对称空间矩阵与固定效应，结合 Yule-Walker 和 GMM 估计。可参考空间矩阵可识别性及渐近假设。",
       "publication_note": "",
       "metadata_sources": [
         {
@@ -1825,7 +952,48 @@
         },
         {
           "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.12082/dqxxkx.2025.250161"
+          "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2025.01.010"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "多元非负稀疏降秩回归及其在指数追踪中的应用",
+      "authors": [
+        "张来江",
+        "许腾腾",
+        "张日权"
+      ],
+      "year": 2025,
+      "venue": "统计研究",
+      "doi": "https://doi.org/10.19343/j.cnki.11-1302/c.2025.08.010",
+      "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2025.08.010",
+      "language": "zh",
+      "abstract": "研究非负稀疏降秩回归与 Huber 损失下的估计误差界。与 SAR 迁移并非直接相关，但可作为正则化估计和稳健性分析的辅助参考。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [],
+      "method": "研究非负稀疏降秩回归与 Huber 损失下的估计误差界。",
+      "novelty": "",
+      "relevance_category": "中文研究",
+      "relevance_reason": "与 SAR 迁移并非直接相关，但可作为正则化估计和稳健性分析的辅助参考。",
+      "matched_queries": [],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 50,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "研究非负稀疏降秩回归与 Huber 损失下的估计误差界。与 SAR 迁移并非直接相关，但可作为正则化估计和稳健性分析的辅助参考。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2025.08.010"
         }
       ],
       "first_seen": "2026-10-21",
@@ -1875,71 +1043,70 @@
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
-      "title": "隐私保护下基于多源域迁移学习的信用风险预警研究",
+      "title": "Transfer learning of multicellular organization via single-cell and spatial transcriptomics",
       "authors": [
-        "王小燕",
-        "冮建伟",
-        "方匡南"
+        "Yecheng Tan",
+        "Ai Wang",
+        "Zezhou Wang",
+        "Wei Lin",
+        "Yan Yan",
+        "Qing Nie",
+        "Jifan Shi"
       ],
-      "year": 2026,
-      "venue": "统计研究",
-      "doi": "",
-      "url": "https://tjyj.cbpt.cnki.net/portal",
-      "language": "zh",
-      "abstract": "提出多源域迁移方法，处理跨机构异质性与隐私限制。可参考多源权重和负迁移的实证比较。期刊目录已核实，单篇 DOI 尚未单独核实。",
-      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "提出多源域迁移方法，处理跨机构异质性与隐私限制。",
+      "year": 2025,
+      "venue": "PLoS Computational Biology",
+      "doi": "https://doi.org/10.1371/journal.pcbi.1012991",
+      "url": "https://doi.org/10.1371/journal.pcbi.1012991",
+      "language": "en",
+      "abstract": "Biological tissues exhibit complex gene expression and multicellular patterns that are valuable to dissect. Single-cell RNA sequencing (scRNA-seq) provides full coverages of genes, but lacks spatial information, whereas spatial transcriptomics (ST) measures spatial locations of individual or group of cells, with more restrictions on gene information. Here we show a transfer learning method named iSORT to decipher spatial organization of cells by integrating scRNA-seq and ST data. iSORT trains a neural network that maps gene expressions to spatial locations. iSORT can find spatial patterns at single-cell scale, identify spatial-organizing genes (SOGs) that drive the patterning, and infer pseudo-growth trajectories using a concept of SpaRNA velocity. Benchmarking on a range of biological systems, such as human cortex, mouse embryo, mouse brain, Drosophila embryo, and human developmental heart, demonstrates iSORT's accuracy and practicality in reconstructing multicellular organization. We further conducted scRNA-seq and ST sequencing from normal and atherosclerotic arteries, and the functional enrichment analysis shows that SOGs found by iSORT are strongly associated with vascular structural anomalies.",
+      "keywords": [
+        "Single-cell and spatial transcriptomics",
+        "Gene Regulatory Network Analysis",
+        "Gene expression and cancer classification"
+      ],
+      "method": "",
       "novelty": "",
-      "relevance_category": "中文研究",
-      "relevance_reason": "可参考多源权重和负迁移的实证比较。期刊目录已核实，单篇 DOI 尚未单独核实。",
-      "matched_queries": [],
-      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 47,
-      "source_date": "2026-10-21",
-      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
-      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "提出多源域迁移方法，处理跨机构异质性与隐私限制。可参考多源权重和负迁移的实证比较。期刊目录已核实，单篇 DOI 尚未单独核实。",
-      "publication_note": "年第 9 期",
-      "metadata_sources": [
-        {
-          "name": "分享页原始推送",
-          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
-        },
-        {
-          "name": "分享页列出的出版或索引链接",
-          "url": "https://tjyj.cbpt.cnki.net/portal"
-        }
+      "matched_queries": [
+        "transfer learning spatial data",
+        "transfer learning spatial regression"
       ],
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
-      "verified_status": "分享页导入；题录与摘要待独立核验；分享页注明单篇 DOI 尚未单独核实"
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
     },
     {
-      "title": "多源数据的Knockoff-Cox整合分析模型及其信用违约预警应用",
+      "title": "Transfer learning for semiparametric varying coefficient spatial autoregressive models",
       "authors": [
-        "张中艳",
-        "王小燕"
+        "Xuan Chen",
+        "Yunquan Song"
       ],
-      "year": 2026,
-      "venue": "统计研究",
-      "doi": "https://doi.org/10.19343/j.cnki.11-1302/c.2026.02.009",
-      "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2026.02.009",
-      "language": "zh",
-      "abstract": "结合多源整合、CMCP 惩罚和组坐标下降算法。可参考多源参数惩罚与迭代优化。",
+      "year": 2025,
+      "venue": "Statistical Papers",
+      "doi": "https://doi.org/10.1007/s00362-025-01662-5",
+      "url": "https://doi.org/10.1007/s00362-025-01662-5",
+      "language": "en",
+      "abstract": "在半参数变系数 SAR 框架中研究迁移学习，并区分已知与未知可迁移源域。可用于比较部分异质参数结构与变系数建模的区别。",
       "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
-      "method": "结合多源整合、CMCP 惩罚和组坐标下降算法。",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Domain Adaptation and Few-Shot Learning",
+        "Statistical Methods and Inference"
+      ],
+      "method": "在半参数变系数 SAR 框架中研究迁移学习，并区分已知与未知可迁移源域。",
       "novelty": "",
-      "relevance_category": "中文研究",
-      "relevance_reason": "可参考多源参数惩罚与迭代优化。",
-      "matched_queries": [],
+      "relevance_category": "优先阅读",
+      "relevance_reason": "可用于比较部分异质参数结构与变系数建模的区别。",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "transfer learning spatial data"
+      ],
       "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 48,
+      "source_rank": 4,
       "source_date": "2026-10-21",
       "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
       "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "结合多源整合、CMCP 惩罚和组坐标下降算法。可参考多源参数惩罚与迭代优化。",
+      "source_excerpt": "在半参数变系数 SAR 框架中研究迁移学习，并区分已知与未知可迁移源域。可用于比较部分异质参数结构与变系数建模的区别。",
       "publication_note": "",
       "metadata_sources": [
         {
@@ -1948,7 +1115,1208 @@
         },
         {
           "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2026.02.009"
+          "url": "https://doi.org/10.1007/s00362-025-01662-5"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "Transfer learning for piecewise-constant mean estimation: optimality, ℓ1 and ℓ0 penalization",
+      "authors": [
+        "F. Wang",
+        "Y. Yu"
+      ],
+      "year": 2025,
+      "venue": "Biometrika",
+      "doi": "https://doi.org/10.1093/biomet/asaf018",
+      "url": "https://doi.org/10.1093/biomet/asaf018",
+      "language": "en",
+      "abstract": "研究源域异质条件下分段常数信号的迁移与惩罚估计最优性。可借鉴偏移惩罚的理论处理。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [],
+      "method": "研究源域异质条件下分段常数信号的迁移与惩罚估计最优性。",
+      "novelty": "",
+      "relevance_category": "英文研究",
+      "relevance_reason": "可借鉴偏移惩罚的理论处理。",
+      "matched_queries": [],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 32,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "研究源域异质条件下分段常数信号的迁移与惩罚估计最优性。可借鉴偏移惩罚的理论处理。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://doi.org/10.1093/biomet/asaf018"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "Transfer learning for high dimensional spatial autoregressive model",
+      "authors": [
+        "Yunquan Song",
+        "Xuan Chen",
+        "R. Yang",
+        "Y. Li"
+      ],
+      "year": 2025,
+      "venue": "Spatial Statistics",
+      "doi": "https://doi.org/10.1016/j.spasta.2025.100908",
+      "url": "https://doi.org/10.1016/j.spasta.2025.100908",
+      "language": "en",
+      "abstract": "针对高维 SAR 利用辅助源域数据提升目标域估计与预测，并设计源域相似性判定标准。适合比较你的连续迁移权重与已有源域判别机制。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Domain Adaptation and Few-Shot Learning",
+        "demographic modeling and climate adaptation"
+      ],
+      "method": "针对高维 SAR 利用辅助源域数据提升目标域估计与预测，并设计源域相似性判定标准。",
+      "novelty": "",
+      "relevance_category": "优先阅读",
+      "relevance_reason": "适合比较你的连续迁移权重与已有源域判别机制。",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive",
+        "spatial econometrics transfer learning",
+        "transfer learning spatial data",
+        "transfer learning spatial regression"
+      ],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 3,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "针对高维 SAR 利用辅助源域数据提升目标域估计与预测，并设计源域相似性判定标准。适合比较你的连续迁移权重与已有源域判别机制。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://doi.org/10.1016/j.spasta.2025.100908"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "Spatial process-based transfer learning for prediction problems",
+      "authors": [
+        "Daisuke Murakami",
+        "Mami Kajita",
+        "Seiji Kajita"
+      ],
+      "year": 2025,
+      "venue": "Journal of Geographical Systems",
+      "doi": "https://doi.org/10.1007/s10109-024-00455-y",
+      "url": "https://doi.org/10.1007/s10109-024-00455-y",
+      "language": "en",
+      "abstract": "提出 SpTrans，迁移不同地区的空间过程模式以改善小样本预测。适合参考目标域预测验证。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Housing Market and Economics",
+        "Soil Geostatistics and Mapping"
+      ],
+      "method": "提出 SpTrans，迁移不同地区的空间过程模式以改善小样本预测。",
+      "novelty": "",
+      "relevance_category": "英文研究",
+      "relevance_reason": "适合参考目标域预测验证。",
+      "matched_queries": [
+        "spatial econometrics transfer learning",
+        "transfer learning spatial regression"
+      ],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 9,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "提出 SpTrans，迁移不同地区的空间过程模式以改善小样本预测。适合参考目标域预测验证。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://doi.org/10.1007/s10109-024-00455-y"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "Spatial autoregressive model for interval-valued data and applications",
+      "authors": [
+        "Jinjin Zhang",
+        "Kun Li",
+        "Ai-bing Ji"
+      ],
+      "year": 2025,
+      "venue": "Statistics and Computing",
+      "doi": "https://doi.org/10.1007/s11222-025-10688-6",
+      "url": "https://doi.org/10.1007/s11222-025-10688-6",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Housing Market and Economics",
+        "demographic modeling and climate adaptation"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Semi-Supervised Triply Robust Inductive Transfer Learning",
+      "authors": [
+        "Tianxi Cai",
+        "Mengyan Li",
+        "Molei Liu"
+      ],
+      "year": 2025,
+      "venue": "JASA",
+      "doi": "https://doi.org/10.1080/01621459.2024.2393463",
+      "url": "https://doi.org/10.1080/01621459.2024.2393463",
+      "language": "en",
+      "abstract": "结合协变量分布偏移、密度比和插补模型实现稳健迁移。可参考不同域分布不一致时的理论条件。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [],
+      "method": "结合协变量分布偏移、密度比和插补模型实现稳健迁移。",
+      "novelty": "",
+      "relevance_category": "英文研究",
+      "relevance_reason": "可参考不同域分布不一致时的理论条件。",
+      "matched_queries": [],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 33,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "结合协变量分布偏移、密度比和插补模型实现稳健迁移。可参考不同域分布不一致时的理论条件。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://doi.org/10.1080/01621459.2024.2393463"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "Model averaging for spatial autoregressive panel data models",
+      "authors": [
+        "Ai-bing Ji",
+        "Jingxuan Li",
+        "Jingxuan Li",
+        "Qingqing Li"
+      ],
+      "year": 2025,
+      "venue": "Spatial Statistics",
+      "doi": "https://doi.org/10.1016/j.spasta.2025.100931",
+      "url": "https://doi.org/10.1016/j.spasta.2025.100931",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Regional Economic and Spatial Analysis",
+        "Regional Economics and Spatial Analysis"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive",
+        "spatial panel data model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Estimation of spatial autoregressive panel data models with nonparametric endogenous effect",
+      "authors": [
+        "Zixin Yang",
+        "Xiaojun Song",
+        "Jihai Yu"
+      ],
+      "year": 2025,
+      "venue": "Journal of Econometrics",
+      "doi": "https://doi.org/10.1016/j.jeconom.2025.106112",
+      "url": "https://doi.org/10.1016/j.jeconom.2025.106112",
+      "language": "en",
+      "abstract": "利用筛估计与 GMM 处理非参数内生效应，证明相合性和渐进正态性。适合参考联合参数的理论推导。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [],
+      "method": "利用筛估计与 GMM 处理非参数内生效应，证明相合性和渐进正态性。",
+      "novelty": "",
+      "relevance_category": "英文研究",
+      "relevance_reason": "适合参考联合参数的理论推导。",
+      "matched_queries": [],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 14,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "利用筛估计与 GMM 处理非参数内生效应，证明相合性和渐进正态性。适合参考联合参数的理论推导。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://doi.org/10.1016/j.jeconom.2025.106112"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "Estimation and testing of time-varying coefficients spatial autoregressive panel data model",
+      "authors": [
+        "L. Tian",
+        "C. Wei",
+        "W. Ding",
+        "M. Wu"
+      ],
+      "year": 2025,
+      "venue": "Spatial Statistics",
+      "doi": "https://doi.org/10.1016/j.spasta.2025.100922",
+      "url": "https://doi.org/10.1016/j.spasta.2025.100922",
+      "language": "en",
+      "abstract": "对时变系数 SAR 建立两阶段最小二乘估计及渐进正态性，利用 Bootstrap 检验参数稳定性。适合参考异质参数检验。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [],
+      "method": "对时变系数 SAR 建立两阶段最小二乘估计及渐进正态性，利用 Bootstrap 检验参数稳定性。",
+      "novelty": "",
+      "relevance_category": "英文研究",
+      "relevance_reason": "适合参考异质参数检验。",
+      "matched_queries": [],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 17,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "对时变系数 SAR 建立两阶段最小二乘估计及渐进正态性，利用 Bootstrap 检验参数稳定性。适合参考异质参数检验。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://doi.org/10.1016/j.spasta.2025.100922"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "Doubly Robust Augmented Model Accuracy Transfer Inference with High Dimensional Features",
+      "authors": [
+        "Doudou Zhou",
+        "Molei Liu",
+        "Mengyan Li",
+        "Tianxi Cai"
+      ],
+      "year": 2025,
+      "venue": "JASA",
+      "doi": "https://doi.org/10.1080/01621459.2024.2356291",
+      "url": "https://doi.org/10.1080/01621459.2024.2356291",
+      "language": "en",
+      "abstract": "研究高维特征下的双重稳健迁移推断。适合借鉴目标域预测准确性的统计评价。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [],
+      "method": "研究高维特征下的双重稳健迁移推断。",
+      "novelty": "",
+      "relevance_category": "英文研究",
+      "relevance_reason": "适合借鉴目标域预测准确性的统计评价。",
+      "matched_queries": [],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 34,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "研究高维特征下的双重稳健迁移推断。适合借鉴目标域预测准确性的统计评价。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://doi.org/10.1080/01621459.2024.2356291"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "Characterization and estimation of heterogeneous spatial autocorrelation in spatial autoregressive models",
+      "authors": [
+        "Jing Zhao",
+        "Yue Pu"
+      ],
+      "year": 2025,
+      "venue": "PLOS ONE",
+      "doi": "https://doi.org/10.1371/journal.pone.0327316",
+      "url": "https://doi.org/10.1371/journal.pone.0327316",
+      "language": "en",
+      "abstract": "利用单指标变系数形式刻画空间相关系数异质性。适合与当前按域设置参数偏移的方案比较。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Regional Economic and Spatial Analysis",
+        "Regional Economics and Spatial Analysis"
+      ],
+      "method": "利用单指标变系数形式刻画空间相关系数异质性。",
+      "novelty": "",
+      "relevance_category": "英文研究",
+      "relevance_reason": "适合与当前按域设置参数偏移的方案比较。",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 26,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "利用单指标变系数形式刻画空间相关系数异质性。适合与当前按域设置参数偏移的方案比较。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://doi.org/10.1371/journal.pone.0327316"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "A Penalized Profile Quasi-Likelihood Method for a Semiparametric Varying Coefficient Spatial Autoregressive Panel Model with Fixed Effects",
+      "authors": [
+        "Ruiqin Tian",
+        "Miaojie Xia",
+        "Dengke Xu"
+      ],
+      "year": 2025,
+      "venue": "Axioms",
+      "doi": "https://doi.org/10.3390/axioms14020121",
+      "url": "https://doi.org/10.3390/axioms14020121",
+      "language": "en",
+      "abstract": "将剖面拟似然与惩罚变量选择结合，避免单独估计固定效应。适合参考剖面化与正则化的数学衔接。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [],
+      "method": "将剖面拟似然与惩罚变量选择结合，避免单独估计固定效应。",
+      "novelty": "",
+      "relevance_category": "英文研究",
+      "relevance_reason": "适合参考剖面化与正则化的数学衔接。",
+      "matched_queries": [],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 23,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "将剖面拟似然与惩罚变量选择结合，避免单独估计固定效应。适合参考剖面化与正则化的数学衔接。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://doi.org/10.3390/axioms14020121"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "A Bayesian estimation approach for heterogeneous spatial autoregressive model with hierarchical data structure",
+      "authors": [
+        "Miao Long",
+        "Zhimeng Sun",
+        "Yonghong Hu"
+      ],
+      "year": 2025,
+      "venue": "Journal of Spatial Science",
+      "doi": "https://doi.org/10.1080/14498596.2025.2485244",
+      "url": "https://doi.org/10.1080/14498596.2025.2485244",
+      "language": "en",
+      "abstract": "在层次 SAR 中允许异方差，使用 MCMC 估计。可作为部分异质模型的对比文献。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [],
+      "method": "在层次 SAR 中允许异方差，使用 MCMC 估计。",
+      "novelty": "",
+      "relevance_category": "英文研究",
+      "relevance_reason": "可作为部分异质模型的对比文献。",
+      "matched_queries": [],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 21,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "在层次 SAR 中允许异方差，使用 MCMC 估计。可作为部分异质模型的对比文献。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://doi.org/10.1080/14498596.2025.2485244"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "部分线性可加空间滞后分位数回归模型的贝叶斯估计——基于自由节点样条的研究",
+      "authors": [
+        "陶长琪",
+        "徐玉婷"
+      ],
+      "year": 2024,
+      "venue": "计量经济学报",
+      "doi": "https://doi.org/10.12012/CJoE2023-0050",
+      "url": "https://doi.org/10.12012/CJoE2023-0050",
+      "language": "zh",
+      "abstract": "采用自由节点样条和贝叶斯方法估计空间滞后分位数模型。适合对比参数异质性处理方式。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [],
+      "method": "采用自由节点样条和贝叶斯方法估计空间滞后分位数模型。",
+      "novelty": "",
+      "relevance_category": "中文研究",
+      "relevance_reason": "适合对比参数异质性处理方式。",
+      "matched_queries": [],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 43,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "采用自由节点样条和贝叶斯方法估计空间滞后分位数模型。适合对比参数异质性处理方式。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://doi.org/10.12012/CJoE2023-0050"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "Weighted likelihood transfer learning for high-dimensional generalized linear models",
+      "authors": [
+        "Zhaolei Liu",
+        "Lu Lin"
+      ],
+      "year": 2024,
+      "venue": "Statistics",
+      "doi": "https://doi.org/10.1080/02331888.2024.2361861",
+      "url": "https://doi.org/10.1080/02331888.2024.2361861",
+      "language": "en",
+      "abstract": "将加权似然与正则化结合，建立估计误差界和相合性，并提出权重选择方法。与你当前的加权平均剖面对数似然目标函数有直接方法论联系。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [],
+      "method": "将加权似然与正则化结合，建立估计误差界和相合性，并提出权重选择方法。",
+      "novelty": "",
+      "relevance_category": "优先阅读",
+      "relevance_reason": "与你当前的加权平均剖面对数似然目标函数有直接方法论联系。",
+      "matched_queries": [],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 5,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "将加权似然与正则化结合，建立估计误差界和相合性，并提出权重选择方法。与你当前的加权平均剖面对数似然目标函数有直接方法论联系。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://doi.org/10.1080/02331888.2024.2361861"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "Transfer Learning with Large-Scale Quantile Regression",
+      "authors": [
+        "Jun Jin",
+        "Jun Yan",
+        "Robert H. Aseltine",
+        "Kun Chen"
+      ],
+      "year": 2024,
+      "venue": "Technometrics",
+      "doi": "https://doi.org/10.1080/00401706.2024.2315952",
+      "url": "https://doi.org/10.1080/00401706.2024.2315952",
+      "language": "en",
+      "abstract": "通过识别有用源域改善目标域分位数回归。可参考非正态数据下的迁移评价。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [],
+      "method": "通过识别有用源域改善目标域分位数回归。",
+      "novelty": "",
+      "relevance_category": "英文研究",
+      "relevance_reason": "可参考非正态数据下的迁移评价。",
+      "matched_queries": [],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 31,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "通过识别有用源域改善目标域分位数回归。可参考非正态数据下的迁移评价。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://doi.org/10.1080/00401706.2024.2315952"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "Threshold spatial autoregressive model",
+      "authors": [
+        "Kunpeng Li",
+        "Wei Lin"
+      ],
+      "year": 2024,
+      "venue": "Journal of Econometrics",
+      "doi": "",
+      "url": "https://econpapers.repec.org/article/eeeeconom/v_3a244_3ay_3a2024_3ai_3a1_3as0304407624001866.htm",
+      "language": "en",
+      "abstract": "研究门槛 SAR 的 QML 推断、Bootstrap 检验和有限样本性质。适合参考复杂 SAR 的理论与模拟组织方式。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [],
+      "method": "研究门槛 SAR 的 QML 推断、Bootstrap 检验和有限样本性质。",
+      "novelty": "",
+      "relevance_category": "英文研究",
+      "relevance_reason": "适合参考复杂 SAR 的理论与模拟组织方式。",
+      "matched_queries": [],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 16,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "研究门槛 SAR 的 QML 推断、Bootstrap 检验和有限样本性质。适合参考复杂 SAR 的理论与模拟组织方式。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://econpapers.repec.org/article/eeeeconom/v_3a244_3ay_3a2024_3ai_3a1_3as0304407624001866.htm"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "Threshold spatial autoregressive model",
+      "authors": [
+        "Kunpeng Li",
+        "Wei Lin"
+      ],
+      "year": 2024,
+      "venue": "Journal of Econometrics",
+      "doi": "https://doi.org/10.1016/j.jeconom.2024.105841",
+      "url": "https://doi.org/10.1016/j.jeconom.2024.105841",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Regional Economic and Spatial Analysis",
+        "Regional Economics and Spatial Analysis"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Spatially aligned graph transfer learning for characterizing spatial regulatory heterogeneity",
+      "authors": [
+        "Wendong Huang",
+        "Yaofeng Hu",
+        "Lequn Wang",
+        "Guangsheng Wu",
+        "Chuanchao Zhang",
+        "Qianqian Shi"
+      ],
+      "year": 2024,
+      "venue": "Briefings in Bioinformatics",
+      "doi": "https://doi.org/10.1093/bib/bbaf021",
+      "url": "https://doi.org/10.1093/bib/bbaf021",
+      "language": "en",
+      "abstract": "Spatially resolved transcriptomics (SRT) technologies facilitate the exploration of cell fates or states within tissue microenvironments. Despite these advances, the field has not adequately addressed the regulatory heterogeneity influenced by microenvironmental factors. Here, we propose a novel Spatially Aligned Graph Transfer Learning (SpaGTL), pretrained on a large-scale multi-modal SRT data of about 100 million cells/spots to enable inference of context-specific spatial gene regulatory networks across multiple scales in data-limited settings. As a novel cross-dimensional transfer learning architecture, SpaGTL aligns spatial graph representations across gene-level graph transformers and cell/spot-level manifold-dominated variational autoencoder. This alignment facilitates the exploration of microenvironmental variations in cell types and functional domains from a molecular regulatory perspective, all within a self-supervised framework. We verified SpaGTL's precision, robustness, and speed over existing state-of-the-art algorithms and show SpaGTL's potential that facilitates the discovery of novel regulatory programs that exhibit strong associations with tissue functional regions and cell types. Importantly, SpaGTL could be extended to process multi-slice SRT data and map molecular regulatory landscape associated with three-dimensional spatial-temporal changes during development.",
+      "keywords": [
+        "Single-cell and spatial transcriptomics",
+        "Gene Regulatory Network Analysis",
+        "Genomics and Chromatin Dynamics"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial data",
+        "transfer learning spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Semiparametric spatial autoregressive models with nonlinear endogeneity",
+      "authors": [
+        "Yiguo Sun"
+      ],
+      "year": 2024,
+      "venue": "Econometric Reviews",
+      "doi": "https://doi.org/10.1080/07474938.2024.2339149",
+      "url": "https://doi.org/10.1080/07474938.2024.2339149",
+      "language": "en",
+      "abstract": ".This article constructs nonparametric two-step least squares (2SLS) and generalized method of moments (GMM) sieve estimators to estimate a functional-coefficient spatial autoregressive model with an endogenous environment variable. We derive the consistency and asymptotic normality results for our proposed sieve estimators. A small Monte Carlo study shows that our proposed estimators exhibit good finite-sample performance. An empirical application is used to illustrate the usefulness of our methods.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "demographic modeling and climate adaptation",
+        "Advanced Causal Inference Techniques"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "STEM enables mapping of single-cell and spatial transcriptomics data with transfer learning",
+      "authors": [
+        "Minsheng Hao",
+        "Erpai Luo",
+        "Yixin Chen",
+        "Yanhong Wu",
+        "Chen Li",
+        "Sijie Chen",
+        "Haoxiang Gao",
+        "Haiyang Bian",
+        "Jin Gu",
+        "Lei Wei",
+        "Xuegong Zhang"
+      ],
+      "year": 2024,
+      "venue": "Communications Biology",
+      "doi": "https://doi.org/10.1038/s42003-023-05640-1",
+      "url": "https://doi.org/10.1038/s42003-023-05640-1",
+      "language": "en",
+      "abstract": "Profiling spatial variations of cellular composition and transcriptomic characteristics is important for understanding the physiology and pathology of tissues. Spatial transcriptomics (ST) data depict spatial gene expression but the currently dominating high-throughput technology is yet not at single-cell resolution. Single-cell RNA-sequencing (SC) data provide high-throughput transcriptomic information at the single-cell level but lack spatial information. Integrating these two types of data would be ideal for revealing transcriptomic landscapes at single-cell resolution. We develop the method STEM (SpaTially aware EMbedding) for this purpose. It uses deep transfer learning to encode both ST and SC data into a unified spatially aware embedding space, and then uses the embeddings to infer SC-ST mapping and predict pseudo-spatial adjacency between cells in SC data. Semi-simulation and real data experiments verify that the embeddings preserved spatial information and eliminated technical biases between SC and ST data. We apply STEM to human squamous cell carcinoma and hepatic lobule datasets to uncover the localization of rare cell types and reveal cell-type-specific gene expression variation along a spatial axis. STEM is powerful for mapping SC and ST data to build single-cell level spatial transcriptomic landscapes, and can provide mechanistic insights into the spatial heterogeneity and microenvironments of tissues.",
+      "keywords": [
+        "Single-cell and spatial transcriptomics",
+        "Gene expression and cancer classification",
+        "Gene Regulatory Network Analysis"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial data",
+        "transfer learning spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Ridge regularization for spatial autoregressive models with multicollinearity issues",
+      "authors": [
+        "Cristina O. Chavez-Chong",
+        "Cécile Hardouin",
+        "Ana Karina Fermin"
+      ],
+      "year": 2024,
+      "venue": "AStA Advances in Statistical Analysis",
+      "doi": "https://doi.org/10.1007/s10182-024-00496-0",
+      "url": "https://doi.org/10.1007/s10182-024-00496-0",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Advanced Statistical Methods and Models",
+        "Statistical Methods and Inference"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Privacy-preserving parametric inference for spatial autoregressive model",
+      "authors": [
+        "Zhijian Wang",
+        "Yunquan Song"
+      ],
+      "year": 2024,
+      "venue": "Test",
+      "doi": "https://doi.org/10.1007/s11749-024-00928-8",
+      "url": "https://doi.org/10.1007/s11749-024-00928-8",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Privacy-Preserving Technologies in Data",
+        "Spatial and Panel Data Analysis",
+        "Statistical Methods and Inference"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Model Checking in Partially Linear Spatial Autoregressive Models",
+      "authors": [
+        "Zixin Yang",
+        "Xiaojun Song",
+        "Jihai Yu"
+      ],
+      "year": 2024,
+      "venue": "Journal of Business and Economic Statistics",
+      "doi": "https://doi.org/10.1080/07350015.2024.2301958",
+      "url": "https://doi.org/10.1080/07350015.2024.2301958",
+      "language": "en",
+      "abstract": "This article proposes two new classes of nonparametric tests for the correct specification of linear spatial autoregressive models based on the “integrated conditional moment” approach. Our test statistics are constructed as continuous functionals of a residual marked empirical process as well as its projected version. We derive asymptotic properties of the test statistics under the null hypothesis, the alternative hypothesis, and a sequence of local alternatives. The proposed tests do not involve the selection of tuning parameters such as bandwidths and are able to detect a broad class of local alternatives converging to the null at the parametric rate n−1/2, with n being the sample size. We also propose a multiplier bootstrap procedure that is computationally simple to approximate the critical values. Monte Carlo simulations illustrate that our tests have a reasonable size and satisfactory power for different types of data-generating processes. Finally, an empirical analysis of growth convergence is carried out to demonstrate the usefulness of the tests.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Statistical Methods and Inference",
+        "Regional Economic and Spatial Analysis"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Maximum likelihood estimation of a spatial autoregressive model for origin–destination flow variables",
+      "authors": [
+        "Hanbat Jeong",
+        "Lung-Fei Lee"
+      ],
+      "year": 2024,
+      "venue": "Journal of Econometrics",
+      "doi": "",
+      "url": "https://econpapers.repec.org/article/eeeeconom/v_3a242_3ay_3a2024_3ai_3a1_3as0304407624001362.htm",
+      "language": "en",
+      "abstract": "建立空间流量模型的极大似然估计与渐近理论，使用空间近历程依赖条件。可参考非独立空间样本的渐近处理。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [],
+      "method": "建立空间流量模型的极大似然估计与渐近理论，使用空间近历程依赖条件。",
+      "novelty": "",
+      "relevance_category": "英文研究",
+      "relevance_reason": "可参考非独立空间样本的渐近处理。",
+      "matched_queries": [],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 15,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "建立空间流量模型的极大似然估计与渐近理论，使用空间近历程依赖条件。可参考非独立空间样本的渐近处理。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://econpapers.repec.org/article/eeeeconom/v_3a242_3ay_3a2024_3ai_3a1_3as0304407624001362.htm"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "Investigating Transfer Learning in Noisy Environments: A Study of Predecessor and Successor Features in Spatial Learning Using a T-Maze",
+      "authors": [
+        "Incheol Seo",
+        "Hyunsu Lee"
+      ],
+      "year": 2024,
+      "venue": "Sensors",
+      "doi": "https://doi.org/10.3390/s24196419",
+      "url": "https://doi.org/10.3390/s24196419",
+      "language": "en",
+      "abstract": "In this study, we investigate the adaptability of artificial agents within a noisy T-maze that use Markov decision processes (MDPs) and successor feature (SF) and predecessor feature (PF) learning algorithms. Our focus is on quantifying how varying the hyperparameters, specifically the reward learning rate (αr) and the eligibility trace decay rate (λ), can enhance their adaptability. Adaptation is evaluated by analyzing the hyperparameters of cumulative reward, step length, adaptation rate, and adaptation step length and the relationships between them using Spearman's correlation tests and linear regression. Our findings reveal that an αr of 0.9 consistently yields superior adaptation across all metrics at a noise level of 0.05. However, the optimal setting for λ varies by metric and context. In discussing these results, we emphasize the critical role of hyperparameter optimization in refining the performance and transfer learning efficacy of learning algorithms. This research advances our understanding of the functionality of PF and SF algorithms, particularly in navigating the inherent uncertainty of transfer learning tasks. By offering insights into the optimal hyperparameter configurations, this study contributes to the development of more adaptive and robust learning algorithms, paving the way for future explorations in artificial intelligence and neuroscience.",
+      "keywords": [
+        "Reinforcement Learning in Robotics",
+        "Domain Adaptation and Few-Shot Learning",
+        "Memory and Neural Mechanisms"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial econometrics transfer learning",
+        "transfer learning spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Incremental transfer learning for spatial autoregressive model with linear constraints",
+      "authors": [
+        "Jie Li",
+        "Yunquan Song"
+      ],
+      "year": 2024,
+      "venue": "Spatial Statistics",
+      "doi": "https://doi.org/10.1016/j.spasta.2024.100833",
+      "url": "https://doi.org/10.1016/j.spasta.2024.100833",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Domain Adaptation and Few-Shot Learning",
+        "Policy Transfer and Learning"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "transfer learning spatial data",
+        "transfer learning spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Estimation in functional partially linear spatial autoregressive model",
+      "authors": [
+        "Yuping Hu",
+        "Siyu Wu",
+        "Sanying Feng"
+      ],
+      "year": 2024,
+      "venue": "Hacettepe Journal of Mathematics and Statistics",
+      "doi": "https://doi.org/10.15672/hujms.1324888",
+      "url": "https://doi.org/10.15672/hujms.1324888",
+      "language": "en",
+      "abstract": "Functional regression has been a hot topic in statistical research. However, not much work has been done when response variables are cross-sectionally dependent variables and explanatory variables contain a real-valued scalar variable and a functional-valued random variable. In this paper, we consider a new functional partially linear spatial autoregressive model. Based on the functional principal components analysis and basis function approximation, we obtain the estimators of the unknown parameter and functions through the instrumental variables estimation method. The asymptotic normality and convergence rates of estimators are proved under some mild conditions. In addition, we illustrate the finite sample performance of the proposed estimation method through simulation study and a real data analysis.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Advanced Statistical Methods and Models",
+        "Statistical Methods and Applications"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Consistent Non-Gaussian Pseudo Maximum Likelihood Estimators of Spatial Autoregressive Models",
+      "authors": [
+        "Fei Jin",
+        "Yuqin Wang"
+      ],
+      "year": 2024,
+      "venue": "Econometric Theory",
+      "doi": "https://doi.org/10.1017/S0266466623000026",
+      "url": "https://doi.org/10.1017/S0266466623000026",
+      "language": "en",
+      "abstract": "在非高斯情形下建立伪极大似然估计的相合性条件。值得借鉴参数识别和空间矩阵条件的论证方式。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [],
+      "method": "在非高斯情形下建立伪极大似然估计的相合性条件。",
+      "novelty": "",
+      "relevance_category": "英文研究",
+      "relevance_reason": "值得借鉴参数识别和空间矩阵条件的论证方式。",
+      "matched_queries": [],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 12,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "在非高斯情形下建立伪极大似然估计的相合性条件。值得借鉴参数识别和空间矩阵条件的论证方式。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://doi.org/10.1017/S0266466623000026"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "A multivariate spatial and spatiotemporal ARCH model",
+      "authors": [
+        "Philipp Otto"
+      ],
+      "year": 2024,
+      "venue": "Spatial Statistics",
+      "doi": "https://doi.org/10.1016/j.spasta.2024.100823",
+      "url": "https://doi.org/10.1016/j.spasta.2024.100823",
+      "language": "en",
+      "abstract": "构建多变量空间 ARCH 模型并推导 QML 相合性，使用 Monte Carlo 评估有限样本表现。可借鉴模拟设计。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [],
+      "method": "构建多变量空间 ARCH 模型并推导 QML 相合性，使用 Monte Carlo 评估有限样本表现。",
+      "novelty": "",
+      "relevance_category": "英文研究",
+      "relevance_reason": "可借鉴模拟设计。",
+      "matched_queries": [],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 28,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "构建多变量空间 ARCH 模型并推导 QML 相合性，使用 Monte Carlo 评估有限样本表现。可借鉴模拟设计。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://doi.org/10.1016/j.spasta.2024.100823"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "A Semiparametric Bayesian Approach to Heterogeneous Spatial Autoregressive Models",
+      "authors": [
+        "Ting Liu",
+        "Dengke Xu",
+        "Shiqi Ke"
+      ],
+      "year": 2024,
+      "venue": "Entropy",
+      "doi": "https://doi.org/10.3390/e26060498",
+      "url": "https://doi.org/10.3390/e26060498",
+      "language": "en",
+      "abstract": "将异方差结构引入半参数 SAR，采用贝叶斯估计。可用于说明区域异质性与误差异质性的区别。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Markov Chains and Monte Carlo Methods",
+        "Gaussian Processes and Bayesian Inference"
+      ],
+      "method": "将异方差结构引入半参数 SAR，采用贝叶斯估计。",
+      "novelty": "",
+      "relevance_category": "英文研究",
+      "relevance_reason": "可用于说明区域异质性与误差异质性的区别。",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 22,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "将异方差结构引入半参数 SAR，采用贝叶斯估计。可用于说明区域异质性与误差异质性的区别。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://doi.org/10.3390/e26060498"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "空间动态面板非线性Logistic模型的QML估计",
+      "authors": [
+        "徐晔",
+        "欧阳婉桦"
+      ],
+      "year": 2023,
+      "venue": "统计研究",
+      "doi": "https://doi.org/10.19343/j.cnki.11-1302/c.2023.10.010",
+      "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2023.10.010",
+      "language": "zh",
+      "abstract": "提出 QML 估计与修正方法，证明一致性并通过模拟分析有限样本偏差。可参考渐近与模拟部分的写作结构。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [],
+      "method": "提出 QML 估计与修正方法，证明一致性并通过模拟分析有限样本偏差。",
+      "novelty": "",
+      "relevance_category": "中文研究",
+      "relevance_reason": "可参考渐近与模拟部分的写作结构。",
+      "matched_queries": [],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 40,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "提出 QML 估计与修正方法，证明一致性并通过模拟分析有限样本偏差。可参考渐近与模拟部分的写作结构。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2023.10.010"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "异质性空间随机前沿模型的参数估计及应用",
+      "authors": [
+        "冯冬发",
+        "张涛",
+        "李奥",
+        "宫汝娜"
+      ],
+      "year": 2023,
+      "venue": "统计研究",
+      "doi": "https://doi.org/10.19343/j.cnki.11-1302/c.2023.01.011",
+      "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2023.01.011",
+      "language": "zh",
+      "abstract": "研究空间相关下的异质性随机前沿参数估计。可参考异质性与空间依赖的联合建模。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [],
+      "method": "研究空间相关下的异质性随机前沿参数估计。",
+      "novelty": "",
+      "relevance_category": "中文研究",
+      "relevance_reason": "可参考异质性与空间依赖的联合建模。",
+      "matched_queries": [],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 42,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "研究空间相关下的异质性随机前沿参数估计。可参考异质性与空间依赖的联合建模。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2023.01.011"
         }
       ],
       "first_seen": "2026-10-21",
@@ -1997,31 +2365,31 @@
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
-      "title": "多元非负稀疏降秩回归及其在指数追踪中的应用",
+      "title": "东道国制度环境、市场规模和中国对外直接投资——基于“一带一路”国家的半参数变系数空间面板模型",
       "authors": [
-        "张来江",
-        "许腾腾",
-        "张日权"
+        "刘玉",
+        "唐礼智",
+        "金梦洁"
       ],
-      "year": 2025,
+      "year": 2023,
       "venue": "统计研究",
-      "doi": "https://doi.org/10.19343/j.cnki.11-1302/c.2025.08.010",
-      "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2025.08.010",
+      "doi": "https://doi.org/10.19343/j.cnki.11-1302/c.2023.03.007",
+      "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2023.03.007",
       "language": "zh",
-      "abstract": "研究非负稀疏降秩回归与 Huber 损失下的估计误差界。与 SAR 迁移并非直接相关，但可作为正则化估计和稳健性分析的辅助参考。",
+      "abstract": "使用截面似然估计半参数空间模型，并讨论渐近性质。可参考似然估计的应用写法。",
       "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
       "keywords": [],
-      "method": "研究非负稀疏降秩回归与 Huber 损失下的估计误差界。",
+      "method": "使用截面似然估计半参数空间模型，并讨论渐近性质。",
       "novelty": "",
       "relevance_category": "中文研究",
-      "relevance_reason": "与 SAR 迁移并非直接相关，但可作为正则化估计和稳健性分析的辅助参考。",
+      "relevance_reason": "可参考似然估计的应用写法。",
       "matched_queries": [],
       "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
-      "source_rank": 50,
+      "source_rank": 41,
       "source_date": "2026-10-21",
       "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
       "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
-      "source_excerpt": "研究非负稀疏降秩回归与 Huber 损失下的估计误差界。与 SAR 迁移并非直接相关，但可作为正则化估计和稳健性分析的辅助参考。",
+      "source_excerpt": "使用截面似然估计半参数空间模型，并讨论渐近性质。可参考似然估计的应用写法。",
       "publication_note": "",
       "metadata_sources": [
         {
@@ -2030,15 +2398,926 @@
         },
         {
           "name": "分享页列出的出版或索引链接",
-          "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2025.08.010"
+          "url": "https://doi.org/10.19343/j.cnki.11-1302/c.2023.03.007"
         }
       ],
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-21",
       "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "Transfer Learning Under High-Dimensional Generalized Linear Models",
+      "authors": [
+        "Ye Tian",
+        "Yang Feng"
+      ],
+      "year": 2023,
+      "venue": "JASA",
+      "doi": "https://doi.org/10.1080/01621459.2022.2071278",
+      "url": "https://doi.org/10.1080/01621459.2022.2071278",
+      "language": "en",
+      "abstract": "研究 GLM 的多源迁移、有效源域检测和估计误差界。可参考源域筛选一致性与目标域推断。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [],
+      "method": "研究 GLM 的多源迁移、有效源域检测和估计误差界。",
+      "novelty": "",
+      "relevance_category": "英文研究",
+      "relevance_reason": "可参考源域筛选一致性与目标域推断。",
+      "matched_queries": [],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 30,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "研究 GLM 的多源迁移、有效源域检测和估计误差界。可参考源域筛选一致性与目标域推断。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://doi.org/10.1080/01621459.2022.2071278"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "The Spatial Autoregressive Panel Data Model with Spatial Moving Average Errors",
+      "authors": [
+        "Chang Tan",
+        "J. Paul Elhorst"
+      ],
+      "year": 2023,
+      "venue": "Geographical Analysis",
+      "doi": "https://doi.org/10.1111/gean.12369",
+      "url": "https://doi.org/10.1111/gean.12369",
+      "language": "en",
+      "abstract": "This paper advocates the wider use of the spatial autoregressive (AR) panel data model with spatial moving average (MA) errors, individual and time effects, and different spatial weight matrices for each spatial lag. We demonstrate the practical relevance of this model, derive and investigate the asymptotic properties of a simple quasi maximum likelihood within estimator when is large and is finite, and provide an empirical example explaining military expenditures in 144 countries over the period 1993–2007.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Regional Economic and Spatial Analysis",
+        "Regional Economics and Spatial Analysis"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive",
+        "spatial panel data model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Spatial Autoregressive Models",
+      "authors": [
+        "Tyler Hoffman",
+        "Peter Kedron"
+      ],
+      "year": 2023,
+      "venue": "Geographic Information Science & Technology Body of Knowledge",
+      "doi": "https://doi.org/10.22224/gistbok/2023.2.1",
+      "url": "https://doi.org/10.22224/gistbok/2023.2.1",
+      "language": "en",
+      "abstract": "This Body of Knowledge documents the domain of geographic information science and its associated technologies (GIS&T). By providing this content in a new digital format, UCGIS aims to continue supporting the GIS&T higher education community and its connections with the practitioners.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Advanced Decision-Making Techniques",
+        "Geographic Information Systems Studies"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Sparse spatio-temporal autoregressions by profiling and bagging",
+      "authors": [
+        "Yingying Ma",
+        "Shaojun Guo",
+        "Hansheng Wang"
+      ],
+      "year": 2023,
+      "venue": "Journal of Econometrics",
+      "doi": "",
+      "url": "https://ideas.repec.org/a/eee/econom/v232y2023i1p132-147.html",
+      "language": "en",
+      "abstract": "结合剖面处理、GMM、Bagging 和稀疏选择，研究时空自回归估计及渐近性质。适合参考剖面估计与算法设计。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [],
+      "method": "结合剖面处理、GMM、Bagging 和稀疏选择，研究时空自回归估计及渐近性质。",
+      "novelty": "",
+      "relevance_category": "英文研究",
+      "relevance_reason": "适合参考剖面估计与算法设计。",
+      "matched_queries": [],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 10,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "结合剖面处理、GMM、Bagging 和稀疏选择，研究时空自回归估计及渐近性质。适合参考剖面估计与算法设计。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://ideas.repec.org/a/eee/econom/v232y2023i1p132-147.html"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "QML and Efficient GMM Estimation of Spatial Autoregressive Models with Dominant (Popular) Units",
+      "authors": [
+        "Lung-Fei Lee",
+        "Chao Yang",
+        "Jihai Yu"
+      ],
+      "year": 2023,
+      "venue": "Journal of Business & Economic Statistics",
+      "doi": "https://doi.org/10.1080/07350015.2022.2041424",
+      "url": "https://doi.org/10.1080/07350015.2022.2041424",
+      "language": "en",
+      "abstract": "放宽空间权重矩阵列和有界条件，建立中心极限定理及 QML/GMM 渐近分布。适合参考空间依赖正则条件。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [],
+      "method": "放宽空间权重矩阵列和有界条件，建立中心极限定理及 QML/GMM 渐近分布。",
+      "novelty": "",
+      "relevance_category": "英文研究",
+      "relevance_reason": "适合参考空间依赖正则条件。",
+      "matched_queries": [],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 13,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "放宽空间权重矩阵列和有界条件，建立中心极限定理及 QML/GMM 渐近分布。适合参考空间依赖正则条件。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://doi.org/10.1080/07350015.2022.2041424"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "On the Robust Estimation of Spatial Autoregressive Models",
+      "authors": [
+        "Zhi Yang Tho",
+        "Ding Ding",
+        "Francis K. C. Hui",
+        "A. H. Welsh",
+        "Tao Zou"
+      ],
+      "year": 2023,
+      "venue": "Econometrics and Statistics",
+      "doi": "https://doi.org/10.1016/j.ecosta.2023.01.004",
+      "url": "https://doi.org/10.1016/j.ecosta.2023.01.004",
+      "language": "en",
+      "abstract": "The spatial autoregressive (SAR) model is commonly used for cross-sectional data with spatial dependence in the response variable. A robust M-estimator for the SAR model with independent normal random errors is proposed, which is resistant to extreme contamination or outliers in the data. The proposed estimator is defined by a set of robust estimating functions derived by modifying the estimating functions for the standard maximum likelihood (ML) estimator using the Huber function. An iterative algorithm based on iteratively reweighted least squares and a fixed point method is provided to compute the robust M-estimator. The proposed estimator is shown to be Fisher-consistent under the core model, has a bounded influence function, and is asymptotically normally distributed. A closed-form expression for the asymptotic covariance matrix estimator under the core model is derived, and used to study the asymptotic relative efficiency of the proposed estimator. Simulation studies demonstrate that the proposed robust M-estimator greatly outperforms the ML estimator as well as several other non-robust estimators of the SAR model, in terms of both estimation and inference under different contamination scenarios. Additionally, the proposed estimator offers comparable performance to some robust estimators of the SAR model under contamination. Applying the robust M-estimator for the SAR model to the U.S. federal grants and U.S. Nielsen Local Television View datasets reveals strong positive spatial dependence in the grant value among counties, insignificant positive effect of news watching on grant distribution, and evidence of outliers in the data. This results in different conclusions from those obtained using the ML estimator.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Advanced Statistical Methods and Models",
+        "Statistical and numerical algorithms"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Nonparametric spatial autoregressive model using deep neural networks",
+      "authors": [
+        "Shuyue Xiao",
+        "Yunquan Song",
+        "Zhijian Wang"
+      ],
+      "year": 2023,
+      "venue": "Spatial Statistics",
+      "doi": "https://doi.org/10.1016/j.spasta.2023.100766",
+      "url": "https://doi.org/10.1016/j.spasta.2023.100766",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Neural Networks and Applications",
+        "demographic modeling and climate adaptation"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Modified harmonic mean method for spatial autoregressive models",
+      "authors": [
+        "Osman Doğan"
+      ],
+      "year": 2023,
+      "venue": "Economics Letters",
+      "doi": "https://doi.org/10.1016/j.econlet.2023.110978",
+      "url": "https://doi.org/10.1016/j.econlet.2023.110978",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Statistical Methods and Inference",
+        "Regional Economic and Spatial Analysis"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Inference in a similarity-based spatial autoregressive model",
+      "authors": [
+        "Offer Lieberman",
+        "Francesca Rossi"
+      ],
+      "year": 2023,
+      "venue": "Econometric Reviews",
+      "doi": "https://doi.org/10.1080/07474938.2023.2205339",
+      "url": "https://doi.org/10.1080/07474938.2023.2205339",
+      "language": "en",
+      "abstract": "In this article, we develop asymptotic theory for a spatial autoregressive (SAR) model where the network structure is defined according to a similarity-based weight matrix, in line with the similarity theory, which in turn has an axiomatic justification. We prove consistency of the quasi-maximum-likelihood estimator and derive its limit distribution. The contribution of this article is two-fold: on one hand, we incorporate a regression component in the data generating process while allowing the similarity structure to accommodate non-ordered data and by estimating explicitly the weight of the similarity, allowing it to be equal to unity. On the other hand, this work complements the literature on SAR models by adopting a data-driven weight matrix which depends on a finite set of parameters that have to be estimated. The spatial parameter, which corresponds to the weight of the similarity structure, is in turn allowed to take values at the boundary of the standard SAR parameter space. In addition, our setup accommodates strong forms of cross-sectional correlation that are normally ruled out in the standard SAR literature. Our framework is general enough to include as special cases also the random walk with a drift model, the local to unit root model (LUR) with a drift and the model for moderate integration with a drift.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Regional Economic and Spatial Analysis",
+        "Regional Economics and Spatial Analysis"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "GMM estimation of partially linear additive spatial autoregressive model",
+      "authors": [
+        "Suli Cheng",
+        "Jianbao Chen"
+      ],
+      "year": 2023,
+      "venue": "Computational Statistics & Data Analysis",
+      "doi": "https://doi.org/10.1016/j.csda.2023.107712",
+      "url": "https://doi.org/10.1016/j.csda.2023.107712",
+      "language": "en",
+      "abstract": "This paper focuses on studying the estimation method of partially linear additive spatial autoregressive model (PLASARM) by combining both parametric and nonparametric terms. With the nonparametric functions approximated by local linear estimator, the generalized method of moment (GMM) estimators is proposed. The large sample properties of the estimators are derived for the case with a single nonparametric term and extended to an arbitrary number of nonparametric additive terms under some mild conditions. The small sample performance for our estimators is assessed by Monte Carlo simulation. In addition, the proposed method is used to analyse the forces of Chinese housing price.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Housing Market and Economics",
+        "Regional Economic and Spatial Analysis"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Efficient closed-form estimation of large spatial autoregressions",
+      "authors": [
+        "Abhimanyu Gupta"
+      ],
+      "year": 2023,
+      "venue": "Journal of Econometrics",
+      "doi": "https://doi.org/10.1016/j.jeconom.2021.05.005",
+      "url": "https://doi.org/10.1016/j.jeconom.2021.05.005",
+      "language": "en",
+      "abstract": "使用 Newton-step 近似构造计算简便的估计量，并研究与极大似然估计的渐近效率关系。对算法输出渐近等价性证明很有参考价值。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [],
+      "method": "使用 Newton-step 近似构造计算简便的估计量，并研究与极大似然估计的渐近效率关系。",
+      "novelty": "",
+      "relevance_category": "英文研究",
+      "relevance_reason": "对算法输出渐近等价性证明很有参考价值。",
+      "matched_queries": [],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 20,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "使用 Newton-step 近似构造计算简便的估计量，并研究与极大似然估计的渐近效率关系。对算法输出渐近等价性证明很有参考价值。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://doi.org/10.1016/j.jeconom.2021.05.005"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "Covariates impacts in spatial autoregressive models for compositional data",
+      "authors": [
+        "Thibault Laurent",
+        "Christine Thomas‐Agnan",
+        "Anne Ruiz‐Gazen"
+      ],
+      "year": 2023,
+      "venue": "Journal of Spatial Econometrics",
+      "doi": "https://doi.org/10.1007/s43071-023-00035-0",
+      "url": "https://doi.org/10.1007/s43071-023-00035-0",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Regional Economic and Spatial Analysis",
+        "demographic modeling and climate adaptation"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Automatic variable selection for semiparametric spatial autoregressive model",
+      "authors": [
+        "Fang Ying Lu",
+        "Sisheng Liu",
+        "Jing Yang",
+        "Xuewen Lu"
+      ],
+      "year": 2023,
+      "venue": "Econometric Reviews",
+      "doi": "https://doi.org/10.1080/07474938.2023.2225947",
+      "url": "https://doi.org/10.1080/07474938.2023.2225947",
+      "language": "en",
+      "abstract": "This article studies the generalized method of moment estimation of semiparametric varying coefficient partially linear spatial autoregressive model. The technique of profile least squares is employed and all estimators have explicit formulas which are computationally convenient. We derive the limiting distributions of the proposed estimators for both parametric and non parametric components. Variable selection procedures based on smooth-threshold estimating equations are proposed to automatically eliminate irrelevant parameters and zero varying coefficient functions. Compared to the alternative approaches based on shrinkage penalty, the new method is easily implemented. Oracle properties of the resulting estimators are established. Large amounts of Monte Carlo simulations confirm our theories and demonstrate that the estimators perform reasonably well in finite samples. We also apply the novel methods to an empirical data analysis.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Statistical Methods and Inference",
+        "Statistical Methods and Applications"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "A semiparametric dynamic higher-order spatial autoregressive model",
+      "authors": [
+        "Tizheng Li",
+        "Yu‐Ping Wang",
+        "Ke Fang"
+      ],
+      "year": 2023,
+      "venue": "Statistical Papers",
+      "doi": "https://doi.org/10.1007/s00362-023-01489-y",
+      "url": "https://doi.org/10.1007/s00362-023-01489-y",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Housing Market and Economics",
+        "Regional Economic and Spatial Analysis"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "A parametric specification test for linear spatial autoregressive models",
+      "authors": [
+        "Yangbing Tang",
+        "Jiang Du",
+        "Zhongzhan Zhang"
+      ],
+      "year": 2023,
+      "venue": "Spatial Statistics",
+      "doi": "https://doi.org/10.1016/j.spasta.2023.100767",
+      "url": "https://doi.org/10.1016/j.spasta.2023.100767",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Regional Economic and Spatial Analysis",
+        "Regional Economics and Spatial Analysis"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "A combined moment equation approach for spatial autoregressive models",
+      "authors": [
+        "Jiaxin Liu",
+        "Hongliang Liu",
+        "Yi Li",
+        "Huazhen Lin"
+      ],
+      "year": 2023,
+      "venue": "Canadian Journal of Statistics",
+      "doi": "https://doi.org/10.1002/cjs.11784",
+      "url": "https://doi.org/10.1002/cjs.11784",
+      "language": "en",
+      "abstract": "Abstract Existing methods for fitting spatial autoregressive models have various strengths and weaknesses. For example, the maximum likelihood estimation (MLE) approach yields efficient estimates but is computationally burdensome. Computationally efficient methods, such as generalized method of moments (GMMs) and spatial two‐stage least squares (2SLS), typically require exogenous covariates to be significant, a restrictive assumption that may fail in practice. We propose a new estimating equation approach, termed combined moment equation (COME), which combines the first moment with covariance conditions on the residual terms. The proposed estimator is less computationally demanding than MLE and does not need the restrictive exogenous conditions as required by GMM and 2SLS. We show that the proposed estimator is consistent and establish its asymptotic distribution. Extensive simulations demonstrate that the proposed method outperforms the competitors in terms of bias, efficiency, and computation. We apply the proposed method to analyze an air pollution study, and obtain some interesting results about the spatial distribution of PM2.5 concentrations in Beijing.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "demographic modeling and climate adaptation",
+        "Regional Economic and Spatial Analysis"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Transfer Learning for High-Dimensional Linear Regression: Prediction, Estimation and Minimax Optimality",
+      "authors": [
+        "Sai Li",
+        "T. Tony Cai",
+        "Hongzhe Li"
+      ],
+      "year": 2022,
+      "venue": "JRSS Series B",
+      "doi": "https://doi.org/10.1111/rssb.12479",
+      "url": "https://doi.org/10.1111/rssb.12479",
+      "language": "en",
+      "abstract": "提出 Trans-Lasso，研究有效源域未知时的迁移估计、最优速率及负迁移鲁棒性。是多源迁移统计理论的重要基础。",
+      "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
+      "keywords": [],
+      "method": "提出 Trans-Lasso，研究有效源域未知时的迁移估计、最优速率及负迁移鲁棒性。",
+      "novelty": "",
+      "relevance_category": "英文研究",
+      "relevance_reason": "是多源迁移统计理论的重要基础。",
+      "matched_queries": [],
+      "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
+      "source_rank": 29,
+      "source_date": "2026-10-21",
+      "source_message_id": "f4633f35-a7df-488e-823b-0490a9e00303",
+      "source_share_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
+      "source_excerpt": "提出 Trans-Lasso，研究有效源域未知时的迁移估计、最优速率及负迁移鲁棒性。是多源迁移统计理论的重要基础。",
+      "publication_note": "",
+      "metadata_sources": [
+        {
+          "name": "分享页原始推送",
+          "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee"
+        },
+        {
+          "name": "分享页列出的出版或索引链接",
+          "url": "https://doi.org/10.1111/rssb.12479"
+        }
+      ],
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "Spatial-ID: a cell typing method for spatially resolved transcriptomics via transfer learning and spatial embedding",
+      "authors": [
+        "Rongbo Shen",
+        "Lin Liu",
+        "Zihan Wu",
+        "Ying Zhang",
+        "Zhiyuan Yuan",
+        "Junfu Guo",
+        "Fan Yang",
+        "Chao Zhang",
+        "Bichao Chen",
+        "Wanwan Feng",
+        "Chao Liu",
+        "Jing Guo",
+        "Guozhen Fan",
+        "Yong Zhang",
+        "Yuxiang Li",
+        "Xun Xu",
+        "Jianhua Yao"
+      ],
+      "year": 2022,
+      "venue": "Nature Communications",
+      "doi": "https://doi.org/10.1038/s41467-022-35288-0",
+      "url": "https://doi.org/10.1038/s41467-022-35288-0",
+      "language": "en",
+      "abstract": "Spatially resolved transcriptomics provides the opportunity to investigate the gene expression profiles and the spatial context of cells in naive state, but at low transcript detection sensitivity or with limited gene throughput. Comprehensive annotating of cell types in spatially resolved transcriptomics to understand biological processes at the single cell level remains challenging. Here we propose Spatial-ID, a supervision-based cell typing method, that combines the existing knowledge of reference single-cell RNA-seq data and the spatial information of spatially resolved transcriptomics data. We present a series of benchmarking analyses on publicly available spatially resolved transcriptomics datasets, that demonstrate the superiority of Spatial-ID compared with state-of-the-art methods. Besides, we apply Spatial-ID on a self-collected mouse brain hemisphere dataset measured by Stereo-seq, that shows the scalability of Spatial-ID to three-dimensional large field tissues with subcellular spatial resolution.",
+      "keywords": [
+        "Single-cell and spatial transcriptomics",
+        "Gene expression and cancer classification",
+        "Cell Image Analysis Techniques"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial data",
+        "transfer learning spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Spatial Autoregressive Models with Generalized Spatial Disturbances",
+      "authors": [
+        "Kuangnan Fang",
+        "Wei Lan",
+        "Dan Pu",
+        "Qingzhao Zhang"
+      ],
+      "year": 2022,
+      "venue": "Statistica Sinica",
+      "doi": "https://doi.org/10.5705/ss.202021.0377",
+      "url": "https://doi.org/10.5705/ss.202021.0377",
+      "language": "en",
+      "abstract": "We propose a method named the spatial autoregressive model with generalized disturbances (SARg) to simultaneously model the spatial effect among both response variables and disturbance terms.By directly modeling the covariance matrix of disturbance terms as a polynomial function of the row-normalized adjacency matrix with a prespecified upper order that may tend to infinity, our model covers the traditional spatial autoregressive model with moving average disturbances (SARMA) and the spatial autoregressive model with autoregressive disturbances (SARAR) as special cases.A quasi-maximum likelihood estimator (QMLE) is proposed to estimate the model.In addition, an approximate maximum likelihood estimator (AMLE), which is feasible for large-scale networks, is also investigated to alleviate the computational cost.The asymptotic properties of both estimators (i.e., QMLE and AMLE) are established without imposing any distribution assumptions.Since the number of matrix predictors diverges, an extended Bayesian information criterion (EBIC)-type method is proposed for model selection, and we demonstrate its selection consistency.Simulation stud- Statistica Sinica: Newly accepted Paper (accepted author-version subject to English editing)ies and an analysis of the spatial effects in mutual fund cash inflow are presented to illustrate the usefulness of the proposed model.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Statistical Methods and Inference",
+        "Regional Economic and Spatial Analysis"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "LIFE EXPECTANCY MODELING USING MODIFIED SPATIAL AUTOREGRESSIVE MODEL",
+      "authors": [
+        "Hasbi Yasin",
+        "Budi Warsito",
+        "Arief Rachman Hakim",
+        "Rahmasari Nur Azizah"
+      ],
+      "year": 2022,
+      "venue": "MEDIA STATISTIKA",
+      "doi": "https://doi.org/10.14710/medstat.15.1.72-82",
+      "url": "https://doi.org/10.14710/medstat.15.1.72-82",
+      "language": "en",
+      "abstract": "The presence of outliers will affect the parameter estimation results and model accuracy. It also occurs in the spatial regression model, especially the Spatial Autoregressive (SAR) model. Spatial Autoregressive (SAR) is a regression model where spatial effects are attached to the dependent variable. Removing outliers in the analysis will eliminate the necessary information. Therefore, the solution offered is to modify the SAR model, especially by giving special treatment to observations that have potentially become outliers. This study develops to modeling the life expectancy data in Central Java Province using a modified spatial autoregressive model with the Mean-Shift Outlier Model (MSOM) approach. Outliers are detected using the MSOM method. Then the result is used as the basis for modifying the SAR model. This modification, in principle, will reduce or increase the average of the observed data indicated as outliers. The results show that the modified model can improve the model accuracy compared to the original SAR model. It can be proved by the increased coefficient of determination and decreasing the Akaike Information Criterion (AIC) value of the modified model. In addition, the modified model can improve the skewness and kurtosis values of the residuals getting closer to the Normal distribution.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Advanced Statistical Methods and Models",
+        "Regional Economic and Spatial Analysis"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Hierarchical Bayesian Control Charts Based on the Spatial Autoregressive Model",
+      "authors": [
+        "Seiya Kadoishi",
+        "Hironobu Kawamura"
+      ],
+      "year": 2022,
+      "venue": "Total Quality Science",
+      "doi": "https://doi.org/10.17929/tqs.7.190",
+      "url": "https://doi.org/10.17929/tqs.7.190",
+      "language": "en",
+      "abstract": "This paper proposes hierarchical Bayesian control charts based on the spatial autoregressive model for trendy datasets in high-mix low-volume production. The control chart, which is a representative method of statistical process control, is plagued by sample shortages for each product type in high-mix low-volume production. In addition, during manufacturing processing equipment can deteriorate, which, in turn, can result in changing process averages, which, in turn, results in an increase in type I errors. Moreover, in high-mix, low-volume production, spatial dependence exists between different product types due to universal equipment being used. To address these problems, we design control charts that consider the spatial relationships among product types using hierarchical Bayesian modeling based on the spatial autoregressive model. To clarify the properties of the proposed method, we evaluate two production orders: completely random production orders and nonrandom production orders. The results suggest the proposed method is effective, especially in the case of a random production sequence and when there are large differences among product types.",
+      "keywords": [
+        "Advanced Statistical Process Monitoring",
+        "Fault Detection and Control Systems",
+        "Management and Optimization Techniques"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Grouped spatial autoregressive model",
+      "authors": [
+        "Danyang Huang",
+        "Wei Hu",
+        "Bing‐Yi Jing",
+        "Bo Yang Zhang"
+      ],
+      "year": 2022,
+      "venue": "Computational Statistics & Data Analysis",
+      "doi": "https://doi.org/10.1016/j.csda.2022.107601",
+      "url": "https://doi.org/10.1016/j.csda.2022.107601",
+      "language": "en",
+      "abstract": "With the development of the internet, network data with replications can be collected at different time points. The spatial autoregressive panel (SARP) model is a useful tool for analyzing such network data. However, in the traditional SARP model, all individuals are assumed to be homogeneous in their network autocorrelation coefficients, while in practice, correlations could differ for the nodes in different groups. Here, a grouped spatial autoregressive (GSAR) model based on the SARP model is proposed to permit network autocorrelation heterogeneity among individuals, while analyzing network data with independent replications across different time points and strong spatial effects . Each individual in the network belongs to a latent specific group, which is characterized by a set of parameters. Two estimation methods are studied: two-step naive least-squares estimator, and two-step conditional least-squares estimator. Furthermore, their corresponding asymptotic properties and technical conditions are investigated. To demonstrate the performance of the proposed GSAR model and its corresponding estimation methods, numerical analysis was performed on simulated and real data.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "demographic modeling and climate adaptation",
+        "Complex Network Analysis Techniques"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Estimation of spatial autoregressive models with covariate measurement errors",
+      "authors": [
+        "Guowang Luo",
+        "Mixia Wu",
+        "Zhen Pang"
+      ],
+      "year": 2022,
+      "venue": "Journal of Multivariate Analysis",
+      "doi": "https://doi.org/10.1016/j.jmva.2022.105093",
+      "url": "https://doi.org/10.1016/j.jmva.2022.105093",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Statistical and numerical algorithms",
+        "Advanced Statistical Methods and Models"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Empirical likelihood for spatial dynamic panel data models with spatial lags and spatial errors",
+      "authors": [
+        "Jianrong Rong",
+        "Yan Liu",
+        "Yongsong Qin"
+      ],
+      "year": 2022,
+      "venue": "Communication in Statistics- Theory and Methods",
+      "doi": "https://doi.org/10.1080/03610926.2022.2032172",
+      "url": "https://doi.org/10.1080/03610926.2022.2032172",
+      "language": "en",
+      "abstract": "We study spatial dynamic panel data models with both spatial lags and spatial errors. The empirical likelihood (EL) ratio statistics are constructed for the parameters of the models. It is shown that the limiting distributions of the EL ratio statistics are chi-square distributions, which are used to construct confidence regions for the parameters of the models. A simulation study is conducted to compare the performances of the EL based and the normal approximation (NA) based confidence regions. Simulation results show that the EL can be computationally easier than the NA method to implement in practice.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Statistical Methods and Inference",
+        "Regional Economic and Spatial Analysis"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial lag model",
+        "spatial panel data model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Deep learning high resolution burned area mapping by transfer learning from Landsat-8 to PlanetScope",
+      "authors": [
+        "Vitor Souza Martins",
+        "David P. Roy",
+        "Haiyan Huang",
+        "Luigi Boschetti",
+        "H.K. Zhang",
+        "Lin Yan"
+      ],
+      "year": 2022,
+      "venue": "Remote Sensing of Environment",
+      "doi": "https://doi.org/10.1016/j.rse.2022.113203",
+      "url": "https://doi.org/10.1016/j.rse.2022.113203",
+      "language": "en",
+      "abstract": "High spatial resolution commercial satellite data provide new opportunities for terrestrial monitoring. The recent availability of near-daily 3 m observations provided by the PlanetScope constellation enables mapping of small and spatially fragmented burns that are not detected at coarser spatial resolution. This study demonstrates, for the first time, the potential for automated PlanetScope 3 m burned area mapping. The PlanetScope sensors have no onboard calibration or short-wave infrared bands, and have variable overpass times, making them challenging to use for large area, automated, burned area mapping. To help overcome these issues, a U-Net deep learning algorithm was developed to classify burned areas from two-date Planetscope 3 m image pairs acquired at the same location. The deep learning approach, unlike conventional burned area mapping algorithms, is applied to image spatial subsets and not to single pixels and so incorporates spatial as well as spectral information. Deep learning requires large amounts of training data. Consequently, transfer learning was undertaken using pre-existing Landsat-8 derived burned area reference data to train the U-Net that was then refined with a smaller set of PlanetScope training data. Results across Africa considering 659 PlanetScope radiometrically normalized image pairs sensed one day apart in 2019 are presented. The U-Net was first trained with different numbers of randomly selected 256 × 256 30 m pixel patches extracted from 92 pre-existing Landsat-8 burned area reference data sets defined for 2014 and 2015. The U-Net trained with 300,000 Landsat patches provided about 13% 30 m burn omission and commission errors with respect to 65,000 independent 30 m evaluation patches. The U-Net was then refined by training on 5,000 256 × 256 3 m patches extracted from independently interpreted PlanetScope burned area reference data. Qualitatively, the refined U-Net was able to more precisely delineate 3 m burn boundaries, including the interiors of unburned areas, and better classify “faint” burned areas indicative of low combustion completeness and/or sparse burns. The refined U-Net 3 m classification accuracy was assessed with respect to 20 independently interpreted PlanetScope burned area reference data sets, composed of 339.4 million 3 m pixels, with low 12.29% commission and 12.09% omission errors. The dependency of the U-Net classification accuracy on the burned area proportion within 3 m pixel 256 × 256 patches was also examined, and patches <6.5% burned were less accurately classified. A regression analysis between the proportion of 30 m grid cells classified as burned against the proportion labelled as burned in the 3 m reference maps showed high agreement (r2 = 0.91, slope = 0.93, intercept <0.001), indicating that the commission and omission errors largely compensate at 30 m resolution.",
+      "keywords": [
+        "Fire effects on ecosystems",
+        "Fire Detection and Safety Systems",
+        "Remote-Sensing Image Classification"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial data",
+        "transfer learning spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "A Bayesian approach for the estimation of weight matrices in spatial autoregressive models",
+      "authors": [
+        "Tamás Krisztin",
+        "Philipp Piribauer"
+      ],
+      "year": 2022,
+      "venue": "Spatial Economic Analysis",
+      "doi": "https://doi.org/10.1080/17421772.2022.2095426",
+      "url": "https://doi.org/10.1080/17421772.2022.2095426",
+      "language": "en",
+      "abstract": "We develop a Bayesian approach to estimate weight matrices in spatial autoregressive (or spatial lag) models. Datasets in regional economic literature are typically characterized by a limited number of time periods T relative to spatial units N. When the spatial weight matrix is subject to estimation severe problems of over-parametrization are likely. To make estimation feasible, our approach focusses on spatial weight matrices which are binary prior to row-standardization. We discuss the use of hierarchical priors which impose sparsity in the spatial weight matrix. Monte Carlo simulations show that these priors perform very well where the number of unknown parameters is large relative to the observations. The virtues of our approach are demonstrated using global data from the early phase of the COVID-19 pandemic.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Regional Economic and Spatial Analysis",
+        "demographic modeling and climate adaptation"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Spatial machine learning: new opportunities for regional science",
+      "authors": [
+        "Katarzyna Kopczewska"
+      ],
+      "year": 2021,
+      "venue": "The Annals of Regional Science",
+      "doi": "https://doi.org/10.1007/s00168-021-01101-x",
+      "url": "https://doi.org/10.1007/s00168-021-01101-x",
+      "language": "en",
+      "abstract": "Abstract This paper is a methodological guide to using machine learning in the spatial context. It provides an overview of the existing spatial toolbox proposed in the literature: unsupervised learning, which deals with clustering of spatial data, and supervised learning, which displaces classical spatial econometrics. It shows the potential of using this developing methodology, as well as its pitfalls. It catalogues and comments on the usage of spatial clustering methods (for locations and values, both separately and jointly) for mapping, bootstrapping, cross-validation, GWR modelling and density indicators. It provides details of spatial machine learning models, which are combined with spatial data integration, modelling, model fine-tuning and predictions to deal with spatial autocorrelation and big data. The paper delineates “already available” and “forthcoming” methods and gives inspiration for transplanting modern quantitative methods from other thematic areas to research in regional science.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Advanced Decision-Making Techniques",
+        "Human Mobility and Location-Based Analysis"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial econometrics transfer learning",
+        "spatial machine learning"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Spatial autoregressive models for scan statistic",
+      "authors": [
+        "Mohamed‐Salem Ahmed",
+        "Lionel Cucala",
+        "Michaël Génin"
+      ],
+      "year": 2021,
+      "venue": "Journal of Spatial Econometrics",
+      "doi": "https://doi.org/10.1007/s43071-021-00017-0",
+      "url": "https://doi.org/10.1007/s43071-021-00017-0",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Point processes and geometric inequalities",
+        "Data-Driven Disease Surveillance"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "GMM estimation of a spatial autoregressive model with autoregressive disturbances and endogenous regressors",
+      "authors": [
+        "Fei Jin",
+        "Yuqin Wang"
+      ],
+      "year": 2021,
+      "venue": "Econometric Reviews",
+      "doi": "https://doi.org/10.1080/07474938.2021.2002521",
+      "url": "https://doi.org/10.1080/07474938.2021.2002521",
+      "language": "en",
+      "abstract": "This paper considers the generalized method of moments (GMM) estimation of a spatial autoregressive (SAR) model with SAR disturbances, where we allow for endogenous regressors in addition to a spatial lag of the dependent variable. We do not assume any reduced form of the endogenous regressors, thus we allow for spatial dependence and heterogeneity in endogenous regressors, and allow for nonlinear relations between endogenous regressors and their instruments. Innovations in the model can be homoscedastic or heteroskedastic with unknown forms. We prove that GMM estimators with linear and quadratic moments are consistent and asymptotically normal. In the homoscedastic case, we derive the best linear and quadratic moments that can generate an optimal GMM estimator with the minimum asymptotic variance.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Regional Economic and Spatial Analysis",
+        "Regional Economics and Spatial Analysis"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "verified_status": "待核验"
     }
   ],
-  "updated_at": "2026-10-21T14:20:52.233Z",
+  "updated_at": "2026-10-22T21:25:29+08:00",
   "imported_from": {
     "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
     "title": "TL-SAR 每日文献追踪｜第 1 期",

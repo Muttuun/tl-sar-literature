@@ -40,6 +40,17 @@
       "source_url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
       "note": "按用户要求清空当前 51 篇文献，替换为指定分享页的 50 篇（英文 35 篇、中文 15 篇）；保留来源、原始序号、概述与借鉴建议。题录与摘要均待独立核验，旧库可从 Git 历史恢复。",
       "errors": []
+    },
+    {
+      "run_date": "2026-10-22",
+      "completed_at": "2026-10-22T21:25:29+08:00",
+      "candidate_count": 50,
+      "new_count": 41,
+      "duplicate_count": 9,
+      "total_count": 91,
+      "error_count": 0,
+      "status": "success",
+      "errors": []
     }
   ]
 }
