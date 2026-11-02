@@ -161,6 +161,17 @@
       "error_count": 0,
       "status": "success",
       "errors": []
+    },
+    {
+      "run_date": "2026-11-03",
+      "completed_at": "2026-11-03T01:46:29+08:00",
+      "candidate_count": 50,
+      "new_count": 0,
+      "duplicate_count": 50,
+      "total_count": 92,
+      "error_count": 0,
+      "status": "success",
+      "errors": []
     }
   ]
 }
