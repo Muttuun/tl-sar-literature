@@ -207,7 +207,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -254,7 +254,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -343,7 +343,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -455,7 +455,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -483,7 +483,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -532,7 +532,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -589,12 +589,19 @@
       "language": "en",
       "abstract": "结合惩罚估计、多空间矩阵与变点检测，建立估计的 Oracle 性质。可参考惩罚项与模型复杂度处理。",
       "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Statistical Methods and Inference",
+        "Regional Economic Trends and Sectoral Structure"
+      ],
       "method": "结合惩罚估计、多空间矩阵与变点检测，建立估计的 Oracle 性质。",
       "novelty": "",
       "relevance_category": "英文研究",
       "relevance_reason": "可参考惩罚项与模型复杂度处理。",
-      "matched_queries": [],
+      "matched_queries": [
+        "spatial autoregressive model",
+        "spatial autoregressive"
+      ],
       "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
       "source_rank": 19,
       "source_date": "2026-10-21",
@@ -613,7 +620,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-11-06",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -642,7 +649,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -669,7 +676,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -1072,7 +1079,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -1119,7 +1126,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -1211,7 +1218,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -1291,7 +1298,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -1320,7 +1327,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -1391,7 +1398,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -1563,7 +1570,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -1835,7 +1842,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -1894,7 +1901,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -1931,7 +1938,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -1960,7 +1967,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -1988,7 +1995,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -2017,7 +2024,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -2085,7 +2092,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -2114,7 +2121,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -2143,7 +2150,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -2270,7 +2277,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -2502,7 +2509,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -2530,7 +2537,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -2643,7 +2650,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -2672,7 +2679,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -2699,7 +2706,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -2727,7 +2734,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -2755,7 +2762,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -2823,7 +2830,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -2853,7 +2860,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -2882,7 +2889,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -2911,7 +2918,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -2941,7 +2948,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -3025,7 +3032,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -3055,7 +3062,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -3085,7 +3092,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -3115,7 +3122,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -3143,7 +3150,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -3173,7 +3180,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -3202,7 +3209,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -3231,7 +3238,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -3263,7 +3270,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -3291,7 +3298,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -3375,11 +3382,40 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Deep Transfer Learning for Land Use and Land Cover Classification: A Comparative Study",
+      "authors": [
+        "Raoof Naushad",
+        "Tarunpreet Kaur",
+        "Ebrahim Ghaderpour"
+      ],
+      "year": 2021,
+      "venue": "Sensors",
+      "doi": "https://doi.org/10.3390/s21238083",
+      "url": "https://doi.org/10.3390/s21238083",
+      "language": "en",
+      "abstract": "Efficiently implementing remote sensing image classification with high spatial resolution imagery can provide significant value in land use and land cover (LULC) classification. The new advances in remote sensing and deep learning technologies have facilitated the extraction of spatiotemporal information for LULC classification. Moreover, diverse disciplines of science, including remote sensing, have utilised tremendous improvements in image classification involving convolutional neural networks (CNNs) with transfer learning. In this study, instead of training CNNs from scratch, the transfer learning was applied to fine-tune pre-trained networks Visual Geometry Group (VGG16) and Wide Residual Networks (WRNs), by replacing the final layers with additional layers, for LULC classification using the red-green-blue version of the EuroSAT dataset. Moreover, the performance and computational time are compared and optimised with techniques such as early stopping, gradient clipping, adaptive learning rates, and data augmentation. The proposed approaches have addressed the limited-data problem, and very good accuracies were achieved. The results show that the proposed method based on WRNs outperformed the previous best results in terms of computational efficiency and accuracy, by achieving 99.17%.",
+      "keywords": [
+        "Remote-Sensing Image Classification",
+        "Remote Sensing and Land Use",
+        "Advanced Neural Network Applications"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial data",
+        "transfer learning spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     }
   ],
-  "updated_at": "2026-11-04T23:56:33+08:00",
+  "updated_at": "2026-11-06T00:05:50+08:00",
   "imported_from": {
     "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
     "title": "TL-SAR 每日文献追踪｜第 1 期",

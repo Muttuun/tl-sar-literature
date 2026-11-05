@@ -194,6 +194,22 @@
       "error_count": 0,
       "status": "success",
       "errors": []
+    },
+    {
+      "run_date": "2026-11-06",
+      "completed_at": "2026-11-06T00:05:50+08:00",
+      "candidate_count": 50,
+      "new_count": 1,
+      "duplicate_count": 49,
+      "total_count": 94,
+      "error_count": 1,
+      "status": "partial",
+      "errors": [
+        {
+          "query": "spatial machine learning",
+          "error": "HTTP Error 429: Too Many Requests"
+        }
+      ]
     }
   ]
 }
