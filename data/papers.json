@@ -1874,7 +1874,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -3325,7 +3325,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-06",
       "verified_status": "待核验"
     },
     {
@@ -3415,7 +3415,7 @@
       "verified_status": "待核验"
     }
   ],
-  "updated_at": "2026-11-06T00:05:50+08:00",
+  "updated_at": "2026-11-06T23:38:34+08:00",
   "imported_from": {
     "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
     "title": "TL-SAR 每日文献追踪｜第 1 期",
