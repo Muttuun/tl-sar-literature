@@ -164,6 +164,60 @@
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
+      "title": "Weighted D-optimal design for spatial regression model in the presence of heteroscedasticity",
+      "authors": [
+        "Bodunwa O. Kikelomo"
+      ],
+      "year": 2026,
+      "venue": "Kathmandu University Journal of Science Engineering and Technology",
+      "doi": "https://doi.org/10.70530/kuset.v20i2.758",
+      "url": "https://doi.org/10.70530/kuset.v20i2.758",
+      "language": "en",
+      "abstract": "In experimental designs, classical D-optimal design methods rely on homoscedastic and independent error assumptions. In this study, a spatial regression model with heteroscedastic errors was considered and proposed using weighted D-optimal designs as a result. The study proposed a weighted D-optimal design framework that explicitly incorporates spatial epistemic uncertainty derived from an Integrated Nested Laplace Approximation -- Stochastic Partial Differential Equation (INLA--SPDE) model. Spatial dependence through a latent Gaussian field represented by the SPDE approach. Epistemic uncertainty is measured using the posterior variance of the spatial field and is integrated into the D-optimality criterion through location-specific weights. This weighting scheme prioritizes candidate locations with higher predictive uncertainty, thereby targeting regions where additional observations are expected to yield the greatest information gain. The proposed method is applied to spatial data on malaria prevalence among children under 5 years in Nigeria. Results showed substantial spatial heterogeneity in predictive variance, with higher uncertainty concentrated in regions with sparse observations. The weighted D-optimal design allocates sampling points preferentially to these high-uncertainty areas, in contrast to classical D-optimal designs that tend to favour well-sampled regions. Ranking and priority analyses further confirm the internal consistency and transparency of the proposed approach. Overall, the study demonstrates that incorporating spatial epistemic uncertainty into D-optimal design leads to more informative and efficient sampling strategies for spatial regression models under heteroscedasticity and non-normal errors.",
+      "keywords": [
+        "Optimal Experimental Design Methods",
+        "Spatial and Panel Data Analysis",
+        "Gaussian Processes and Bayesian Inference"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Transfer learning in regression with outliers",
+      "authors": [
+        "Bingbing Wang",
+        "Jiaqi Wang",
+        "Yu Tang"
+      ],
+      "year": 2026,
+      "venue": "Statistical Papers",
+      "doi": "https://doi.org/10.1007/s00362-026-01919-7",
+      "url": "https://doi.org/10.1007/s00362-026-01919-7",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Domain Adaptation and Few-Shot Learning",
+        "Advanced Statistical Methods and Models",
+        "Machine Learning and Data Classification"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
       "title": "Transfer learning for spatial autoregressive models with missing responses",
       "authors": [
         "Yunquan Song"
@@ -207,7 +261,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -254,7 +308,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -270,12 +324,18 @@
       "language": "en",
       "abstract": "在 Box-Cox SAR 迁移框架下研究隐私保护微调。应核对其模型结构与当前 TL-SAR 的重合范围。",
       "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Privacy-Preserving Technologies in Data",
+        "Gaussian Processes and Bayesian Inference"
+      ],
       "method": "在 Box-Cox SAR 迁移框架下研究隐私保护微调。",
       "novelty": "",
       "relevance_category": "英文研究",
       "relevance_reason": "应核对其模型结构与当前 TL-SAR 的重合范围。",
-      "matched_queries": [],
+      "matched_queries": [
+        "transfer learning spatial regression"
+      ],
       "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
       "source_rank": 8,
       "source_date": "2026-10-21",
@@ -294,7 +354,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-11-11",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -343,7 +403,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -388,6 +448,33 @@
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
+      "title": "Transfer Learning",
+      "authors": [
+        "Pier Luigi Mazzeo",
+        "Alessandro Bruno"
+      ],
+      "year": 2026,
+      "venue": "Directory of Open access Books (OAPEN Foundation)",
+      "doi": "",
+      "url": "https://directory.doabooks.org/handle/20.500.12854/181051",
+      "language": "en",
+      "abstract": "A paradigm change is currently occurring in the field of artificial intelligence. Initially, a straightforward but ever-expensive formula, involving more data and more computation, described the course of machine learning. We started from scratch and trained ever-larger models from random initialization on enormous, task-specific datasets. Although effective, this strategy consumed a significant amount of resources, made it challenging to enter new markets, and was fragile in conditions with limited data. This book is designed for engineers, researchers, students, and technology leaders who want not only to understand this shift but also to actively participate in it. Our goal is to provide you with both the conceptual framework and the practical expertise to harness the power of pre-trained models, saving you time and computational resources, and ultimately enabling you to solve problems that were previously out of reach.",
+      "keywords": [
+        "Domain Adaptation and Few-Shot Learning",
+        "Advanced Neural Network Applications",
+        "Machine Learning and Algorithms"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
       "title": "Trans-Glasso: A Transfer Learning Approach to Precision Matrix Estimation",
       "authors": [
         "Boxin Zhao",
@@ -429,6 +516,91 @@
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
+      "title": "Testing coefficient stability in spatial regression",
+      "authors": [
+        "Ulrich K. Müller",
+        "Mark W. Watson"
+      ],
+      "year": 2026,
+      "venue": "Journal of Econometrics",
+      "doi": "https://doi.org/10.1016/j.jeconom.2026.106309",
+      "url": "https://doi.org/10.1016/j.jeconom.2026.106309",
+      "language": "en",
+      "abstract": "AbstractThis paper develops a test for coefficient variability in spatial regressions. The test is designed to have good power for a wide range of persistent patterns of coefficient variation, be applicable in a wide range of spatial designs, and accommodate spatial correlation in regressors and regression errors. The test approximates the best local invariant test for coefficient stability in a Gaussian regression model with Lévy-Brown motion coefficient variation under the alternative, and is thus a spatial generalization of the [Nyblom89 ] test of coefficient stability in time series regressions. An application to 3,500 zip-code level bivariate regressions of U.S. socioeconomic variables reveals widespread coefficient instability.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Advanced Statistical Methods and Models",
+        "Regional Economic Trends and Sectoral Structure"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Spatial autoregressive hybrid quantile–expectile regression",
+      "authors": [
+        "Xinyue Liu",
+        "Yunquan Song"
+      ],
+      "year": 2026,
+      "venue": "Spatial Statistics",
+      "doi": "https://doi.org/10.1016/j.spasta.2026.101033",
+      "url": "https://doi.org/10.1016/j.spasta.2026.101033",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Advanced Statistical Methods and Models",
+        "Housing Market and Economics"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "SpaJoint: a transfer learning method for spatial transcriptomics deconvolution",
+      "authors": [
+        "Zichang Li",
+        "Xiangjie Li",
+        "Xiaokang Yu",
+        "Sheng Fang",
+        "Jingxiao Zhang",
+        "Xinyi Xu"
+      ],
+      "year": 2026,
+      "venue": "Briefings in Bioinformatics",
+      "doi": "https://doi.org/10.1093/bib/bbag158",
+      "url": "https://doi.org/10.1093/bib/bbag158",
+      "language": "en",
+      "abstract": "Currently, many widely used spatial transcriptomics (ST) technologies do not achieve single-cell resolution, with each spot capturing signals from multiple, potentially heterogeneous cells. As a result, a key challenge is to resolve the spatial distribution of distinct cell types within tissues, which is fundamental for understanding tissue architecture and biological function. Here we present a deconvolution method based on transfer learning, SpaJoint. This method integrates gene expression derived from single-cell RNA sequencing (scRNA-seq) and ST, taking into account the spatial correlation across locations of different spots. Comprehensive experiments demonstrate that SpaJoint achieves excellent performance in predicting the cell-type composition of spatial spots and identifying the spatial regions of cell types, thus highly effective and broadly applicable among various scRNA-seq and ST datasets. Additionally, it exhibits remarkable robustness to hyperparameters and provides significant advantage in computational efficiency.",
+      "keywords": [
+        "Single-cell and spatial transcriptomics",
+        "Gene expression and cancer classification",
+        "Gene Regulatory Network Analysis"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
       "title": "Some notes on the spatial autoregressive model",
       "authors": [
         "Mengling Gong",
@@ -455,7 +627,34 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Selective transfer learning for spatial Poisson models with response measurement error",
+      "authors": [
+        "Kailin Liua",
+        "Yunquan Songa"
+      ],
+      "year": 2026,
+      "venue": "Expert Systems with Applications",
+      "doi": "https://doi.org/10.1016/j.eswa.2026.133515",
+      "url": "https://doi.org/10.1016/j.eswa.2026.133515",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Statistical Methods and Inference",
+        "demographic modeling and climate adaptation"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -483,7 +682,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -532,7 +731,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -574,6 +773,33 @@
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-21",
       "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "Quantile-Stage model averaging transfer learning for high-dimensional spatial expected shortfall regression",
+      "authors": [
+        "Yongqi Wang",
+        "Yunquan Song"
+      ],
+      "year": 2026,
+      "venue": "Spatial Statistics",
+      "doi": "https://doi.org/10.1016/j.spasta.2026.101023",
+      "url": "https://doi.org/10.1016/j.spasta.2026.101023",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Statistical Methods and Inference",
+        "Financial Risk and Volatility Modeling"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
     },
     {
       "title": "Inference on Dynamic Spatial Autoregressive Models with Change Point Detection",
@@ -620,7 +846,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -649,7 +875,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -676,7 +902,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -761,6 +987,35 @@
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-21",
       "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "A transfer learning-based hybrid deep- and machine-learning regression approach for predicting the postoperative pulmonary function",
+      "authors": [
+        "Wenfang Wang",
+        "Yingli Sun",
+        "Haihong Ma",
+        "Ming Li"
+      ],
+      "year": 2026,
+      "venue": "European Radiology Experimental",
+      "doi": "https://doi.org/10.1186/s41747-026-00821-z",
+      "url": "https://doi.org/10.1186/s41747-026-00821-z",
+      "language": "en",
+      "abstract": "Abstract Objectives Accurately predicting postoperative pulmonary function is essential for surgical decision-making in patients with pulmonary nodules. Here, we developed a hybrid model using preoperative computed tomography (CT) images and evaluated its accuracy and interpretability for predicting postoperative pulmonary function. Materials and methods This retrospective study included 136 patients who underwent preoperative chest CT and postoperative pulmonary function tests. A pre-trained Inflated 3D ConvNet (I3D) model was fine-tuned for transfer learning to predict the postoperative pulmonary function, and the resulting model served as the feature extractor. Extracted deep learning features were combined with an elastic net regression for prediction. Models established using clinical features or radiomics with elastic net, end-to-end I3D transfer learning, and 3D ResNet18 trained from scratch were compared, with additional evaluation against a conventional segment-counting method. Performance was evaluated against spirometry, and interpretability was assessed using Grad-CAM. Results The hybrid model exhibited the best external test performance. For postoperative forced vital capacity (FVC) prediction, the concordance correlation coefficient (CCC) was 0.707, the Pearson correlation coefficient (Pearson r ) was 0.796, and the R -squared ( R 2 ) was 0.499. For postoperative forced expiratory volume in 1 s (FEV 1 ) prediction, the CCC was 0.729, Pearson r was 0.772, and R 2 was 0.418. Grad-CAM revealed the inferior and paravertebral lung regions in the FVC model and bilateral lung bases and diaphragmatic areas in the FEV 1 model. Conclusion The hybrid elastic net model based on fine-tuned I3D features predicted postoperative pulmonary function without requiring preoperative spirometry or detailed surgical planning and may guide the development of future predictive models. Key Points Question CT-only prediction of postoperative pulmonary function remains an unmet clinical need due to the non-routine use of pulmonary function testing. Findings A hybrid CT-based model enables prediction of postoperative pulmonary function and outperforms conventional segment-counting, clinical, radiomics, and end-to-end deep learning approaches. Relevance Statement This hybrid CT-based model can estimate postoperative pulmonary function from routine preoperative non-contrast CT images, potentially assisting surgical decision-making for lung cancer.",
+      "keywords": [
+        "Radiomics and Machine Learning in Medical Imaging",
+        "Lung Cancer Diagnosis and Treatment",
+        "Chronic Obstructive Pulmonary Disease (COPD) Research"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
     },
     {
       "title": "A geographically neural network weighted regression with spatial autoregressive model: model design, estimation, and variable selection",
@@ -1050,6 +1305,33 @@
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
+      "title": "Uncertain spatial autoregressive analysis of imprecise observations",
+      "authors": [
+        "Na Yang",
+        "Yuhong Sheng"
+      ],
+      "year": 2025,
+      "venue": "Communication in Statistics- Theory and Methods",
+      "doi": "https://doi.org/10.1080/03610926.2025.2547766",
+      "url": "https://doi.org/10.1080/03610926.2025.2547766",
+      "language": "en",
+      "abstract": "Traditional spatial autoregressive analysis usually assumes that the observed data are precise, but this assumption is often difficult to meet in practical applications. Spatial data, owing to its inherent spatial autocorrelation, as well as the differences in data collection methods at different locations, the complexity of the geographical environment, and other factors, often has greater uncertainty. To address this problem, this article introduces an uncertain spatial autoregressive approach. Assuming that the observed values are imprecise and described by uncertain variables, a minimization problem is then derived using the principle of least squares to estimate the values of the unknown parameters of the uncertain spatial autoregressive model. In addition, a method is provided to determine the predicted value and the confidence interval for the response variable in the newly introduced explanatory variables. Ultimately, to demonstrate the application of the uncertain spatial autoregressive model, two numerical examples are provided.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Fuzzy Systems and Optimization",
+        "Statistical and numerical algorithms"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
       "title": "Transfer learning of multicellular organization via single-cell and spatial transcriptomics",
       "authors": [
         "Yecheng Tan",
@@ -1079,7 +1361,36 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Transfer learning in agriculture: a review",
+      "authors": [
+        "Md Ismail Hossen",
+        "Mohammad Awrangjeb",
+        "Shirui Pan",
+        "Abdullah Al Mamun"
+      ],
+      "year": 2025,
+      "venue": "Artificial Intelligence Review",
+      "doi": "https://doi.org/10.1007/s10462-024-11081-x",
+      "url": "https://doi.org/10.1007/s10462-024-11081-x",
+      "language": "en",
+      "abstract": "Abstract The rapid growth of the global population has placed immense pressure on agriculture to enhance food production while addressing environmental and socioeconomic challenges such as biodiversity loss, water scarcity, and climate variability. Addressing these challenges requires adopting modern techniques and advancing agricultural research. Although some techniques, such as machine learning and deep learning, are increasingly used in agriculture, progress is constrained by the lack of large labelled datasets. This constraint arises because collecting data is often time-consuming, labour-intensive, and requires expert knowledge for data annotation. To mitigate data limitations, transfer learning (TL) offers a viable solution by allowing pre-trained models to be adapted for agricultural applications. Many researchers have demonstrated TL’s potential to advance agriculture. Despite its importance, there is a lack of a comprehensive review, which could be essential to guide researchers in this field. Given the significance and the lack of a review paper, this paper provides a review dedicated to TL in agriculture, offering three main contributions. First, we provide an in-depth background study on TL and its applications in agriculture. Second, we offer a comprehensive examination of TL-based agricultural applications, covering pre-trained models, dataset sources, input image types, implementation platforms, and TL approaches. Third, based on an exploration of the existing studies, we identify the challenges faced when applying TL in agriculture. Finally, to address the identified challenges, we recommend suggestions for future research directions.",
+      "keywords": [
+        "Smart Agriculture and AI",
+        "Advanced Neural Network Applications",
+        "Domain Adaptation and Few-Shot Learning"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -1218,7 +1529,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -1247,7 +1558,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -1279,7 +1590,34 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Spatial self-confounding: smoothness-related estimation bias in spatial regression models",
+      "authors": [
+        "David Bolin",
+        "Jonas Wallin"
+      ],
+      "year": 2025,
+      "venue": "Biometrika",
+      "doi": "https://doi.org/10.1093/biomet/asaf076",
+      "url": "https://doi.org/10.1093/biomet/asaf076",
+      "language": "en",
+      "abstract": "Abstract The estimation of regression parameters in spatially referenced data plays a crucial role across various scientific domains. A common approach involves employing an additive regression model to capture the relationship between observations and covariates, accounting for spatial variability not explained by the covariates through a Gaussian random field. We study the effect of misspecified covariates, in particular when the misspecification changes the smoothness. We analyse the theoretical properties of the generalized least-squares estimator under infill asymptotics, and show that the estimator can have counter-intuitive properties. In particular, the estimated regression coefficients can converge to zero as the number of observations increases if the covariates are too rough, despite high correlations between observations and covariates. This has important implications for practical applications as the importance of rough covariates can be severely underestimated, leading to incorrect scientific conclusions. We also show that the estimates can diverge to infinity under certain conditions, which can also lead to incorrect conclusions in practical applications. Through an application to temperature and precipitation data, we show that both behaviours can be observed for real data. Finally, we propose adding a smoothing step in the regression and show both theoretically and practically that this can solve the problem.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Soil Geostatistics and Mapping",
+        "Point processes and geometric inequalities"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -1327,7 +1665,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -1356,7 +1694,34 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Spatial Pattern Analysis and Spatial Regression of Geological Disaster Risk in Indonesia",
+      "authors": [
+        "Fanny Novika",
+        "Dedi Kusdani"
+      ],
+      "year": 2025,
+      "venue": "FARABI Jurnal Matematika dan Pendidikan Matematika",
+      "doi": "https://doi.org/10.47662/farabi.v8i2.1114",
+      "url": "https://doi.org/10.47662/farabi.v8i2.1114",
+      "language": "en",
+      "abstract": "Indonesia is a country with a high level of vulnerability to geological disasters such as earthquakes, landslides, and volcanic eruptions due to its position in the meeting zone of three active tectonic plates. This study aims to map the spatial pattern of geological disasters Local Indicators of Spatial Association (LISA) and analyze the effect of spatial variables on the number of victims using a spatial regression analysis approach. Data were obtained from BNPB and analyzed using the OLS method and three spatial regression models, namely the Spatial Autoregressive Model (SAR), Spatial Error Model (SEM), and General Spatial Model (GSM). The LISA results show that several provinces are included in the high-high and spatial outlier categories that are prone to disasters. Regression analysis shows that for earthquakes, the SEM model is the best model with a pseudo-R² of 0.888 and the lowest AIC. For landslides, the GSM model gives the best results (pseudo-R² = 0.7860 and AIC = 78.389), while for volcanic eruptions, the spatial model does not show significant spatial effects, so the OLS model is sufficient to represent the relationship between variables. The variable number of events proved to have the most significant influence on the number of victims across all types of disasters. This finding emphasizes the importance of a spatial approach in risk mapping and geological disaster mitigation planning in Indonesia.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Disaster Management and Resilience",
+        "Earthquake and Disaster Impact Studies"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -1401,6 +1766,160 @@
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
+      "title": "Self-Sufficient Deep Learning Super-Resolution of MODIS Land Surface Temperature Data: Integrating Kernel-Based Regression and Transfer Learning",
+      "authors": [
+        "Zahid Jahangir",
+        "Zhenfeng Shao",
+        "Peng Fu",
+        "Fahim Niaz",
+        "Qazi Muhammad Yasir",
+        "Yi Yu"
+      ],
+      "year": 2025,
+      "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+      "doi": "https://doi.org/10.1109/jstars.2025.3595006",
+      "url": "https://doi.org/10.1109/jstars.2025.3595006",
+      "language": "en",
+      "abstract": "Land Surface Temperature (LST) is a vital geophysical parameter influencing environmental and biophysical processes. However, acquiring high spatiotemporal resolution LST data (≤100 m, ∼daily) is challenging due to the trade-off between spatial and temporal resolutions of satellite thermal infrared data. Spatiotemporal fusion of cross-sensor LSTs suffers from overpass time mismatches, varying viewing geometries, and cloud contamination, limiting the availability of clear images for statistical models. To address these limitations, we propose a deep learning super-resolution (DL-SR) approach that requires no additional data once trained, to enhance the resolution of Moderate Resolution Imaging Spectroradiometer (MODIS) LST, referred hereafter as the self-sufficient DL-SR. We developed a novel transfer-learning-based super-resolution model, TNetSR, which leverages a pre-trained Very Deep Super-Resolution (VDSR) network and is refined via a Multi-Residual U-Net. Furthermore, we integrated a kernel-based Random Forest (RF) regression method with DL-SR, which generated high-resolution training data using surface reflectance, spectral indices, albedo, digital elevation model, and land cover. These outputs and low-resolution MODIS LST were used to train DL-SR models, enabling the self-sufficient DL-SR of MODIS inputs. By evaluating across 9 Australian OzFlux sites, TNetSR outperforms comparative models, achieving a mean squared error of 1.027 K (test sites) and 1.229 K (external test site), a peak signal-to-noise ratio of 28.196 dB (test sites) and 27.216 dB (external test site), and a structural similarity index of 0.842 (test sites) and 0.838 (external test site) against the high-resolution dataset. Comparisons with in-situ LST yield a Pearson correlation coefficient (R) ≥ 0.94, a bias of 2.97 K (test sites) and 3.0 K (external site), and an unbiased root mean squared error of 3.67 K (test sites) and 3.71 K (external site). The results demonstrated that TNetSR consistently improved LST accuracy across landscapes, climatic zones, and seasons.",
+      "keywords": [
+        "Advanced Image Fusion Techniques",
+        "Remote Sensing in Agriculture",
+        "Urban Heat Island Mitigation"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "S-SIRUS: an explainability algorithm for spatial regression Random Forest",
+      "authors": [
+        "Luca Patelli",
+        "Natalia Golini",
+        "Rosaria Ignaccolo",
+        "Michela Cameletti"
+      ],
+      "year": 2025,
+      "venue": "Statistics and Computing",
+      "doi": "https://doi.org/10.1007/s11222-025-10656-0",
+      "url": "https://doi.org/10.1007/s11222-025-10656-0",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Explainable Artificial Intelligence (XAI)",
+        "Spatial and Panel Data Analysis",
+        "Data Mining Algorithms and Applications"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Optimizing genomic prediction with transfer learning under a ridge regression framework",
+      "authors": [
+        "Osval Antonio Montesinos-López",
+        "Eduardo A. Barajas‐Ramirez",
+        "Josafhat Salinas‐Ruíz",
+        "Abelardo Montesinos‐López",
+        "Guillermo Gerard",
+        "Paolo Vitale",
+        "Susanne Dreisigacker",
+        "Carolina Saint Pierre",
+        "José Luis Crossa"
+      ],
+      "year": 2025,
+      "venue": "The Plant Genome",
+      "doi": "https://doi.org/10.1002/tpg2.70049",
+      "url": "https://doi.org/10.1002/tpg2.70049",
+      "language": "en",
+      "abstract": "Genomic selection (GS) is a predictive plant and animal methodology that allows the selection of plants and animals based on predictions without the need to measure the phenotype. However, its practical application requires challenging prediction accuracy due to the noise observations collected in experiments in these areas. Many strategies and approaches have been proposed to improve the prediction accuracy of this methodology. This paper explores the use of transfer learning in the context of GS. Transfer learning with (1) ridge regression (RR) (Transfer RR) and (2) analytic RR (ARR) (Transfer ARR) were applied from cultivars in the proxy environment to predict those cultivars in the goal environments. Also, we compared the performance of models RR and ARR without transfer learning. We used 11 real multi-environment datasets (wheat and rice) and evaluated them in terms of Pearson's correlation (Cor) and normalized root mean square error (NRMSE). Our study shows empirical evidence that the Transfer RR or Transfer ARR approaches significantly enhanced predictive performance. Across the datasets, Transfer RR (or Transfer ARR) method improved Cor by 22.962% and NRMSE by 5.757%, in comparison to models RR and ARR. These results underscore the potential of Transfer RR (or Transfer ARR) when enhancing predictive accuracy in this context.",
+      "keywords": [
+        "Genetic and phenotypic traits in livestock",
+        "Genetics and Plant Breeding",
+        "Genetic Mapping and Diversity in Plants and Animals"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Novel transfer learning based bone fracture detection using radiographic images",
+      "authors": [
+        "Aneeza Alam",
+        "Ahmad Sami Al‐Shamayleh",
+        "Nisrean Jaber Thalji",
+        "Ali Raza",
+        "Edgar Anibal Morales Barajas",
+        "Ernesto Bautista Thompson",
+        "Isabel de la Torre Díez",
+        "Imran Ashraf"
+      ],
+      "year": 2025,
+      "venue": "BMC Medical Imaging",
+      "doi": "https://doi.org/10.1186/s12880-024-01546-4",
+      "url": "https://doi.org/10.1186/s12880-024-01546-4",
+      "language": "en",
+      "abstract": "A bone fracture is a medical condition characterized by a partial or complete break in the continuity of the bone. Fractures are primarily caused by injuries and accidents, affecting millions of people worldwide. The healing process for a fracture can take anywhere from one month to one year, leading to significant economic and psychological challenges for patients. The detection of bone fractures is crucial, and radiographic images are often relied on for accurate assessment. An efficient neural network method is essential for the early detection and timely treatment of fractures. In this study, we propose a novel transfer learning-based approach called MobLG-Net for feature engineering purposes. Initially, the spatial features are extracted from bone X-ray images using a transfer model, MobileNet, and then input into a tree-based light gradient boosting machine (LGBM) model for the generation of class probability features. Several machine learning (ML) techniques are applied to the subsets of newly generated transfer features to compare the results. K-nearest neighbor (KNN), LGBM, logistic regression (LR), and random forest (RF) are implemented using the novel features with optimized hyperparameters. The LGBM and LR models trained on proposed MobLG-Net (MobileNet-LGBM) based features outperformed others, achieving an accuracy of 99% in predicting bone fractures. A cross-validation mechanism is used to evaluate the performance of each model. The proposed study can improve the detection of bone fractures using X-ray images.",
+      "keywords": [
+        "Medical Imaging and Analysis",
+        "Radiomics and Machine Learning in Medical Imaging",
+        "Bone fractures and treatments"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Modeling Illiteracy Rate in Indonesia with Spatial Regression",
+      "authors": [
+        "Alvizar Syamsul Balda",
+        "Parhaini Andriani"
+      ],
+      "year": 2025,
+      "venue": "Parameter.",
+      "doi": "https://doi.org/10.30598/parameterv4i3pp575-590",
+      "url": "https://doi.org/10.30598/parameterv4i3pp575-590",
+      "language": "en",
+      "abstract": "The illiteracy rate (ILR) serves as an indication of educational attainment, representing the percentage of individuals aged 15 and older who lack reading and writing skills. Despite a reduction in Indonesia's ILR to 3.33% in 2024, the objective of eliminating it entirely remains a priority to fulfill the fourth aim of The Sustainable Development Goals (SDGs) by 2030. This research seeks to estimate Indonesia's rate of illiteracy by examining relevant elements, including the number of individuals living in poverty, mean years of schooling, and gross enrollment ratio. The data is obtained from the BPS-Statistics Indonesia. This study employs spatial regression, utilizing an area-based methodology to capture spatial impacts among regions and analyze them with R software. The analysis results indicate that a) the chosen weighted matrix is k-Nearest Neighbor, b) the selected spatial model for the illiteracy rate in Indonesia is the Spatial Durbin Model (SDM), and c) mean years of schooling and gross enrollment ratio within a province significantly affect the illiteracy rate in that province, which may indirectly elevate the illiteracy rate in neighboring regions.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Regional Economic Trends and Sectoral Structure",
+        "Economic Growth and Fiscal Policies"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
       "title": "Model averaging for spatial autoregressive panel data models",
       "authors": [
         "Ai-bing Ji",
@@ -1427,7 +1946,60 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Gradient Boosting for Spatial Regression Models with Autoregressive Disturbances",
+      "authors": [
+        "Michael Balzer"
+      ],
+      "year": 2025,
+      "venue": "Networks and Spatial Economics",
+      "doi": "https://doi.org/10.1007/s11067-025-09717-8",
+      "url": "https://doi.org/10.1007/s11067-025-09717-8",
+      "language": "en",
+      "abstract": "Abstract Researchers in urban and regional studies increasingly work with high-dimensional spatial data that captures spatial patterns and spatial dependencies between observations. To address the unique characteristics of spatial data, various spatial regression models have been developed. In this article, a novel model-based gradient boosting algorithm tailored for spatial regression models with autoregressive disturbances is proposed. Due to its modular nature, the approach offers an alternative estimation procedure with interpretable results that remains feasible even in high-dimensional settings where traditional quasi-maximum likelihood or generalized method of moments estimators may fail to yield unique solutions. The approach also enables data-driven variable and model selection in both low- and high-dimensional settings. Since the bias-variance trade-off is additionally controlled for within the algorithm, it imposes implicit regularization which enhances predictive accuracy on out-of-sample spatial data. Detailed simulation studies regarding the performance of estimation, prediction and variable selection in low- and high-dimensional settings support proper functionality of the proposed methodology. To illustrate the applicability of the model-based gradient boosting algorithm, a case study is presented where the life expectancy in German districts is modeled, incorporating a potential spatial dependence structure.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Statistical Methods and Inference",
+        "demographic modeling and climate adaptation"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Extending spatial regression to the analysis of subsurface urban heat islands",
+      "authors": [
+        "Zhonghao Chu",
+        "Alessandro F. Rotta Loria"
+      ],
+      "year": 2025,
+      "venue": "Urban Climate",
+      "doi": "https://doi.org/10.1016/j.uclim.2025.102554",
+      "url": "https://doi.org/10.1016/j.uclim.2025.102554",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Urban Heat Island Mitigation",
+        "Spatial and Panel Data Analysis",
+        "Urban Design and Spatial Analysis"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -1514,6 +2086,36 @@
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
+      "title": "Employing transfer learning for breast cancer detection using deep learning models",
+      "authors": [
+        "Frimpong Twum",
+        "Charlyne Carol Eyram Ahiable",
+        "Stephen Opoku Oppong",
+        "Linda Amoako-Banning",
+        "Kwabena Owusu-Agyemang"
+      ],
+      "year": 2025,
+      "venue": "PLOS Digital Health",
+      "doi": "https://doi.org/10.1371/journal.pdig.0000907",
+      "url": "https://doi.org/10.1371/journal.pdig.0000907",
+      "language": "en",
+      "abstract": "Breast cancer remains a critical global health concern, affecting countless lives worldwide. Early and accurate detection plays a vital role in improving patient outcomes. The challenge lies with the limitations of traditional diagnostic methods in terms of accuracy. This study proposes a novel model based on the four pretrained deep learning models, Mobilenetv2, Inceptionv3, ResNet50, and VGG16, which were also used as feature extractors and fed on multiple supervised learning models using the BUSI dataset. Mobiletnetv2, inceptionv3, ResNet50 and VGG16 achieved an accuracy of 85.6%, 90.8%, 89.7% and 88.06%, respectively, with Logistic Regression and Light Gradient Boosting Machine being the best performing classifiers. Using transfer learning, the top layers of the model were frozen, and additional layers were added. A GlobalAveragePooling2D layer was employed to reduce spatial dimensions of the input image. After training and testing based on the accuracy, ResNet50 performed the best with 95.5%, followed by Inceptionv3 92.5%, VGG16 86.5% and lastly Mobilenetv2 84%.",
+      "keywords": [
+        "AI in cancer detection",
+        "Radiomics and Machine Learning in Medical Imaging",
+        "Artificial Intelligence in Healthcare"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
       "title": "Doubly Robust Augmented Model Accuracy Transfer Inference with High Dimensional Features",
       "authors": [
         "Doudou Zhou",
@@ -1554,6 +2156,60 @@
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-21",
       "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "Comparing the Effectiveness of Linear Spatial Regression and Neural Networks for Spatial Data Estimation",
+      "authors": [
+        "Jaufar Mousa Mohammed"
+      ],
+      "year": 2025,
+      "venue": "Scientia. Technology, science and society.",
+      "doi": "https://doi.org/10.59324/stss.2025.2(6).02",
+      "url": "https://doi.org/10.59324/stss.2025.2(6).02",
+      "language": "en",
+      "abstract": "This study analyzes and estimates wheat production in Iraq using two statistical models: the spatial regression model and the neural network model. Wheat production is treated as the dependent variable, while the cultivated area and rainfall amount serve as independent variables. The aim of the study is to compare the performance of both models in terms of predictive efficiency and accuracy, as well as their ability to interpret the relationship between influencing factors and agricultural output. The models were applied to real-world data representing the Iraqi provinces. Evaluation results indicate that the neural network model provides higher estimation accuracy, as evidenced by lower error metrics (RMSE and MAPE). On the other hand, the spatial regression model proved effective in identifying spatial variations, highlighting the importance of the geographic dimension in explaining wheat production behavior across different regions. Based on the obtained findings, the study recommends the adoption of hybrid models that combine the predictive accuracy of neural networks with the interpretive strength of spatial analysis, thereby supporting agricultural planning and data-driven policy formulation. This study underscores the relevance of accounting for the spatial distribution of resources and environmental variables when planning for agricultural production in Iraq.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Smart Agriculture and AI",
+        "Soil Geostatistics and Mapping"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "City-scale fire risk modeling based on spatial regression methods",
+      "authors": [
+        "Hui Ma",
+        "Xiaoxiao Sun",
+        "Jinlong Zhao"
+      ],
+      "year": 2025,
+      "venue": "Safety Emergency Science",
+      "doi": "https://doi.org/10.26599/ses.2025.9590002",
+      "url": "https://doi.org/10.26599/ses.2025.9590002",
+      "language": "en",
+      "abstract": "Assessing the frequency of fires and the resulting economic losses is crucial for allocating emergency resources and firefighting personnel across different areas. In this study, spatial regression methods were employed to analyze the correlation between fire risk and various influencing factors (economic vulnerability, population vulnerability, building vulnerability, etc.), and an optimal model determination procedure was proposed and validated. The results indicate that the spatial lag model with population density, per capita income, and the degree of personnel concentration around high-risk points of interest (POIs) as indicators was the best model for predicting fire frequency. Moreover, logarithmic transformation of the indicators effectively improved the prediction accuracy in low-population density areas. An ordinary least squares model with the illiteracy rate and average surface water resources as indicators was the best model for predicting direct economic losses from fires, and the distribution of high-risk POIs can qualitatively explain the differences between the predicted results and actual data. The present work not only enriches the research on city-scale fire risk assessment but also reveals that the optimal regression model determination process can provide technical support for the application of spatial regression methods in fire risk assessment.",
+      "keywords": [
+        "Safety and Risk Management",
+        "Disaster Management and Resilience",
+        "Fire dynamics and safety research"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
     },
     {
       "title": "Characterization and estimation of heterogeneous spatial autocorrelation in spatial autoregressive models",
@@ -1599,8 +2255,119 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "An EM Algorithm for Spatial Regression with Double Censoring Using a Curvelet Expansion",
+      "authors": [
+        "RYMADOUAS",
+        "SOUMIAKHARFOUCHI"
+      ],
+      "year": 2025,
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "https://doi.org/10.5281/zenodo.17551291",
+      "url": "https://doi.org/10.5281/zenodo.17551291",
+      "language": "en",
+      "abstract": "ABSTRACT: We present a nonparametric Expectation-Maximization (EM) algorithm for spatial regression in image processing applications, specifically addressing the challenge of double censoring. In scenarios like environmental monitoring, medical imaging, and remote sensing, image pixel intensities, representing true spatial responses Y(s) at locations s, are often subject to right-censoring (sensor saturation for bright values) and left-censoring (detection limits for dark values). We model the regression function using a finite curvelet dictionary, which is particularly effective at capturing anisotropic and curvilinear features (edges, ridges) prevalent in 2D images. Assuming an additive Gaussian noise model, our EM algorithm's E-step computes closed-form conditional moments for censored responses, while the M-step updates curvelet coefficients via weighted least squares. We establish theoretical guarantees, including monotonicity of the observed-data likelihood, stationarity of limit points, and consistency of the estimator in a fixeddictionary setting. A core contribution of this work is its empirical validation through extensive experiments on synthetic images and real-world camera test images. Our method was evaluated against several baselines (Naive LS, Winsorized LS, Tobit, Wavelet-EM, Total Variation) across various censoring severities and noise levels. Results demonstrate that our Curvelet-EM approach consistently outperforms existing methods in latent field recovery, achieving lower RMSE in censored regions, higher PSNR, and superior SSIM scores. Keywords: EM algorithm, spatial regression, double censoring, curvelets, truncated normal, consistency 2020 Mathematics Subject Classification. Primary 46L55; Secondary 44B20",
+      "keywords": [
+        "Image and Signal Denoising Methods",
+        "Spatial and Panel Data Analysis",
+        "Sparse and Compressive Sensing Techniques"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "A spatial autoregressive random forest algorithm for small-area spatial prediction",
+      "authors": [
+        "Cara MacBride",
+        "Vinny Davies",
+        "Duncan Lee"
+      ],
+      "year": 2025,
+      "venue": "The Annals of Applied Statistics",
+      "doi": "https://doi.org/10.1214/24-aoas1969",
+      "url": "https://doi.org/10.1214/24-aoas1969",
+      "language": "en",
+      "abstract": "In spatial areal unit data with missing or suppressed values, it is desirable to create models that are able to predict observations that are not available. Typically, statistical spatial smoothing models fitted in a Bayesian hierarchical framework are used for this purpose, which capture any unexplained residual spatial autocorrelation in the data through conditional autoregressive (CAR) or spatial autoregressive (SAR) priors applied to a set of random effects. In contrast, typical machine learning approaches, such as random forests or neural networks, ignore this residual autocorrelation and instead base predictions on complex nonlinear feature-target relationships. In this paper we propose SPAR-Forest, a novel spatial prediction algorithm that fuses random forests with spatial smoothing models. By iteratively refitting a random forest combined with a Bayesian CAR or SAR model in one algorithm, SPAR-Forest can incorporate flexible feature-target relationships while still accounting for the residual spatial autocorrelation. Our results, based on a Scottish property price data set and multiple simulated data sets, show that SPAR-Forest outperforms Bayesian CAR/SAR models, random forests, and state-of-the-art hybrid approaches, including geographical random forests, providing a state-of-the-art framework for small-area spatial prediction.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "demographic modeling and climate adaptation",
+        "Soil Geostatistics and Mapping"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "A spatial autoregressive graphical model",
+      "authors": [
+        "Sjoerd Hermes",
+        "Joost van Heerwaarden",
+        "Pariya Behrouzi"
+      ],
+      "year": 2025,
+      "venue": "Spatial Statistics",
+      "doi": "https://doi.org/10.1016/j.spasta.2025.100893",
+      "url": "https://doi.org/10.1016/j.spasta.2025.100893",
+      "language": "en",
+      "abstract": "Within the statistical literature, a significant gap exists in methods capable of modelling asymmetric multivariate spatial effects that elucidate the relationships underlying complex spatial phenomena. For such a phenomenon, observations at any location are expected to arise from a combination of within- and between-location effects, where the latter exhibit asymmetry. This asymmetry is represented by heterogeneous spatial effects between locations pertaining to two different categories, that is, a feature inherent to each location in the data, such that based on the feature label, asymmetric spatial relations are postulated between neighbouring locations with different labels. Our novel approach synergises the principles of multivariate spatial autoregressive models and the Gaussian graphical model. This synergy enables us to effectively address the gap by accommodating asymmetric spatial relations, overcoming the usual constraints in spatial analyses. However, the resulting flexibility comes at a cost: the spatial effects are not identifiable without either prior knowledge of the underlying phenomenon or additional parameter restrictions. Using a Bayesian-estimation framework, the model performance is assessed in a simulation study. We apply the model on intercropping data, where spatial effects between different crops are unlikely to be symmetric, in order to illustrate the usage of the proposed methodology. An R package containing the proposed methodology can be found on https://CRAN.R-project.org/package=SAGM .",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Point processes and geometric inequalities",
+        "Soil Geostatistics and Mapping"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "A nonparametric test for the heterogeneity of the spatial autoregressive parameter",
+      "authors": [
+        "Yangbing Tang",
+        "Jiang Du",
+        "Zhongzhan Zhang"
+      ],
+      "year": 2025,
+      "venue": "Journal of Statistical Planning and Inference",
+      "doi": "https://doi.org/10.1016/j.jspi.2025.106298",
+      "url": "https://doi.org/10.1016/j.jspi.2025.106298",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Statistical Methods and Inference",
+        "Regional Economic Trends and Sectoral Structure"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
     },
     {
       "title": "A Penalized Profile Quasi-Likelihood Method for a Semiparametric Varying Coefficient Spatial Autoregressive Panel Model with Fixed Effects",
@@ -1642,6 +2409,62 @@
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-21",
       "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "A J -test for spatial autoregressive binary models",
+      "authors": [
+        "Gianfranco Piras",
+        "Mauricio Sarrias"
+      ],
+      "year": 2025,
+      "venue": "Spatial Statistics",
+      "doi": "https://doi.org/10.1016/j.spasta.2025.100903",
+      "url": "https://doi.org/10.1016/j.spasta.2025.100903",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Regional Economic Trends and Sectoral Structure",
+        "demographic modeling and climate adaptation"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "A Comparison of Convolutional Neural Network Transfer Learning Regression Models for Remote Photoplethysmography Signal Estimation",
+      "authors": [
+        "Jana Sturekova",
+        "Patrik Kamencay",
+        "Peter Sýkora",
+        "Roberta Hlavata"
+      ],
+      "year": 2025,
+      "venue": "AI",
+      "doi": "https://doi.org/10.3390/ai6020024",
+      "url": "https://doi.org/10.3390/ai6020024",
+      "language": "en",
+      "abstract": "This study explores the extraction of remote Photoplethysmography (rPPG) signals from images using various neural network architectures, addressing the challenge of accurate signal estimation in biomedical contexts. The objective is to evaluate the effectiveness of different models in capturing rPPG signals from dataset snapshots. Two training strategies were investigated: pre-training models with only the fully connected layer being fine-tuned and training the entire network from scratch. The analysis reveals that models trained from scratch consistently outperform their pre-trained counterparts in extracting rPPG signals. Among the architectures assessed, DenseNet121 demonstrated superior performance, offering the most reliable results in this context. These findings underscore the potential of neural networks in advancing rPPG signal extraction, which has promising applications in fields such as clinical monitoring and personalized medical care. This study contributes to the integration of advanced imaging techniques and neural network-based analysis in biomedical engineering, paving the way for more robust and efficient methodologies.",
+      "keywords": [
+        "Non-Invasive Vital Sign Monitoring",
+        "Biometric Identification and Security",
+        "ECG Monitoring and Analysis"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
     },
     {
       "title": "A Bayesian estimation approach for heterogeneous spatial autoregressive model with hierarchical data structure",
@@ -1765,6 +2588,33 @@
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
+      "title": "Using a spatial autoregressive model with spatial autoregressive disturbances to investigate origin-destination trip flows",
+      "authors": [
+        "Linglin Ni",
+        "Dapeng Zhang"
+      ],
+      "year": 2024,
+      "venue": "PLoS ONE",
+      "doi": "https://doi.org/10.1371/journal.pone.0305932",
+      "url": "https://doi.org/10.1371/journal.pone.0305932",
+      "language": "en",
+      "abstract": "Spatial interaction models with spatial origin-destination (OD) filters are powerful tools to characterize trip flows in space, which is a classic and important problem in regional science. To the authors' knowledge, existing studies adopting OD filters mostly specify the spatial dependence as an autoregressive process, which may not be the full picture of spatial effects. To examine the problem, this paper proposes the hypotheses that 1) spatial OD dependences can take place in both the spatial autoregressive term and the spatial error term in a spatial interaction model. 2) Estimating a spatial autoregressive model with spatial autoregressive disturbances (SARAR) model with OD filters would disentangle where the spatial dependence exists and by how much. 3) The marginal effects obtained from SARAR models would be preferred to analysts when SARAR models outperform spatial autoregressive (SAR) models and spatial error models (SEM) from the statistical point of view. To assess these hypotheses, this paper specifies, estimates, and applies SARAR models with OD filters to investigate trip distributions. By comparing against alternative models, this paper investigates the estimation results in SAR, SEM and SARAR models using an empirical data collected from Hangzhou, China. The contribution of this paper is to be the first in developing an SARAR model with OD filters for trip distribution analyses and examining its performance.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Regional Economic Trends and Sectoral Structure",
+        "Agglomeration and Urban Systems"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial autoregressive"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
       "title": "Transfer Learning with Large-Scale Quantile Regression",
       "authors": [
         "Jun Jin",
@@ -1871,7 +2721,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -3415,6 +4265,34 @@
       "verified_status": "待核验"
     },
     {
+      "title": "Few-shot learning for spatial regression via neural embedding-based Gaussian processes",
+      "authors": [
+        "Tomoharu Iwata",
+        "Yusuke Zn Tanaka"
+      ],
+      "year": 2021,
+      "venue": "Machine Learning",
+      "doi": "https://doi.org/10.1007/s10994-021-06118-z",
+      "url": "https://doi.org/10.1007/s10994-021-06118-z",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Gaussian Processes and Bayesian Inference",
+        "Domain Adaptation and Few-Shot Learning",
+        "Spatial and Panel Data Analysis"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial regression",
+        "spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
       "title": "Deep Transfer Learning for Land Use and Land Cover Classification: A Comparative Study",
       "authors": [
         "Raoof Naushad",
@@ -3444,7 +4322,7 @@
       "verified_status": "待核验"
     }
   ],
-  "updated_at": "2026-11-08T22:44:37+08:00",
+  "updated_at": "2026-11-11T00:04:02+08:00",
   "imported_from": {
     "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
     "title": "TL-SAR 每日文献追踪｜第 1 期",

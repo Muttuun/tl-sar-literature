@@ -243,6 +243,46 @@
       "error_count": 0,
       "status": "success",
       "errors": []
+    },
+    {
+      "run_date": "2026-11-11",
+      "completed_at": "2026-11-11T00:04:02+08:00",
+      "candidate_count": 50,
+      "new_count": 31,
+      "duplicate_count": 19,
+      "total_count": 126,
+      "error_count": 7,
+      "status": "partial",
+      "errors": [
+        {
+          "query": "spatial autoregressive model",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "query": "spatial lag model",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "query": "spatial econometric model",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "query": "spatial econometrics transfer learning",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "query": "transfer learning spatial data",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "query": "spatial machine learning",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "query": "spatial panel data model",
+          "error": "HTTP Error 429: Too Many Requests"
+        }
+      ]
     }
   ]
 }
