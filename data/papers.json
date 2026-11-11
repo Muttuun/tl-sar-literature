@@ -906,6 +906,35 @@
       "verified_status": "待核验"
     },
     {
+      "title": "Enhancing Super‐Resolution Spatial Transcriptomics Data by Transfer Learning",
+      "authors": [
+        "Xiaoyu Li",
+        "Lihua Zhang",
+        "Wenwen Min"
+      ],
+      "year": 2026,
+      "venue": "Advanced Science",
+      "doi": "https://doi.org/10.1002/advs.76601",
+      "url": "https://doi.org/10.1002/advs.76601",
+      "language": "en",
+      "abstract": "High-definition spatial transcriptomics (ST) technologies such as Visium HD enable subcellular tissue characterization but remain constrained by their limited accessibility due to high costs and technical complexity. Existing super-resolution methods predominantly rely on an image-guided paradigm, premised on the assumption that gene expression strictly mirrors histological morphology. However, this assumption breaks down for genes with complex spatial distributions lacking distinct visual correlates, often leading to biological artifacts. To address this, we introduce SpotZoomer, a framework that formulates resolution enhancement as a knowledge transfer problem via generative domain adaptation. It leverages public high-definition ST data as a \"teacher\" to learn intrinsic spatial expression priors, which are then transferred to coarse spot data to reconstruct high-fidelity gene profiles that capture molecular details beyond the reach of morphological guidance alone. Extensive benchmarking across 19 datasets demonstrates the substantial value of the reference-based paradigm implemented by SpotZoomer over the reference-free image-only paradigm, achieving improved reconstruction accuracy and biological fidelity while complementing rather than displacing reference-free methods in settings where high-resolution priors are unavailable. SpotZoomer thus provides a scalable, data-driven strategy for upgrading standard ST resources to subcellular resolution.",
+      "keywords": [
+        "Single-cell and spatial transcriptomics",
+        "Gene expression and cancer classification",
+        "Advanced Image Processing Techniques"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial data",
+        "transfer learning spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
       "title": "Bayesian local influence analysis for the spatial autoregressive combined model",
       "authors": [
         "Yonghui Liu",
@@ -1437,7 +1466,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -1645,7 +1674,8 @@
       "relevance_reason": "适合参考目标域预测验证。",
       "matched_queries": [
         "spatial econometrics transfer learning",
-        "transfer learning spatial regression"
+        "transfer learning spatial regression",
+        "transfer learning spatial data"
       ],
       "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
       "source_rank": 9,
@@ -2753,7 +2783,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-07",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -2780,7 +2810,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -2817,7 +2847,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -2846,7 +2876,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -2874,7 +2904,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -2903,7 +2933,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -2971,7 +3001,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -3000,7 +3030,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -3029,7 +3059,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -3156,7 +3186,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -3388,7 +3418,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -3416,7 +3446,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -3529,7 +3559,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -3558,7 +3588,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -3585,7 +3615,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -3613,7 +3643,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -3641,7 +3671,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -3709,7 +3739,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -3739,7 +3769,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -3768,7 +3798,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -3797,7 +3827,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -3827,7 +3857,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -3911,7 +3941,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -3941,7 +3971,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -3971,7 +4001,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -4001,7 +4031,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -4029,7 +4059,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -4059,7 +4089,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -4088,7 +4118,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -4117,7 +4147,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -4177,7 +4207,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -4261,7 +4291,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-11",
       "verified_status": "待核验"
     },
     {
@@ -4322,7 +4352,7 @@
       "verified_status": "待核验"
     }
   ],
-  "updated_at": "2026-11-11T00:04:02+08:00",
+  "updated_at": "2026-11-11T23:50:17+08:00",
   "imported_from": {
     "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
     "title": "TL-SAR 每日文献追踪｜第 1 期",
