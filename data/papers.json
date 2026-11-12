@@ -261,7 +261,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -308,7 +308,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -403,7 +403,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -514,6 +514,33 @@
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-21",
       "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "The Spatial Spillovers of Digital Finance on Private economic Development: An Empirical Study Based on Spatial Econometric Models",
+      "authors": [
+        "Ye Zhang"
+      ],
+      "year": 2026,
+      "venue": "Ingegneria Sismica",
+      "doi": "https://doi.org/10.65102/is2026412",
+      "url": "https://doi.org/10.65102/is2026412",
+      "language": "en",
+      "abstract": "With the fast growth of digital finance, the regional distribution of financial resources and the frontier location of private-sector economic expansion have both been reconfigured. Using panel data from 31 Chinese provinces covering 2011 to 2023, this study develops an empirical spatial econometric model to further examine the cross-regional transmission path through which digital finance affects private economy growth. Data cleaning, the construction of the spatial weight matrix, tests of spatial autocorrelation, and spatial Durbin model estimation were jointly carried out with Python, GeoDa, and Stata. Moran’s I for the development level of the private economy increased from 0.186 to 0.273, indicating that the geographic linkage between digital finance and private economy development became progressively stronger. The decomposition results show that digital finance not only promotes the endogenous growth of local private firms by improving financial strength and the efficiency of resource allocation, but also generates positive gains for neighboring areas. Specifically, the direct effect is estimated at 0.298, the indirect effect at 0.154, and the total effect at 0.452. In the eastern region, the overall effect reaches 0.537, while the comparative regional results further suggest that the spillover effect of digital finance is more significant in that area.",
+      "keywords": [
+        "FinTech, Crowdfunding, Digital Finance",
+        "Digital Transformation in Financial Services",
+        "Spatial and Panel Data Analysis"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial econometric model",
+        "spatial econometrics transfer learning"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
+      "verified_status": "待核验"
     },
     {
       "title": "Testing coefficient stability in spatial regression",
@@ -627,7 +654,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -731,7 +758,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -846,7 +873,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -875,7 +902,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -902,7 +929,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -931,7 +958,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -1390,7 +1417,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -1466,7 +1493,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -1558,7 +1585,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -1587,7 +1614,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -1619,7 +1646,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -1695,7 +1722,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -1724,7 +1751,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -1976,7 +2003,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -2285,7 +2312,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -2751,7 +2778,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -2810,7 +2837,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -2847,7 +2874,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -2876,7 +2903,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -2904,7 +2931,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -2933,7 +2960,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -3001,7 +3028,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -3030,7 +3057,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -3059,7 +3086,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -3186,7 +3213,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -3418,7 +3445,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -3446,7 +3473,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -3559,7 +3586,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -3588,7 +3615,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -3615,7 +3642,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -3643,7 +3670,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -3671,7 +3698,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -3739,7 +3766,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -3769,7 +3796,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -3798,7 +3825,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -3827,7 +3854,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -3857,7 +3884,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -3941,7 +3968,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -3971,7 +3998,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -4031,7 +4058,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -4059,7 +4086,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -4089,7 +4116,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -4118,7 +4145,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -4147,7 +4174,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -4179,7 +4206,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -4207,7 +4234,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-13",
       "verified_status": "待核验"
     },
     {
@@ -4352,7 +4379,7 @@
       "verified_status": "待核验"
     }
   ],
-  "updated_at": "2026-11-11T23:50:17+08:00",
+  "updated_at": "2026-11-13T00:33:00+08:00",
   "imported_from": {
     "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
     "title": "TL-SAR 每日文献追踪｜第 1 期",
