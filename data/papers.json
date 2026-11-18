@@ -186,7 +186,35 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Uncovering spatial process heterogeneity from graph-based deep spatial regression",
+      "authors": [
+        "Di Zhu",
+        "Sheng Wang",
+        "Peng Luo"
+      ],
+      "year": 2026,
+      "venue": "ISPRS Journal of Photogrammetry and Remote Sensing",
+      "doi": "https://doi.org/10.1016/j.isprsjprs.2025.12.008",
+      "url": "https://doi.org/10.1016/j.isprsjprs.2025.12.008",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Housing Market and Economics",
+        "Gaussian Processes and Bayesian Inference"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial regression"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "verified_status": "待核验"
     },
     {
@@ -403,7 +431,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -420,12 +448,18 @@
       "language": "en",
       "abstract": "将迁移学习用于高维空间杜宾模型，并结合工具变量与交叉验证检测源域。可比较 SAR 与 SDM 迁移框架的源域选择机制。",
       "abstract_source": "GPT 分享页中的研究概述与借鉴建议（非原文；本次仅导入，未独立复核）",
-      "keywords": [],
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Regional Economic Trends and Sectoral Structure",
+        "demographic modeling and climate adaptation"
+      ],
       "method": "将迁移学习用于高维空间杜宾模型，并结合工具变量与交叉验证检测源域。",
       "novelty": "",
       "relevance_category": "英文研究",
       "relevance_reason": "可比较 SAR 与 SDM 迁移框架的源域选择机制。",
-      "matched_queries": [],
+      "matched_queries": [
+        "spatial econometrics transfer learning"
+      ],
       "source": "ChatGPT 分享页 · TL-SAR 每日文献追踪第 1 期",
       "source_rank": 6,
       "source_date": "2026-10-21",
@@ -444,7 +478,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-11-19",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -516,6 +550,65 @@
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
+      "title": "The impact of digital infrastructure and logistics connectivity on circular economy efficiency: Evidence from a spatial panel data model in VietNam",
+      "authors": [
+        "Le Dai Nhat"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Management and Economics",
+      "doi": "https://doi.org/10.66856/ijme.2026.8.2.8036",
+      "url": "https://doi.org/10.66856/ijme.2026.8.2.8036",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Sustainable Supply Chain Management",
+        "Global Politics and Economy",
+        "Efficiency Analysis Using DEA"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial panel data model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "The expanded spatial lag of exogenous model and RShiny-based web application for rainfall prediction",
+      "authors": [
+        "Annisa Nur Falah",
+        "Eddy Hermawan",
+        "Yudhie Andriyana",
+        "Teguh Harjana",
+        "Albertus Sulaiman",
+        "Edy Maryadi",
+        "Arjun Hasibuan",
+        "Riza Andrian Ibrahim"
+      ],
+      "year": 2026,
+      "venue": "Environmental Modelling & Software",
+      "doi": "https://doi.org/10.1016/j.envsoft.2026.107005",
+      "url": "https://doi.org/10.1016/j.envsoft.2026.107005",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Precipitation Measurement and Analysis",
+        "Climate variability and models"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial lag model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
       "title": "The Spatial Spillovers of Digital Finance on Private economic Development: An Empirical Study Based on Spatial Econometric Models",
       "authors": [
         "Ye Zhang"
@@ -539,7 +632,60 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "The Impact of Digital Financial Inclusion on Common Wealth: An Empirical Analysis Based on the Spatial Lag Model and Threshold Effect Model",
+      "authors": [
+        "Chenyu Gai"
+      ],
+      "year": 2026,
+      "venue": "Advances in Economics Management and Political Sciences",
+      "doi": "https://doi.org/10.54254/2754-1169/2026.lh34711",
+      "url": "https://doi.org/10.54254/2754-1169/2026.lh34711",
+      "language": "en",
+      "abstract": "Drawing on balanced panel data for 31 Chinese provincial-level units from 2011 to 2023, this paper combines a spatial lag model with a panel threshold model to examine how digital financial inclusion affects common wealth through three routes: spatial spillover, a transmission channel, and regime-dependent nonlinearity. The estimates show that a one-unit increase in the digital financial inclusion index raises the local common-wealth index by 0.725 units in net terms, but at the same time exerts a negative siphon effect of −0.203 on neighboring provinces. Industrial structure upgrading is found to be the main mediating channel, and its first-stage coefficient is 0.853. The direct effect declines from east to centre to west, and for all three sub-dimensions—coverage breadth, usage depth, and digitalization degree—local empowerment goes together with cross-regional suppression. With respect to marketization, a double-threshold pattern emerges: the promotion coefficient rises from 0.298 in the low regime to 0.475 in the high regime, so the marginal effect grows as institutional frictions ease. This study makes three advances. First, spatial spillovers and direct effects are identified within a single framework instead of treating them separately. Second, industrial upgrading is shown to be the channel through which digital finance affects common wealth. Third, the threshold-dependent pattern tied to marketization provides a concrete basis for region-specific policy design.",
+      "keywords": [
+        "FinTech, Crowdfunding, Digital Finance",
+        "Microfinance and Financial Inclusion",
+        "Economic Growth and Development"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial lag model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "The Impact of Corporate Sustainability Performance on Share Prices: a Spatial Econometric Study of Emerging Markets",
+      "authors": [
+        "Ali Bertan SAVAŞ",
+        "Soner Gökten"
+      ],
+      "year": 2026,
+      "venue": "Applied Spatial Analysis and Policy",
+      "doi": "https://doi.org/10.1007/s12061-026-09827-x",
+      "url": "https://doi.org/10.1007/s12061-026-09827-x",
+      "language": "en",
+      "abstract": "Abstract This study investigates whether the corporate sustainability performance (CSP) of companies in emerging markets (EM) influences their share prices and provides value-relevant information. It also examines the spatial interaction effect between share prices using spatial econometric methods to determine how changes in a company's CSP affect the share prices of peer companies within the same country or sector. The analysis covered 18 countries and 2,296 company-years (2013–2020), focusing on companies in the Morgan Stanley Capital International (MSCI) Emerging Markets Index. The findings of this study Moran's I and Geary's C statistics confirmed significant spatial dependence between share prices, validating the use of spatial analysis. The Spatial Durbin Model with fixed effects emerged as the best fit. CSP, excluding governance scores, is value-relevant for investors in EM. Positive and significant spatial interaction effects at the 1% level were observed for all models. Indirect effects were positive for environmental, social, and combined scores (country weight matrix) but negative for governance scores (sector weight matrix).",
+      "keywords": [
+        "Corporate Social Responsibility Reporting",
+        "Sustainable Finance and Green Bonds",
+        "Financial Markets and Investment Strategies"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial econometrics transfer learning"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "verified_status": "待核验"
     },
     {
@@ -566,7 +712,124 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Spatially varying coefficient generalized distributed lag models for binary response with MCEM estimation",
+      "authors": [
+        "Ali Hadianfar",
+        "Omid Karimi",
+        "Azadeh Saki"
+      ],
+      "year": 2026,
+      "venue": "BMC Medical Research Methodology",
+      "doi": "https://doi.org/10.1186/s12874-026-02886-1",
+      "url": "https://doi.org/10.1186/s12874-026-02886-1",
+      "language": "en",
+      "abstract": "The adverse health effects of environmental exposures often manifest after a time delay. Distributed lag models (DLMs) are well-suited for modeling these delayed effects and play a central role in identifying critical exposure windows in environmental epidemiology. However, traditional DLMs frequently fail to account for potential spatial dependence and spatial non-stationarity, limiting their accuracy and generalizability across diverse geographical contexts. To address this gap, we propose a spatially varying coefficient generalized distributed lag model (SVCGDLM) that integrates spatial heterogeneity directly into the DLM framework. To estimate model parameters, we develop an efficient Monte Carlo Expectation–Maximization (MCEM) algorithm employing Pólya-Gamma data augmentation and Gibbs sampling to approximate the conditional expectations in the E-step. Through a comprehensive simulation study, we show that the proposed model significantly outperforms standard generalized linear models (GLMs), generalized geographically weighted regression (GGWR), and Generalized Linear Mixed Model using the INLA Approximation (GLMM-INLA) in terms of parameter estimation accuracy and predictive power. Finally, we apply our model to a real-world dataset from Mashhad, Iran, to estimate the spatially varying association between short-term exposure to PM 2.5 and cardiovascular mortality.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Air Quality and Health Impacts",
+        "Statistical Methods in Epidemiology"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial lag model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Spatial spillover effects and regional differences of tuberculosis health education levels among China’s floating population: a spatial lag model study (2014–2017)",
+      "authors": [
+        "Yajie Feng",
+        "Li Zhang",
+        "Jia Liu",
+        "Song Weijian",
+        "Juan Guan",
+        "Yunkai Li",
+        "W.T. Liu",
+        "Yanfu Wang",
+        "Libo Liang"
+      ],
+      "year": 2026,
+      "venue": "BMC Public Health",
+      "doi": "https://doi.org/10.1186/s12889-026-28718-x",
+      "url": "https://doi.org/10.1186/s12889-026-28718-x",
+      "language": "en",
+      "abstract": "BACKGROUND: The cross-regional floating population in China has brought new challenges for tuberculosis prevention and control. Tuberculosis health Education for the floating population can significantly enhance their health awareness and reduce the prevalence of the disease. However, the current status of health education for the floating population is not adequately assessed, highlighting the urgent need to identify the key factors that restrict effective health education and to safeguard the health rights and interests of this group. METHODS: This study utilized the data of China's migrant population from 2014 to 2017, combined with the China Statistical Yearbook and meteorological data, and conducted literature searches and collected relevant information on tuberculosis health education through databases such as Web of Science and PubMed. It identified the key factors influencing tuberculosis health education from four dimensions: social economy, population, health resources, and meteorological environment. Furthermore, the study also explored the relationships between these indicators and tuberculosis health education at the provincial and urban regional levels respectively. A spatial lag fixed effect model was determined to be the most appropriate analysis model based on Schwarz's Bayesian Information Criterion and Akaike's Information Criterion. RESULTS: emissions showed positive correlations with tuberculosis health education. At the city level, the results were not statistically significant. CONCLUSIONS: The health education regarding tuberculosis among China's floating population demonstrates significant spatial clustering from 2014 to 2017. Key determinants identified include economic factors, healthcare resources, and environmental influences, which contribute not only at a local level but also through notable spatial spillover effects. It is essential to adopt targeted public health strategies to enhance interregional collaboration and optimize resource allocation for equitable tuberculosis control.",
+      "keywords": [
+        "Tuberculosis Research and Epidemiology",
+        "Public Health Policies and Education",
+        "HIV, TB, and STIs Epidemiology"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial lag model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Spatial econometric analysis of spillover effects in China’s AI technological innovation",
+      "authors": [
+        "Yufeng Chen",
+        "Yixuan Zhang",
+        "Chuwen Wang"
+      ],
+      "year": 2026,
+      "venue": "Journal of Innovation & Knowledge",
+      "doi": "https://doi.org/10.1016/j.jik.2026.101151",
+      "url": "https://doi.org/10.1016/j.jik.2026.101151",
+      "language": "en",
+      "abstract": "Technological innovation in China’s rapidly expanding artificial intelligence (AI) industry remains geographically concentrated. The implications of this concentration for innovation diffusion and regional hierarchy remain poorly understood. Using a 2012–2023 panel of 30 Chinese provinces, this study constructs a multidimensional innovation index and combines spatial autocorrelation analysis, kernel density estimation, conventional and spatial Markov chains, and spatial Durbin modelling. The results reveal a pronounced Matthew effect: aggregate growth coexists with widening regional disparities. Eastern coastal provinces retain a marked lead; the central region shows catch-up momentum, whereas many western and north-eastern provinces remain concentrated in lower innovation tiers. Transition dynamics indicate limited mobility across tiers, consistent with path dependence and a persistent core–periphery structure. A notable tension emerges between the observed clustering pattern and the estimated spatial interaction: AI innovation is positively clustered, yet the spatial autoregressive coefficient is significantly negative. This combination is consistent with competitive or siphon-type spillover relationships rather than broad-based diffusion. Government innovation support is positively associated with innovation both locally and across spatially connected provinces. Industrial structure upgrading is associated primarily with positive spatial spillovers. By contrast, human capital, digital infrastructure, urbanisation, and trade openness are negatively associated with local innovation, pointing to possible mismatches between factor expansion and regional absorptive capacity. The findings portray an AI innovation landscape shaped by cumulative advantage, competitive spatial dependence and gaps in complementary capabilities, highlighting the importance of differentiated regional strategies and stronger cross-regional collaboration.",
+      "keywords": [
+        "Agglomeration and Urban Systems",
+        "Regional Economic Trends and Sectoral Structure",
+        "Spatial and Panel Data Analysis"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial econometrics transfer learning"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Spatial econometric analysis of interdependencies and environmental dynamics in the Black Sea region",
+      "authors": [
+        "Irina Alexandra Georgescu",
+        "Jani Kinnunen"
+      ],
+      "year": 2026,
+      "venue": "SN Business & Economics",
+      "doi": "https://doi.org/10.1007/s43546-026-01144-2",
+      "url": "https://doi.org/10.1007/s43546-026-01144-2",
+      "language": "en",
+      "abstract": "Abstract The Black Sea region is characterized by diverse economies, energy structures, and environmental policies, leading to significant spatial interdependencies in CO 2 emissions. This study examines the spatial dynamics of CO 2 emissions in the region using spatial econometric models, including Spatial Autoregressive (SAR), Spatial Error (SEM), and Spatial Durbin Models (SDM). The analysis covers the period 1990–2023, investigating the effects of GDP, renewable energy consumption, urbanization, and foreign direct investment (FDI) on emissions. The findings reveal strong spatial spillover effects, where CO 2 emissions in one country influence neighboring regions. Renewable energy consumption significantly reduces emissions, both directly and through spillovers, while GDP and urbanization contribute to higher emissions. FDI has a negative effect on CO 2 emissions, suggesting its role in promoting clean technologies and sustainable investments, depending on host country policies. These results highlight the need for regional coordination in addressing environmental challenges. Joint renewable energy projects, sustainable urban planning, and green investment incentives are important for reducing emissions. Policymakers should consider cross-border cooperation, particularly between EU and non-EU Black Sea countries, to strengthen environmental policies and accelerate the transition to a low-carbon economy.",
+      "keywords": [
+        "Energy, Environment, Economic Growth",
+        "Spatial and Panel Data Analysis",
+        "Climate Change Policy and Economics"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial econometrics transfer learning"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "verified_status": "待核验"
     },
     {
@@ -594,6 +857,90 @@
       "source": "OpenAlex",
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Spatial associations between water risk and international migration using TOPSIS and spatial econometric models",
+      "authors": [
+        "Alessandro Indelicato",
+        "Firuz Suleymanov",
+        "Juan Carlos Martín"
+      ],
+      "year": 2026,
+      "venue": "Discover Water",
+      "doi": "https://doi.org/10.1007/s43832-026-00430-2",
+      "url": "https://doi.org/10.1007/s43832-026-00430-2",
+      "language": "en",
+      "abstract": "This study examines the spatial association between water-related risks and international migration patterns using country-level data for 2019. Water risk indicators are constructed from the Aqueduct Water Risk Atlas 3.0 using a TOPSIS-based composite indicator approach, distinguishing Overall Water Risk (OWR), Physical Risks Quantity (PRQn), Physical Risks Quality (PRQl), and Regulatory and Reputational Risks (RRR). International emigration data are obtained from the World Bank-KNOMAD migration database. The analysis first evaluates spatial clustering through Global Moran’s I and then compares baseline ordinary least squares (OLS) models with spatial autoregressive (SAR), spatial error model (SEM), and spatial Durbin model (SDM) specifications. The dependent variable is transformed as log(Emigration + 1) to reduce skewness, while the TOPSIS-derived indicators are standardised before estimation. The results show significant spatial clustering in both water risk and migration indicators. Baseline OLS models exhibit residual spatial autocorrelation, whereas spatial econometric models substantially reduce this dependence. PRQn and RRR show positive associations with international emigration, while PRQl is less robust across specifications. The findings should be interpreted as cross-sectional spatial associations rather than causal effects. The study contributes to the environmental migration literature by showing how composite water risk indicators and spatial econometric models can be combined to identify geographically uneven patterns of vulnerability and human mobility.",
+      "keywords": [
+        "Climate Change, Adaptation, Migration",
+        "Transboundary Water Resource Management",
+        "Migration and Labor Dynamics"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial econometric model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Spatial Error Model dan Spatial Lag Model pada Statistik Perhotelan di Pulau Lombok",
+      "authors": [
+        "Lalu Masyhudi",
+        "Erri Supriyadi",
+        "Sri Saptuti Wahyuningsih",
+        "Yuli Sawitri",
+        "Lalu Muhamad Rafly"
+      ],
+      "year": 2026,
+      "venue": "Journal of Innovation Research and Knowledge",
+      "doi": "",
+      "url": "https://bajangjournal.com/index.php/JIRK/article/view/13456",
+      "language": "en",
+      "abstract": "Accommodation businesses on Lombok Island are concentrated in a few tourism areas, yet official statistics are not available at the sub-district level and earlier studies rarely modelled spatial dependence. This study identifies spatial autocorrelation in accommodation supply, analyses its determinants, and compares the Spatial Error Model (SEM) and the Spatial Lag Model (SAR) with Ordinary Least Squares (OLS). Accommodation, tourist attractions and main roads for 53 sub-districts were extracted from OpenStreetMap (OSM) and combined with population and area data from Statistics Indonesia (BPS). OSM accommodation counts closely matched BPS hotel counts in Mataram City (r = 0.976). Using a queen contiguity weight matrix, the analysis applied Moran’s I, LISA, OLS, Lagrange Multiplier diagnostics and maximum likelihood estimation. Accommodation showed significant positive spatial autocorrelation (Moran’s I = 0.270; p < 0.001), with a High-High cluster in Pemenang, Batu Layar and Ampenan and Low-Low clusters in central-southern Lombok. LM-Lag tests were significant, whereas LM-Error tests were not. The SEM did not improve on OLS (λ = 0.243; p = 0.198). The SAR produced a significant spatial lag coefficient (ρ = 0.310; p = 0.021), the lowest AIC (162.08 versus 164.20) and spatially random residuals. Tourist attractions (direct impact 1.026) and main road density (direct impact 0.944) were the significant determinants. Spatial dependence in Lombok’s accommodation supply therefore takes the form of spillovers between neighbouring sub-districts, which supports corridor-based tourism planning",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Regional Economic Trends and Sectoral Structure",
+        "Agglomeration and Urban Systems"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial lag model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Spatial Econometric Model of China’s Regional Labor Productivity: The Role of Population Aging",
+      "authors": [
+        "Ling Jiang"
+      ],
+      "year": 2026,
+      "venue": "Problems of Territory s Development / Проблемы развития территории",
+      "doi": "https://doi.org/10.15838/ptd.2026.1.141.9",
+      "url": "https://doi.org/10.15838/ptd.2026.1.141.9",
+      "language": "ru",
+      "abstract": "",
+      "keywords": [
+        "Regional Economic Trends and Sectoral Structure",
+        "Economic Growth and Productivity",
+        "Agglomeration and Urban Systems"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial econometric model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "verified_status": "待核验"
     },
     {
@@ -628,6 +975,32 @@
       "verified_status": "待核验"
     },
     {
+      "title": "Source Apportionment of Soil Heavy Metal Pollution in the Yangtze River Basin Based on the Multiscale Geographically Weighted Spatial Lag Model",
+      "authors": [
+        "Fengying Yan"
+      ],
+      "year": 2026,
+      "venue": "Transactions on Environment Energy and Earth Sciences",
+      "doi": "https://doi.org/10.62051/jdx0f389",
+      "url": "https://doi.org/10.62051/jdx0f389",
+      "language": "en",
+      "abstract": "As a crucial agricultural base, economic belt, and ecological barrier in China, the Yangtze River Basin is increasingly plagued by soil heavy metal pollution due to the combination of complex natural geographical conditions and intensive human activities. Based on soil heavy metal (As, Cd, Cr, Cu, Hg, Ni, Pb, Zn) content data from 906 sampling sites in the Yangtze River Basin from 2000 to 2020, this study integrated 11 explanatory variables from four categories (topography, land use, socio-economy, and meteorology) to construct three models: Geographically Weighted Regression (GWR), Multiscale Geographically Weighted Regression (MGWR), and Multiscale Geographically Weighted Spatial Lag Model (MGWR-VSLR). The spatial distribution characteristics and driving mechanisms of heavy metal pollution were systematically analyzed.Results showed MGWR - VSLR model excelled in R² and AICc, capturing heavy metal pollution's spatial features. As and Hg pollution were affected by different factors. Spatial lag term indicated cross - regional influence. Soil heavy metal pollution in Yangtze River Basin results from natural and human factors. The research aids prevention and green development.",
+      "keywords": [
+        "Heavy metals in environment",
+        "Water Quality and Pollution Assessment",
+        "Soil Geostatistics and Mapping"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial lag model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
       "title": "Some notes on the spatial autoregressive model",
       "authors": [
         "Mengling Gong",
@@ -655,6 +1028,62 @@
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
       "last_seen": "2026-11-18",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Social interactions in organisations: Investigating employee quiet quitting using spatial econometric methods",
+      "authors": [
+        "Yitong Yu",
+        "Xiaoying Jiao"
+      ],
+      "year": 2026,
+      "venue": "Tourism Management",
+      "doi": "https://doi.org/10.1016/j.tourman.2026.105396",
+      "url": "https://doi.org/10.1016/j.tourman.2026.105396",
+      "language": "en",
+      "abstract": "Social interactions play a crucial role in organisations with intensive human contact, such as the hospitality industry. These interactions can be translated into crossover effects that affect employees' emotions and behaviours, which enlarge individual behaviours' impact on the whole organisation. However, these effects tend to be neglected across co-workers due to the difficulty of capturing and measuring using traditional methods. This study extends the crossover theory by incorporating co-workers’ social interactions in understanding organisational behaviour, operationalised by introducing advanced spatial econometric methods into hospitality management and organisational behaviour studies. This analytical framework is applied to understand quiet quitting behaviour with the presence of social interactions from a new perspective. The findings confirmed the existence of crossovers in employees' quiet quitting behaviours within organisations. The generalisability of this methodological framework can make further contributions to understanding a wide range of organisational behaviours considering social interactions in the workplace.",
+      "keywords": [
+        "Job Satisfaction and Organizational Behavior",
+        "Emotional Labor in Professions",
+        "Employee Performance and Management"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial econometrics transfer learning"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Simultaneous Estimation and Dataset Selection for Transfer Learning in High Dimensions by a Non-convex Penalty",
+      "authors": [
+        "Zeyu Li",
+        "Dong Liu",
+        "Yong He",
+        "Xinsheng Zhang"
+      ],
+      "year": 2026,
+      "venue": "Statistica Sinica",
+      "doi": "https://doi.org/10.5705/ss.202024.0423",
+      "url": "https://doi.org/10.5705/ss.202024.0423",
+      "language": "en",
+      "abstract": "In this paper, we introduce a method for simultaneous parameter estimation and informative source dataset identification in high-dimensional transfer learning, leveraging the truncated norm penalty function.This integrated approach contrasts with conventional strategies that treat useful dataset selection and transfer learning as separate steps.To solve the resulting non-convex optimization problem, specifically under sparse linear regression and generalized low-rank trace regression models, we adopt the difference of convex (DC) programming with the alternating direction method of multipliers (ADMM) procedure.We theoretically justify the proposed algorithm from both statistical and computational perspectives.Numerical results are reported alongside to validate the theoretical assertions.An R package MHDTL is developed to implement the Dong",
+      "keywords": [
+        "Statistical Methods and Inference",
+        "Sparse and Compressive Sensing Techniques",
+        "Domain Adaptation and Few-Shot Learning"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial econometrics transfer learning"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "verified_status": "待核验"
     },
     {
@@ -762,6 +1191,85 @@
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
+      "title": "Resource Nationalism, Enclave Industrialization, and Regional Divergence: A Spatial Econometric Assessment of Indonesia's Hilirisasi Mandate",
+      "authors": [
+        "Iqbal Anugerah",
+        "Selma Fajic"
+      ],
+      "year": 2026,
+      "venue": "Open Access Indonesia Journal of Social Sciences",
+      "doi": "https://doi.org/10.37275/oaijss.v9i1.316",
+      "url": "https://doi.org/10.37275/oaijss.v9i1.316",
+      "language": "en",
+      "abstract": "Indonesia's hilirisasi (downstreaming) mandate, enforced through a definitive nickel mineral export ban from January 2020, represents one of the most consequential applications of resource nationalism in contemporary Southeast Asian political economy. While aggregate indicators documented substantial Foreign Direct Investment (FDI) inflows into metallurgical industrial parks, the sub-national distributional consequences remained critically underexplored prior to this study. Employing a Spatial Durbin Difference-in-Differences (SDM-DiD) framework applied to a balanced provincial panel of 34 Indonesian provinces across the period 2015 to 2024 (N = 340 observations), this study empirically decomposed the direct, indirect (spatial spillover), and total effects of the export ban on regional economic growth and income inequality. The treatment group comprised the three primary nickel-downstreaming hub provinces: Central Sulawesi, Southeast Sulawesi, and North Maluku. Moran's I statistics confirmed significant spatial autocorrelation across all study years (range: 0.245-0.312, p < 0.001), validating the spatial modeling approach. The SDM-DiD estimation revealed a significant positive direct effect on regional GDP per capita in treated provinces (beta = 0.084, SE = 0.019, p < 0.001), confirming localized growth. However, the spatial spillover effect was significantly negative (theta = -0.052, SE = 0.021, p = 0.013), documenting a pronounced backwash effect on adjacent provinces. Within treated regions, income inequality widened significantly (Gini direct effect: beta = 0.018, p < 0.001), driven by skill-biased structural transformation associated with capital-intensive smelting operations. These findings established that Indonesia's hilirisasi mandate functions structurally as an enclave industrialization model, generating spatial polarization rather than inclusive regional development. Inter-regional fiscal equalization, enforceable backward linkage obligations, and peripheral human capital investment are identified as critical complementary policy mechanisms.",
+      "keywords": [
+        "Natural Resources and Economic Development",
+        "Regional Economic Trends and Sectoral Structure",
+        "Agglomeration and Urban Systems"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial econometrics transfer learning"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Research on Digital Trade Measurement and Green Economy Spatial Econometrics Based on DEA-SBM",
+      "authors": [
+        "Wei Ji"
+      ],
+      "year": 2026,
+      "venue": "HighTech and Innovation Journal",
+      "doi": "https://doi.org/10.28991/hij-2026-07-02-03",
+      "url": "https://doi.org/10.28991/hij-2026-07-02-03",
+      "language": "en",
+      "abstract": "In the process of China's economic transformation toward high-quality development, green development has become the core path to breaking through resource constraints and environmental pressures. Against this backdrop, computer technology has demonstrated significant advantages in addressing the complex network data in areas such as digital trade and the efficiency bottlenecks of traditional models in big data scenarios. This study develops a digital trade scale measurement system based on data envelopment analysis (DEA) and slacks-based measure (SBM) in an attempt to investigate the coordinated development path of digital trade and the green economy. Digital trade is measured using the DEA-SBM-GA model embedded with genetic algorithm (GA). Each province's degree of development in digital trade is assessed using the entropy value technique. The level of green economic development is gauged by the super-efficiency SBM model. Spatial spillover effects are examined using the spatial Durbin model. The results indicated that DEA-SBM-GA was significantly more efficient than traditional models p<0.001), reducing single iteration time by 87.3%. For every 1-unit increase in artificial intelligence-enabled digital trade, local green economic growth increased by 0.129 (p<0.05), with an indirect effect of 0.112 (p<0.05) and a total effect of 0.246 (p<0.05). Technological innovation had a dual threshold (0.314/0.721), and after crossing the high threshold, the impact coefficient increased from 0.063 to 0.247 (p<0.01). There was a positive geographical spillover impact and notable regional heterogeneity. The Moran's I index for the green economy was 0.304, with a Z-value of 4.82 (p<0.001), indicating significant spatial clustering. The study addresses the shortcomings of earlier research by offering a theoretical framework and policy suggestions for the coordinated growth of the green economy and digital trade. This work has significant academic and practical value.",
+      "keywords": [
+        "Efficiency Analysis Using DEA",
+        "Digital Economy and Transformation",
+        "Energy, Environment, Economic Growth"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial econometrics transfer learning"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Relative performances of alternative approaches to estimation and prediction in the spatial lag model",
+      "authors": [
+        "Takafumi Kato"
+      ],
+      "year": 2026,
+      "venue": "Statistical Papers",
+      "doi": "https://doi.org/10.1007/s00362-026-01839-6",
+      "url": "https://doi.org/10.1007/s00362-026-01839-6",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Regional Economic Trends and Sectoral Structure",
+        "demographic modeling and climate adaptation"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial lag model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
       "title": "Quasi-Score Matching Estimation for Spatial Autoregressive Model with Random Weights Matrix and Regressors",
       "authors": [
         "Xuan Liang",
@@ -829,6 +1337,66 @@
       "verified_status": "待核验"
     },
     {
+      "title": "MODEL DEPENDENSI SPASIAL DETERMINAN INDEKS PEMBANGUNAN MANUSIA DI JAWA TIMUR MENGGUNAKAN SPATIAL LAG MODEL",
+      "authors": [
+        "Yudha Hadi Gunawan",
+        "Deshira Azzahra Cahyani",
+        "Zahra Annisa Nadirah",
+        "Laili Yuliarti",
+        "Bq. Tia Azhari",
+        "Zizia Aletha",
+        "Septiana"
+      ],
+      "year": 2026,
+      "venue": "Jurnal Eksbar",
+      "doi": "https://doi.org/10.29408/eksbar.v3i1.34045",
+      "url": "https://doi.org/10.29408/eksbar.v3i1.34045",
+      "language": "en",
+      "abstract": "This study aims to analyse the spatial dependence of the Human Development Index (HDI) determinants across districts and cities in East Java Province using the Spatial Lag Model (SLM). The research employs a quantitative spatial econometrics approach with secondary data obtained from Statistics Indonesia (BPS) and spatial boundary data in shapefile format. The variables used include HDI as the dependent variable, and population, open unemployment rate (TPT), regional gross domestic product (PDRB), and labour force participation rate (TPAK) as explanatory variables. Spatial dependence was tested using Moran’s I and Lagrange Multiplier tests. The results indicate a significant positive spatial autocorrelation of HDI, implying that regions with high HDI tend to cluster geographically. The estimation of the Spatial Lag Model shows that the spatial lag parameter (ρ) is positive and significant (ρ = 0.4313), revealing strong spatial dependence among neighbouring regions. The SLM also performs better than the classical OLS model, with a lower AIC (193.3610) and higher R-squared (0.7266). These findings suggest that the HDI of a region is influenced not only by socioeconomic factors but also by spill-over effects from adjacent areas. Therefore, spatial-based development policies are recommended to enhance human development more equitably across regions.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Regional Economic Trends and Sectoral Structure",
+        "Economic Growth and Fiscal Policies"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial lag model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Linear partially time-varying coefficient spatial panel data model with fixed effects",
+      "authors": [
+        "Xiaojuan Kang",
+        "Zhaoyong Sun",
+        "Tizheng Li"
+      ],
+      "year": 2026,
+      "venue": "Communications in Statistics - Simulation and Computation",
+      "doi": "https://doi.org/10.1080/03610918.2026.2649417",
+      "url": "https://doi.org/10.1080/03610918.2026.2649417",
+      "language": "en",
+      "abstract": "In this paper, we propose a semiparametric spatial panel data model with fixed effects and partially time-varying coefficients. The proposed model serves as an intermediate class of models with good robustness by nonparametric treatment on certain explanatory variables and relatively more precise estimation on the parametric effects of other explanatory variables. To estimate the model parameters, we develop an estimation procedure based on local linear regression and profile likelihood. Moreover, a generalized likelihood ratio testing procedure is developed to identify explanatory variables with constant coefficients, in which a bootstrap procedure is suggested to approximate the null distribution of the resulting statistic. Simulation studies show that our estimation and testing procedures perform quite well in finite samples. In particular, our simulation studies demonstrate that efficiency gain can be achieved when information about the partially time-varying coefficient structure is appropriately utilized. We finally apply the proposed model and its estimation and testing procedures to study spatial spillover effects and time-varying feature of province-level house price in China.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "demographic modeling and climate adaptation",
+        "Housing Market and Economics"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial panel data model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
       "title": "Inference on Dynamic Spatial Autoregressive Models with Change Point Detection",
       "authors": [
         "Zetai Cen",
@@ -877,6 +1445,34 @@
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
+      "title": "Industrial specialization and employment growth in Mexico: evidence from a spatial panel data model",
+      "authors": [
+        "Rafael Garduño‐Rivera",
+        "Neil Reid",
+        "Haoying Wang"
+      ],
+      "year": 2026,
+      "venue": "Letters in Spatial and Resource Sciences",
+      "doi": "https://doi.org/10.1007/s12076-026-00439-0",
+      "url": "https://doi.org/10.1007/s12076-026-00439-0",
+      "language": "en",
+      "abstract": "Abstract This paper examines the relationship between industrial specialization and employment growth across Mexican municipalities over the period 1986–2019. The analysis is framed within the debate on Marshall–Arrow–Romer (MAR), Porter, and Jacobs externalities. Using the Krugman Specialization Index (KSI) and a spatial autoregressive (SAR) panel data model with municipality and time fixed effects, we estimate the impact of specialization on total and sectoral employment. The results indicate that higher specialization is generally associated with lower employment growth at the municipal level. However, this relationship varies across sectors: the negative effect is strongest in commerce and services, not statistically significant in manufacturing, and positive in mining. In addition, we find strong evidence of positive spatial spillovers, suggesting that interactions across neighboring municipalities shape employment dynamics. These findings suggest that specialization may enhance productivity without necessarily generating employment gains. More broadly, the results highlight the role of productive structure, sectoral heterogeneity, and spatial interdependence in shaping regional labor outcomes. Policy should therefore emphasize balanced and context-specific development strategies rather than relying on specialization alone.",
+      "keywords": [
+        "Agglomeration and Urban Systems",
+        "Regional Economic Trends and Sectoral Structure",
+        "Regional Development and Innovation"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial panel data model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
       "title": "Heterogeneous Transfer Learning for Linear Regression Model with Heteroscedasticity",
       "authors": [
         "Hongxia Hao",
@@ -902,7 +1498,37 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Freight Truck Turnaround Time Prediction at Container Ports Using Transfer Learning",
+      "authors": [
+        "Yusung MIN",
+        "Byongchan Shin",
+        "Zion Park",
+        "Joonha Kim",
+        "Gunwoo Lee"
+      ],
+      "year": 2026,
+      "venue": "Journal of Marine Science and Engineering",
+      "doi": "https://doi.org/10.3390/jmse14080727",
+      "url": "https://doi.org/10.3390/jmse14080727",
+      "language": "en",
+      "abstract": "In South Korea, 99.7% of international freight is transported through ports. At ports handling massive cargo volumes, prolonged truck waiting times have become a significant social concern. To enhance port operational efficiency and ensure driver safety, systematic congestion management is required, which can be facilitated by predicting truck turnaround time (TAT) in advance. However, existing TAT prediction studies have focused on individual ports where data collection is feasible, limiting the applicability of these models to other ports. The objective of this study was to evaluate the transferability of TAT prediction models to different ports. For the analysis, digital tachograph data capturing the trajectories of heavy-duty trucks were employed. The results indicate that a long short-term memory-based model effectively captures the complex operational characteristics of ports and demonstrates high predictive accuracy at Busan New Port and Busan North Port. By applying transfer learning from the best-performing Busan New Port model, the predictive accuracy for Gunsan Port, a target port with limited data, was substantially improved. This study confirms the feasibility of applying transfer learning in ports with constrained data availability, demonstrating that practical TAT prediction models can be developed under realistic operational constraints.",
+      "keywords": [
+        "Maritime Ports and Logistics",
+        "Transport and Logistics Innovations",
+        "Maritime Navigation and Safety"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial econometrics transfer learning"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "verified_status": "待核验"
     },
     {
@@ -933,6 +1559,60 @@
       "verified_status": "待核验"
     },
     {
+      "title": "Evolution of Spatial Econometric Models: Application to Real Estate Market Assessment",
+      "authors": [
+        "Lev Kerman"
+      ],
+      "year": 2026,
+      "venue": "Spatial Economics",
+      "doi": "https://doi.org/10.14530/se.2026.1.160-184",
+      "url": "https://doi.org/10.14530/se.2026.1.160-184",
+      "language": "en",
+      "abstract": "The article examines the evolution of spatial econometric models applied to real estate market analysis – from hedonic regression models to modern spatio-temporal volatility models. Based on a systematized literature review, the study describes the prerequisites for the transition from traditional valuation approaches (sales comparison, income, and cost) to multiple regression and further to global spatial autoregressive models (SAR, SEM and their extensions: SDM, SARMA, SAC).Local models based on the spatially varying coefficients (SVC) approach are discussed, including both discrete and continuous specification types (spatial regime models, deterministic and stochastic formulations). Special attention is given to conditional variance models: from temporal (G)ARCH models to their spatial and spatio-temporal extensions that account for the propagation of volatility across neighboring markets. A two-level model classification is proposed according to: (1) the type of moment of the distribution being modeled (mean or variance), and (2) the nature of spatial heterogeneity (global or local). In addition, three research scales of analysis are distinguished: spatial, temporal, and spatio-temporal. The study provides an integrated perspective on the development of analytical tools based on the literature, highlighting their practical relevance for mass real estate appraisal and price volatility analysis",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Housing Market and Economics",
+        "Urban Planning and Valuation"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial econometric model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Estimation of heterogeneous spatial panel data models with multiple structural breaks and a multifactor error structure",
+      "authors": [
+        "Siqi Dai",
+        "Wenting Wang",
+        "Chaowen Zheng"
+      ],
+      "year": 2026,
+      "venue": "Economics Letters",
+      "doi": "https://doi.org/10.1016/j.econlet.2026.113050",
+      "url": "https://doi.org/10.1016/j.econlet.2026.113050",
+      "language": "en",
+      "abstract": "This study considers heterogeneous spatial panel data models with multifactor errors and multiple unknown structural breaks in unit-specific coefficients. To address the dual challenges of endogeneity and heterogeneity across both time and cross-sectional units, we first eliminate factor dependence using a robust common correlated effects approach that relies exclusively on cross-sectional averages of the regressors, an approach we term CCEX. Multiple structural breakpoints are then estimated by the simultaneous estimation procedure of Bai and Perron (1998). We also propose a sequential test to determine the number of breaks. Within each identified regime, heterogeneous parameters are estimated by integrating CCEX with instrumental variables techniques. The proposed method yields consistent estimation for number of breaks, break dates and structural parameters, with Monte Carlo simulations demonstrating its superior finite-sample performance.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Regional Economic Trends and Sectoral Structure",
+        "demographic modeling and climate adaptation"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial panel data model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
       "title": "Enhancing Super‐Resolution Spatial Transcriptomics Data by Transfer Learning",
       "authors": [
         "Xiaoyu Li",
@@ -959,6 +1639,143 @@
       "source": "OpenAlex",
       "first_seen": "2026-11-11",
       "last_seen": "2026-11-18",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Distributed lag non-linear models with spatial effect modification using Laplacian P-splines",
+      "authors": [
+        "Sara Rutten",
+        "Thomas Neyens",
+        "Elisa Duarte",
+        "Antonio Gasparrini",
+        "Christel Faes"
+      ],
+      "year": 2026,
+      "venue": "Environmental and Ecological Statistics",
+      "doi": "https://doi.org/10.1007/s10651-026-00739-0",
+      "url": "https://doi.org/10.1007/s10651-026-00739-0",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Climate Change and Health Impacts",
+        "Spatial and Panel Data Analysis",
+        "Statistical Methods in Epidemiology"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial lag model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Digitalization and Inclusive Economic Recovery in Bali’s Coastal Villages: A Spatial Lag Modeling Approach",
+      "authors": [
+        "I Gusti Lanang Putu Tantra",
+        "Ngurah Wisnu Murthi",
+        "I Made Sara"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Sustainable Development and Planning",
+      "doi": "https://doi.org/10.18280/ijsdp.210206",
+      "url": "https://doi.org/10.18280/ijsdp.210206",
+      "language": "en",
+      "abstract": "The digitalization of village governance (DPDS) and Village-Owned Enterprises (VOEs) has emerged as a strategic catalyst for economic recovery in Bali's coastal tourism villages following the COVID-19 pandemic.This study evaluates how these digital initiatives influence inclusive growth across eight regencies and one city in Bali during the 2023-2024 period.Utilizing a mixed-methods approach, the research combines descriptive qualitative analysis with advanced econometrics, specifically the Spatial Lag Model (SLM), to account for regional interdependencies.The findings reveal that digital infrastructure and governance significantly boost inclusive growth, with an R-squared of 0.94, indicating that 94% of growth variations are explained by digital variables.A critical discovery is the Spatial Lag effect (p = 0.46), proving that digital progress in one village creates a positive \"spillover effect\" on its neighbors.While southern Bali (Badung and Denpasar) leads in digital adoption, significant gaps remain in eastern and northern regions.This research concludes that integrating digital governance with digitalized entrepreneurship, supported by robust spatial connectivity, is essential for achieving equitable and sustainable welfare in tourism-dependent economies.",
+      "keywords": [
+        "Digital Economy and Transformation",
+        "Economic Growth and Development",
+        "SMEs Development and Digital Marketing"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial lag model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Digital Workforce Readiness in East Java: A Spatial Econometric Analysis using the General Nesting Spatial (GNS) Model, 2022–2024",
+      "authors": [],
+      "year": 2026,
+      "venue": "Jurnal pengukuran kualiti dan analisis/Journal of Quality Measurement and Analysis",
+      "doi": "https://doi.org/10.17576/jqma.2203.2026.09",
+      "url": "https://doi.org/10.17576/jqma.2203.2026.09",
+      "language": "en",
+      "abstract": "Regional disparities in digital infrastructure, labour-market characteristics, and socio-cultural environments create uneven digital workforce readiness across East Java.Understanding these disparities is essential for designing effective human-capital development strategies.This study examines the determinants of digital workforce readiness by analysing both local factors and spatial interactions between neighbouring regions.The analysis covers all districts and cities in East Java Province using regional data from 2022-2024.Workforce readiness is measured using the \"Jobs\" pillar of Indonesia's national digital readiness index (IMDI).The General Nesting Spatial (GNS) model is employed as the primary analytical approach to capture both direct effects and spatial spillovers of digital infrastructure, labour-market conditions, income, and cultural region characteristics.The results show that digital infrastructure is the most consistent local determinant, with positive and significant direct effects of 0.398 (2022), 0.366 (2023), and 0.108 (2024).Labor force participation shows a positive local effect of 0.327 in 2022, while its indirect spatial effect reaches -0.910, indicating regional competition for skilled labour.Open unemployment produces a significant negative indirect effect of -1.184 in 2024, reflecting unemployment contagion across neighbouring districts.Per capita income shows a positive local effect of 3.339 in 2024, while cultural differences, particularly in the Madura region, show significant direct effects of 11.450 (2023) and 9.200 (2024).These findings demonstrate that digital workforce readiness in East Java is shaped by both structural local conditions and spatial dependencies between regions.This study highlights the importance of spatial econometric modelling in understanding regional digital readiness and provides evidence-based insights for developing equitable and culturally adaptive digital labour policies.",
+      "keywords": [
+        "Regional Economic Trends and Sectoral Structure",
+        "Labor Market and Education",
+        "ICT Impact and Policies"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial econometrics transfer learning"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Comparing econometric and machine learning algorithms for modelling daily time-use patterns",
+      "authors": [
+        "Azam Ali",
+        "Eeshan Bhaduri",
+        "Charisma Farheen Choudhury"
+      ],
+      "year": 2026,
+      "venue": "Transportmetrica A Transport Science",
+      "doi": "https://doi.org/10.1080/23249935.2026.2666115",
+      "url": "https://doi.org/10.1080/23249935.2026.2666115",
+      "language": "en",
+      "abstract": "Time-use decisions are a critical input for quantifying travel demand in activity-based models. These decisions are typically modelled using econometric methods grounded in utility maximisation theory – multiple discrete-continuous extreme value (MDCEV) models in particular. Since time-use decisions are quite complex and may not necessarily be underpinned by a utility-maximisation framework, we propose to use a data-driven machine learning technique (Recurrent Neural Networks, RNN) to model time-use. We compare and contrast time-use models developed using a long short-term memory (LSTM), a type of RNN model, with an MDCEV model based on the predictive performance and marginal effects. Using time-use data collected during the COVID-19 pandemic in the UK, we observe that there are no significant differences in prediction accuracy between the two approaches, both at the aggregate (sample) and disaggregate (individual) levels. Thus, we find no evidence that data-driven methods outperform traditional econometric models in predicting time-use behaviour. We also observe that the marginal effects derived from both models are broadly similar. However, in the absence of benchmark or ground-truth values, it is not possible for us to conclude the output of which model is closer to reality. This limits the depth of the comparison. Overall, our findings suggest that RNN models can serve as viable alternatives to MDCEV models for modelling time-use with the added capability of generating activity schedules. In contrast, MDCEV models offer greater transparency about the assumptions and provide more interpretable, policy-relevant outputs.",
+      "keywords": [
+        "Transportation Planning and Optimization",
+        "Human Mobility and Location-Based Analysis",
+        "Traffic Prediction and Management Techniques"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial econometrics transfer learning"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Causal Inference of Algorithm Recommendations on Gig Employment Flexibility via Spatial Lag Models",
+      "authors": [
+        "Giulia Russo",
+        "Katherine Moore"
+      ],
+      "year": 2026,
+      "venue": "Global Media and Social Sciences Research Journal",
+      "doi": "https://doi.org/10.71465/gmssrj154",
+      "url": "https://doi.org/10.71465/gmssrj154",
+      "language": "en",
+      "abstract": "The rapid proliferation of the gig economy has fundamentally altered the landscape of labor markets, promising workers unprecedented autonomy and schedule flexibility. However, the increasing reliance on algorithmic management systems to allocate tasks and optimize service delivery raises critical questions regarding the genuine extent of this flexibility. This study investigates the causal impact of algorithmic recommendation intensity on the temporal and spatial flexibility of gig workers, specifically focusing on ride-hailing and food delivery sectors. Utilizing a comprehensive dataset of high-frequency worker logs and employing a Spatial Lag Model (SLM), we isolate the direct effects of algorithmic nudges from the indirect spillover effects resulting from the spatial interdependence of worker supply. Our findings reveal a paradox where high-intensity algorithmic recommendations, while ostensibly optional, significantly constrain worker autonomy by creating economic disincentives for non-compliance. Furthermore, the spatial analysis uncovers strong contagion effects, where reduced flexibility in one geographic cluster propagates to adjacent areas, effectively homogenizing labor supply behavior across the urban grid. These results challenge the narrative of algorithmic liberation and suggest that platform mechanisms may inadvertently recreate rigid scheduling structures through decentralized control.",
+      "keywords": [
+        "Digital Economy and Work Transformation",
+        "Legal and Labor Studies",
+        "Digital Platforms and Economics"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial lag model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "verified_status": "待核验"
     },
     {
@@ -1045,6 +1862,119 @@
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
+      "title": "Bayesian Transfer Learning of Spatial Lag Stochastic Frontier Analysis",
+      "authors": [
+        "Yitao Zhu",
+        "Yunquan Song"
+      ],
+      "year": 2026,
+      "venue": "Networks and Spatial Economics",
+      "doi": "https://doi.org/10.1007/s11067-026-09793-4",
+      "url": "https://doi.org/10.1007/s11067-026-09793-4",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Efficiency Analysis Using DEA",
+        "Regional Economic Trends and Sectoral Structure"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial econometrics transfer learning"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Bayesian Estimation of Spatial Lagged Panel Quantile Regression Model",
+      "authors": [
+        "Man Zhao",
+        "Rushan Huang",
+        "Hui Li",
+        "Youxi Luo",
+        "Qiming Liu"
+      ],
+      "year": 2026,
+      "venue": "Applied Sciences",
+      "doi": "https://doi.org/10.3390/app16041927",
+      "url": "https://doi.org/10.3390/app16041927",
+      "language": "en",
+      "abstract": "This paper proposes a Bayesian estimation method for spatial lagged panel quantile models. The proposed model simultaneously considers spatial lag effects of the dependent variable and the quantile regression framework, enabling effective capture of spatial dependence and conditional distribution heterogeneity. The research constructs a Bayesian estimation framework based on the asymmetric Laplace distribution by decomposing the random disturbance term into a combination of normal and exponential distributions, successfully developing a probabilistic model with both thick tail robustness and computational efficiency. On this basis, the study derives the full conditional posterior probability distributions of model parameters and designs a hybrid Markov Chain Monte Carlo (MCMC) sampling algorithm integrating Gibbs sampling and Metropolis–Hastings algorithm for parameter estimation. Numerical simulation experiments demonstrate that, compared with traditional estimation methods, the proposed Bayesian estimation approach exhibits superior estimation accuracy and robustness across different quantiles, with particularly pronounced advantages in small sample and heavy-tailed distribution scenarios. This methodology provides a more reliable theoretical tool for analyzing panel data with spatial dependencies. This method can not only accurately quantify the spatial spillover effect, but also identify the different effects of the same influencing factor at different emission levels, which provides a strong methodological support for formulating differentiated and precise emission reduction policies.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Statistical Methods and Bayesian Inference",
+        "Markov Chains and Monte Carlo Methods"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial lag model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "An empirical analysis of spatial effects and their driving factors in urban green development using spatial econometric models",
+      "authors": [
+        "Congmei Hou",
+        "Yiming Ma"
+      ],
+      "year": 2026,
+      "venue": "Frontiers in Environmental Science",
+      "doi": "https://doi.org/10.3389/fenvs.2025.1664513",
+      "url": "https://doi.org/10.3389/fenvs.2025.1664513",
+      "language": "en",
+      "abstract": "Evaluation of the spatial effect of urban green development can provide spatial clues for solving urban governance problems. The existing research lacks an assessment of urban green development from the perspective of productivity. In this study, 285 cities in China from 2008 to 2020 were selected as research objects. An indicator system for urban green development was innovatively constructed from a productivity perspective. Meanwhile the spatial autocorrelation effects of its development under the adjacency relationship weight matrix (ARWM), geographical distance weight matrix (GDWM), and economic distance weight matrix (EDWM) were clarified. Spatial Durbin Models (SDM) partial differential method was used to decompose the spatial effects of the influencing factors of urban green development, and the spatial correlation effects and spatial spillover effects of urban green development were clarified. The findings reveal that: (1) From the perspective of spatial correlation, urban green development has global spatial autocorrelation, which indicates that the level of urban green development is affected by at least 13% of cities with similar economic levels, 84% by cities with close geographical distance, and 63% by adjacent cities. (2) From the perspective of spatial spillover effect, urban green development has significant spatial spillover effect under ARWM and GDWM, specifically, the level of economic development under different spatial weight matrices has a significant spillover effect on urban green development. There are spillover effects on the impact of industrial structure, innovation level, infrastructure conditions, government intervention and foreign trade openness on urban green development under the influence of the ARWM. There is a significant spillover effect of environmental regulation on urban green development under the influence of EDWM.",
+      "keywords": [
+        "Energy, Environment, Economic Growth",
+        "Spatial and Panel Data Analysis",
+        "Agglomeration and Urban Systems"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial econometric model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Airport coopetition and spatial heterogeneity in China: a two-regime spatial econometric analysis",
+      "authors": [
+        "Zhen Wu",
+        "Po‐Lin Lai",
+        "Saeyeon Roh",
+        "Jeong Hugh Han"
+      ],
+      "year": 2026,
+      "venue": "Humanities and Social Sciences Communications",
+      "doi": "https://doi.org/10.1057/s41599-026-08300-x",
+      "url": "https://doi.org/10.1057/s41599-026-08300-x",
+      "language": "en",
+      "abstract": "The development of aeronautical infrastructure and the rise of low-cost carriers have substantially increased the demand for air travel. Moreover, airport development is shaped by spatial heterogeneity factors such as environmental conditions, regulatory frameworks, and socioeconomic variables, which complicate coopetitive interactions within the aviation network. To examine these phenomena, a dual-regime spatial econometric model utilizing different spatial weight matrices has been constructed. The model captures asymmetries in airport coopetition by analyzing variations in spatial autoregressive coefficients across regimes and identifies the spatial heterogeneity factors that drive these asymmetric relationships. Analyzing data from 48 major Chinese airports over 22 years reveals that airport size and route structures—particularly the proportion of international flights—significantly influence asymmetric coopetition. Specifically, larger airports greatly facilitate the growth of nearby airports while also competing with them, especially for airports with extensive international routes. Additionally, disparities in regional economic development levels among airport cities intensify coopetitive relationships.",
+      "keywords": [
+        "Aviation Industry Analysis and Trends",
+        "Global Urban Networks and Dynamics",
+        "Agglomeration and Urban Systems"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial econometrics transfer learning"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
       "title": "A transfer learning-based hybrid deep- and machine-learning regression approach for predicting the postoperative pulmonary function",
       "authors": [
         "Wenfang Wang",
@@ -1113,6 +2043,63 @@
       "first_seen": "2026-10-21",
       "last_seen": "2026-10-21",
       "verified_status": "分享页导入；题录与摘要待独立核验"
+    },
+    {
+      "title": "A Spatial Lag Design Model Only in Treatments Using Perpendicular Projection Operators",
+      "authors": [
+        "A. E. Darghan",
+        "C. Rivera",
+        "J. A. Guerrero"
+      ],
+      "year": 2026,
+      "venue": "Modelling and Simulation in Engineering",
+      "doi": "https://doi.org/10.1155/mse/7916192",
+      "url": "https://doi.org/10.1155/mse/7916192",
+      "language": "en",
+      "abstract": "Spatial modeling literature typically presents models that incorporate spatial lags within classical spatial regression frameworks. This research proposes a design model that integrates both treatment and block effects, selectively incorporating the spatial lag only in the submatrix associated with treatments. This choice is based on the practical reasoning that the application of a treatment is more likely to cause interference or spillover effects among neighboring experimental units, rather than the environmental conditions motivating blocking. Through simulation, a response is generated using a Gaussian variogram with varying intensities of spatial dependence, to study the effect of including such a spatial lag in a simple factorial design arranged in generalized complete blocks. Orthogonal projection matrices incorporating the spatial lag are constructed, and a formal analogy is established with covariance analysis. From these, the corresponding sums of squares are extracted from the different sources of variation, enabling analysis of how the effect of the treatment‐induced spatial lag changes as the magnitude of spatial dependence in the response varies. This methodology is not only straightforward to implement but also offers a key structural advantage: it preserves the block component of the design matrix unaltered, maintaining its original interpretation. This feature facilitates its adoption within experimental design models that explicitly incorporate spatial weight matrices, extending its applicability toward what could be termed a spatial variance analysis corrected for treatment‐induced lag.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Optimal Experimental Design Methods",
+        "Soil Geostatistics and Mapping"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial lag model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "A Mixture of Distributed Lag Non‐Linear Models to Account for Spatially Heterogeneous Exposure‐Lag‐Response Associations",
+      "authors": [
+        "Álvaro Briz‐Redón",
+        "Ana Corberán Vallet",
+        "Adina A. Iftimi",
+        "Carmen Íñiguez"
+      ],
+      "year": 2026,
+      "venue": "Statistics in Medicine",
+      "doi": "https://doi.org/10.1002/sim.70661",
+      "url": "https://doi.org/10.1002/sim.70661",
+      "language": "en",
+      "abstract": "ABSTRACT Environmental exposures, such as air pollution and extreme temperatures, have complex effects on human health. These effects are often characterized by non‐linear exposure‐lag‐response relationships and delayed impacts over time. Accurately capturing these dynamics is crucial for informing public health interventions. The Distributed Lag Non‐Linear Model (DLNM) is a flexible statistical framework for estimating such effects in epidemiological research. However, standard DLNM implementations typically assume a homogeneous exposure‐lag‐response association across the study region, overlooking potential spatial heterogeneity, which can lead to biased risk estimates. To address this limitation, we introduce DLNM‐Clust: a novel mixture of DLNMs that extends the traditional DLNM. Within a Bayesian framework, DLNM‐Clust probabilistically assigns each geographic unit to one of latent spatial clusters, each of which is defined by a distinct DLNM specification. This approach allows capturing both common patterns and singular deviations in the exposure‐lag‐response surface. We demonstrate the method using municipality‐level time‐series data on the relationship between air pollution and the incidence of COVID‐19 in Belgium. Our results emphasize the importance of spatially aware modeling strategies in environmental epidemiology, facilitating region‐specific risk assessment and supporting the development of targeted public health initiatives.",
+      "keywords": [
+        "Air Quality and Health Impacts",
+        "Climate Change and Health Impacts",
+        "Statistical Methods in Epidemiology"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial lag model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
     },
     {
       "title": "贝叶斯时空统计方法及应用进展与趋势",
@@ -1385,6 +2372,33 @@
       "source": "OpenAlex",
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Two-stage least squares estimation in a spatial lag model under a complete bipartite network",
+      "authors": [
+        "Badi H. Baltagi",
+        "Long Liu"
+      ],
+      "year": 2025,
+      "venue": "Spatial Economic Analysis",
+      "doi": "https://doi.org/10.1080/17421772.2025.2495321",
+      "url": "https://doi.org/10.1080/17421772.2025.2495321",
+      "language": "en",
+      "abstract": "This paper considers a spatial lag model with a complete bipartite network weighting matrix which is important in network theory. We show that two-stage least squares is equivalent to ordinary least squares and both estimators are inconsistent for the cross-section data case. This result has also been derived for the spatial lag model with an equal weight matrix by Kelejian and Prucha in 2002. We also show that the fixed effects two-stage least squares estimator is consistent in case we have panel data and the spatial lag model includes time fixed effects. This is different from the result for an equal weight matrix derived by Kelejian et al. in 2006.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Regional Economic Trends and Sectoral Structure",
+        "Agglomeration and Urban Systems"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial lag model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "verified_status": "待核验"
     },
     {
@@ -1782,6 +2796,35 @@
       "verified_status": "待核验"
     },
     {
+      "title": "Spatial Bayesian distributed lag non-linear models with R-INLA",
+      "authors": [
+        "Marcos Quijal-Zamorano",
+        "Miguel A. Martínez‐Beneito",
+        "Joan Ballester",
+        "Marc Marí-Dell’Olmo"
+      ],
+      "year": 2025,
+      "venue": "International Journal of Epidemiology",
+      "doi": "https://doi.org/10.1093/ije/dyaf120",
+      "url": "https://doi.org/10.1093/ije/dyaf120",
+      "language": "en",
+      "abstract": "In a recent paper published in this Journal,1 we introduced spatial Bayesian distributed lag non-linear models (SB-DLNMs) as a novel framework for estimating the short-term lagged health effects of environmental exposures in small areas. We extended the state-of-the-art approach for exposure–lag–response epidemiological modelling—distributed lag non-linear models (DLNMs)2—by incorporating spatial models within a single-stage Bayesian framework to account for spatial dependence in risks. To evidence the practicality of SB-DLNMs, we conducted a case study estimating the temperature–lag–mortality relationships in the 73 neighbourhoods of Barcelona. SB-DLNMs can be implemented by using various Bayesian statistical software tools. We used WinBUGS for its flexibility in specifying complex hierarchical Bayesian models.3 However, besides the need for conducting simulation studies that validate the robustness of the models, we acknowledged in the original paper that the biggest limitation of SB-DLNMs is their long execution times and high computational demands. As an alternative, R-INLA, based on integrated nested Laplace approximations,4 offers faster computation compared with software alternatives using Markov chain Monte Carlo (MCMC),5 such as WinBUGS. In this letter, we present the implementation of SB-DLNMs with R-INLA providing the illustrative code to reproduce the results of the same case study of small-area temperature–mortality associations in the Supplementary Text S1 and in a GitHub repository (https://github.com/marcosqz/sbdlnm_rinla_implementation).",
+      "keywords": [
+        "Climate Change and Health Impacts",
+        "Statistical Methods in Epidemiology",
+        "Air Quality and Health Impacts"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial lag model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
       "title": "Semi-Supervised Triply Robust Inductive Transfer Learning",
       "authors": [
         "Tianxi Cai",
@@ -1883,6 +2926,71 @@
       "verified_status": "待核验"
     },
     {
+      "title": "Renormalized Maximum Likelihood for Spatial Lag Models",
+      "authors": [
+        "Saïd Maanan"
+      ],
+      "year": 2025,
+      "venue": "Networks and Spatial Economics",
+      "doi": "https://doi.org/10.1007/s11067-025-09715-w",
+      "url": "https://doi.org/10.1007/s11067-025-09715-w",
+      "language": "en",
+      "abstract": "Abstract Model selection is critical in spatial econometrics, particularly when specifying the degree of spatial dependence in regression models. Traditional criteria such as Akaike’s Information Criterion (AIC), Bayesian Information Criterion (BIC), and the Hannan-Quinn Criterion (HQC) are widely applied but do not adaptively account for the complexity introduced by spatial autocorrelation. This paper evaluates the performance of the Renormalized Maximum Likelihood (RNML) criterion, which incorporates a data-driven penalty derived from the Fisher Information Matrix to balance model fit and complexity. Through Monte Carlo simulations, we assess RNML’s capacity to accurately recover the true spatial dependence structure under varying degrees of spatial autocorrelation and sample sizes. We complement these simulations with three empirical applications: the spatial distribution of GDP per capita across European NUTS-2 regions, the spread of COVID-19 incidence across Italian provinces, and the share of foreign-born residents across Germany's NUTS-3 regions. These examples span diverse spatial scales and policy domains, economic performance, public health, and migration, providing a comprehensive evaluation of RNML in practice. Our findings consistently show that RNML tends to select higher spatial autoregressive coefficients compared to classical criteria, especially in settings with pronounced spatial dependence or higher spatial resolution. This adaptiveness enhances RNML’s reliability for robust inference in spatial modeling, particularly where spatial spillovers and feedback effects are substantively important.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Regional Economic Trends and Sectoral Structure",
+        "Agglomeration and Urban Systems"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial lag model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Predicting communities with high tuberculosis case-finding efficiency to optimise resource allocation in Pakistan: comparing the performance of a negative binomial spatial lag model with a Bayesian machine-learning model",
+      "authors": [
+        "Christina Mergenthaler",
+        "Jake D. Mathewson",
+        "Stephanie Lako",
+        "Andreas Werle van der Merwe",
+        "Matthys Gerhardus Potgieter",
+        "Vincent Meurrens",
+        "Abdullah Latif",
+        "Hasan Tahir",
+        "Tanveer Ahmed",
+        "Zia Samad",
+        "Frank G. J. Cobelens",
+        "Daniëlla Brals",
+        "Mirjam I. Bakker",
+        "Ente J. J. Rood"
+      ],
+      "year": 2025,
+      "venue": "BMJ Public Health",
+      "doi": "https://doi.org/10.1136/bmjph-2024-001424",
+      "url": "https://doi.org/10.1136/bmjph-2024-001424",
+      "language": "en",
+      "abstract": "Introduction: Despite progress in tuberculosis (TB) treatment coverage in past years, an estimated 183 000 people with TB may not have been diagnosed in Pakistan in 2022. Therefore, there is a need to develop models which help to steer active case finding (ACF) towards populations with a high probability of having undetected TB. The aim of this study was to cross-validate TB positivity rate predictions in ACF settings of an existing Bayesian machine learning (BML) with a simpler frequentist model. Methods: We conducted a retrospective analysis of cross-sectional data to identify predictors for detection of bacteriologically confirmed TB cases during ACF events in Pakistan. A predictive negative binomial regression (NBR) model was created, and the presence of spatial autocorrelation was examined to account for spatial dependencies in the outcome variable. The NBR and BML models were compared on their respective predictive precisions for the identification of TB hotspots, based on Root Mean Square Error values, k-fold cross-validation and tehsil-level (sub-district) prediction rankings. Results: 407 (1.9%) bacteriologically confirmed cases among 21 227 visitors were detected in 414 ACF events between September 2020 and January 2022. In the final NBR, the spatial lag variable explained most variation in TB positivity rates across ACF events. NBR and BML predictions were similar at tehsil level. While the BML had a slightly lower root mean squared error (1.02 vs 1.03) the NBR had a slightly better fit based on the Akaike information criterion. Conclusions: Statistical models can be effective in predicting TB hotspots for ACF planning, and the relatively simpler NBR model was nearly as effective as a more complex BML model. The predictions of different modelling approaches were similar, suggesting that predictions are more driven by covariates rather than modelling framework. The agreement between model results increases confidence in the potential utility of models to spatially target ACF activities in high need, low access areas.",
+      "keywords": [
+        "Tuberculosis Research and Epidemiology",
+        "Spatial and Panel Data Analysis",
+        "Data-Driven Disease Surveillance"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial lag model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
       "title": "Optimizing genomic prediction with transfer learning under a ridge regression framework",
       "authors": [
         "Osval Antonio Montesinos-López",
@@ -1947,6 +3055,34 @@
       "source": "OpenAlex",
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "New Modified Estimators for the Spatial Lag Model with Randomly Missing Data in Dependent Variable: Methods and Simulation Study",
+      "authors": [
+        "Mohamed R. Abonazel",
+        "Ohood A. Shalaby",
+        "Ahmed Hassen Youssef"
+      ],
+      "year": 2025,
+      "venue": "International Journal of Analysis and Applications",
+      "doi": "https://doi.org/10.28924/2291-8639-23-2025-67",
+      "url": "https://doi.org/10.28924/2291-8639-23-2025-67",
+      "language": "en",
+      "abstract": "Accurately estimating the spatial lag model (SLM) in the presence of randomly missing data in the dependent variable poses a significant challenge. We introduce some modifications to the two-stage least squares with imputation (I2SLS) estimator previously proposed by Izaguirre [1] and Wang and Lee [2]. Our key contributions include (1) introducing the generalized nonlinear least squares (GNLS) estimator as an alternative imputation method to the previously used nonlinear least squares (NLS) approach in the literature, (2) incorporating additional instrument matrices (IM), and (3) implementing both partial and total imputations for all modified estimators. Through a Monte Carlo simulation (MCS) study, we evaluate the performance of these estimators across various scenarios of sample size, spatial weights matrix densities, and missingness rate. Results are compared in terms of coefficient bias and root mean squares errors (RMSE) for both the parameters and model fit. The findings indicate that all estimators demonstrate relatively strong performance in the context of estimator coefficients bias and RMSE. However, our modified estimators demonstrate slightly better performance compared to those previously documented in the literature in terms of overall RMSE. While both total and partial imputation approaches tend to produce similar results, partial imputation demonstrated superior performance in certain scenarios. Additionally, the estimators proved robust, maintaining their reliability across varying levels of spatial connectivity. However, higher missing data rates led to slightly increased bias and RMSE.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Statistical Methods and Bayesian Inference",
+        "demographic modeling and climate adaptation"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial lag model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "verified_status": "待核验"
     },
     {
@@ -2241,6 +3377,35 @@
       "verified_status": "待核验"
     },
     {
+      "title": "Climate impact mechanism underlying vegetation carbon sequestration changes in northern Guangdong, China based on spatial lag model.",
+      "authors": [
+        "Sen-Yuan Pan",
+        "Zhou Qi",
+        "Jinggang Li",
+        "Chuan-Zhun Sun"
+      ],
+      "year": 2025,
+      "venue": "PubMed",
+      "doi": "https://doi.org/10.13287/j.1001-9332.202501.022",
+      "url": "https://doi.org/10.13287/j.1001-9332.202501.022",
+      "language": "en",
+      "abstract": ". Vegetation carbon sequestration in this region showed a fluctuating downward trend, with strong spatial heterogeneity. The annual average relative humidity, annual average sunshine hours and annual average precipitation were climate factors with significant impacts on regional carbon sequestration changes. The spatial differences of those influencing factors were considerable, and there was a strong correlation with altitude. Compared to climate factors, human activities were the main influencing factor of vegetation carbon sequestration variations in northern Guangdong, with an average contribution rate of 70.2% for human factors and 29.8% for climate factors.",
+      "keywords": [
+        "Forest, Soil, and Plant Ecology in China",
+        "Land Use and Ecosystem Services",
+        "Environmental Changes in China"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial lag model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
       "title": "City-scale fire risk modeling based on spatial regression methods",
       "authors": [
         "Hui Ma",
@@ -2340,6 +3505,33 @@
       "source": "OpenAlex",
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "A spatial lag model analysis of lung cancer incidence and satellite-derived data on air pollution in Thailand from 2020 to 2023",
+      "authors": [
+        "Wasana Silangam",
+        "Amornrat Luenam"
+      ],
+      "year": 2025,
+      "venue": "Geospatial health",
+      "doi": "https://doi.org/10.4081/gh.2025.1424",
+      "url": "https://doi.org/10.4081/gh.2025.1424",
+      "language": "en",
+      "abstract": "This study aimed at investigating the association between satellite-based remotely sensed data on particulate matter with diameters less than 2.5 microns (PM2.5), sulphur dioxide (SO2), nitrogen dioxide (NO2) and carbon monoxide (CO) on the one hand, with the incidence of lung cancer in Thailand on the other. Regression analyses on a nationwide dataset comprising 604,460 confirmed cases reported between 2020 and 2023 were conducted using the Spatial Lag Model (SLM) to assess the relationship between the ambient air pollutants and lung cancer incidence. The results revealed that provinces with the highest cancer incidence rates were consistently found to be located in the eastern part of north-eastern Thailand and the far North as well as some provinces in the South. The SLM accounted for a moderate proportion of variance in lung cancer incidence, with R² values ranging from 0.1548 to 0.1755 over the study period. PM2.5 concentrations were positively and significantly associated with incidence rates each year, an effect increasing from 2020 (0.2160, p=0.0075) to 2023 (0.3096, p=0.0102). These findings highlight the potential of satellite-based air quality data, particularly PM2.5 for predicting and monitoring lung cancer incidence, thereby supporting evidence- based public health planning and environmental policy in Thailand. The results add empirical evidence to the growing body of literature demonstrating the public health consequences of ambient air pollution.",
+      "keywords": [
+        "Air Quality and Health Impacts",
+        "Global Cancer Incidence and Screening",
+        "Occupational and environmental lung diseases"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial lag model"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "verified_status": "待核验"
     },
     {
@@ -4120,6 +5312,33 @@
       "verified_status": "待核验"
     },
     {
+      "title": "Extracting spatial effects from machine learning model using local interpretation method: An example of SHAP and XGBoost",
+      "authors": [
+        "Ziqi Li"
+      ],
+      "year": 2022,
+      "venue": "Computers Environment and Urban Systems",
+      "doi": "https://doi.org/10.1016/j.compenvurbsys.2022.101845",
+      "url": "https://doi.org/10.1016/j.compenvurbsys.2022.101845",
+      "language": "en",
+      "abstract": "Machine learning and artificial intelligence (ML/AI), previously considered black box approaches, are becoming more interpretable, as a result of the recent advances in eXplainable AI (XAI). In particular, local interpretation methods such as SHAP (SHapley Additive exPlanations) offer the opportunity to flexibly model, interpret and visualise complex geographical phenomena and processes. In this paper, we use SHAP to interpret XGBoost (eXtreme Gradient Boosting) as an example to demonstrate how to extract spatial effects from machine learning models. We conduct simulation experiments that compare SHAP-explained XGBoost to Spatial Lag Model (SLM) and Multi-scale Geographically Weighted Regression (MGWR) at the parameter level. Results show that XGBoost estimates similar spatial effects as those in SLM and MGWR models. An empirical example of Chicago ride-hailing modelling is presented to demonstrate the utility of SHAP with real datasets. Examples and evidence in this paper suggest that locally interpreted machine learning models are good alternatives to spatial statistical models and perform better when complex spatial and non-spatial effects (e.g. non-linearities, interactions) co-exist and are unknown.",
+      "keywords": [
+        "Explainable Artificial Intelligence (XAI)",
+        "Spatial and Panel Data Analysis",
+        "Urban Transport and Accessibility"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial lag model",
+        "spatial econometrics transfer learning"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
+      "verified_status": "待核验"
+    },
+    {
       "title": "Estimation of spatial autoregressive models with covariate measurement errors",
       "authors": [
         "Guowang Luo",
@@ -4174,7 +5393,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "verified_status": "待核验"
     },
     {
@@ -4379,7 +5598,7 @@
       "verified_status": "待核验"
     }
   ],
-  "updated_at": "2026-11-18T01:21:31+08:00",
+  "updated_at": "2026-11-19T00:55:51+08:00",
   "imported_from": {
     "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
     "title": "TL-SAR 每日文献追踪｜第 1 期",

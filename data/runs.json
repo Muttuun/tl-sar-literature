@@ -360,6 +360,38 @@
       "error_count": 0,
       "status": "success",
       "errors": []
+    },
+    {
+      "run_date": "2026-11-19",
+      "completed_at": "2026-11-19T00:55:51+08:00",
+      "candidate_count": 50,
+      "new_count": 43,
+      "duplicate_count": 7,
+      "total_count": 171,
+      "error_count": 5,
+      "status": "partial",
+      "errors": [
+        {
+          "query": "spatial autoregressive model",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "query": "spatial autoregressive",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "query": "transfer learning spatial data",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "query": "transfer learning spatial regression",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "query": "spatial machine learning",
+          "error": "HTTP Error 429: Too Many Requests"
+        }
+      ]
     }
   ]
 }
