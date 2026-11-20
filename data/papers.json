@@ -289,7 +289,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-21",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -336,7 +336,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-21",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -431,7 +431,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-21",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -632,7 +632,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -1027,7 +1027,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -1138,7 +1138,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -1187,7 +1187,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -1498,7 +1498,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -1555,7 +1555,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -1638,7 +1638,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -2431,7 +2431,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -2507,7 +2507,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-21",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -2599,7 +2599,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -2630,6 +2630,36 @@
       "verified_status": "待核验"
     },
     {
+      "title": "Studying the Impact of Socioeconomic and Environmental Factors on Nitrogen Oxide Emissions: Spatial Econometric Modeling",
+      "authors": [
+        "Ehab Ebrahim Mohamed Ebrahim",
+        "Mohamed R. Abonazel",
+        "Ohood A. Shalaby",
+        "Walaa Abdullah Abdullah Albeltagy"
+      ],
+      "year": 2025,
+      "venue": "International Journal of Energy Economics and Policy",
+      "doi": "https://doi.org/10.32479/ijeep.18300",
+      "url": "https://doi.org/10.32479/ijeep.18300",
+      "language": "en",
+      "abstract": "This study aims to identify the socioeconomic drivers of nitrogen oxide (NOx) emissions and their spatial relationships in 31 Chinese regions in 2022 using spatial econometric models. Our research incorporates a comprehensive set of variables, including electricity consumption, per capita household consumption expenditure (PCEXP), Expenditure on research and development (R&D), numbers of vehicle in operation, population density, green- covered areas, land use patterns, and cultivated land area. Following a comparative analysis, we selected the spatial Durbin model (SDM) as the most appropriate statistical model for analyzing provincial NOx emissions. Results indicate that electricity consumption and land use patterns are significant contributors to NOx emissions. Specifically, we found that a one billion kilowatt-hour (kWh) increase in electricity consumption corresponds to an increase of approximately 367.3 tons of NOx emissions within the same region. Similarly; a one-million-hectare expansion in land used for urban, rural, industrial, and mining activities is associated with an increase of about 161.9 thousand tons of NOx emissions in the same region. Importantly, our analysis revealed positive spillover effects for PCEXP and cultivated land area, suggesting that changes in these factors in one region can influence NOx emissions in neighboring regions. Contrary to some previous findings and prevailing assumptions, urban population density and green-covered areas did not show significant direct or indirect impacts on NOx emissions. This unexpected result challenges existing notions about urbanization and green space effects on air quality, warranting further investigation. Based on these findings, the study proposes recommendations for mitigating NOx emissions and improving air quality in Chinese regions.",
+      "keywords": [
+        "Energy, Environment, Economic Growth",
+        "Air Quality and Health Impacts",
+        "Vehicle emissions and performance"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial econometric model",
+        "spatial econometrics transfer learning"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
+      "verified_status": "待核验"
+    },
+    {
       "title": "Spatially-Clustered Spatial Autoregressive Models with Application to Agricultural Market Concentration in Europe",
       "authors": [
         "Roy Cerqueti",
@@ -2655,7 +2685,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -2687,7 +2717,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -2763,7 +2793,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-21",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -3166,7 +3196,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -3533,7 +3563,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -4053,7 +4083,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -4112,7 +4142,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -4149,7 +4179,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -4178,7 +4208,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -4206,7 +4236,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -4235,7 +4265,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -4303,7 +4333,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -4332,7 +4362,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -4388,7 +4418,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -4598,7 +4628,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -4830,7 +4860,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -4858,7 +4888,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -4971,7 +5001,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -5000,7 +5030,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -5027,7 +5057,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -5055,7 +5085,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -5083,7 +5113,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -5151,7 +5181,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -5181,7 +5211,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -5210,7 +5240,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -5239,7 +5269,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -5269,7 +5299,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -5353,7 +5383,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -5383,7 +5413,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -5413,7 +5443,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -5443,7 +5473,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -5501,7 +5531,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -5528,7 +5558,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -5557,7 +5587,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -5586,7 +5616,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -5646,7 +5676,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -5791,7 +5821,7 @@
       "verified_status": "待核验"
     }
   ],
-  "updated_at": "2026-11-20T01:01:39+08:00",
+  "updated_at": "2026-11-21T00:40:41+08:00",
   "imported_from": {
     "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
     "title": "TL-SAR 每日文献追踪｜第 1 期",
