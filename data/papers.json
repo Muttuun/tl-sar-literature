@@ -2456,11 +2456,12 @@
       "method": "",
       "novelty": "",
       "matched_queries": [
-        "transfer learning spatial regression"
+        "transfer learning spatial regression",
+        "transfer learning spatial data"
       ],
       "source": "OpenAlex",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -5648,7 +5649,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-21",
       "verified_status": "待核验"
     },
     {
@@ -5821,7 +5822,7 @@
       "verified_status": "待核验"
     }
   ],
-  "updated_at": "2026-11-21T00:40:41+08:00",
+  "updated_at": "2026-11-21T23:53:47+08:00",
   "imported_from": {
     "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
     "title": "TL-SAR 每日文献追踪｜第 1 期",
