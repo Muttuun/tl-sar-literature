@@ -164,6 +164,34 @@
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
+      "title": "When machine learning extrapolates in space: How local data shape spatial transferability",
+      "authors": [
+        "Camille Portes",
+        "Dino Ienco",
+        "Edith Gabriel"
+      ],
+      "year": 2026,
+      "venue": "Spatial Statistics",
+      "doi": "https://doi.org/10.1016/j.spasta.2026.101009",
+      "url": "https://doi.org/10.1016/j.spasta.2026.101009",
+      "language": "en",
+      "abstract": "Reliable spatial prediction requires assessing model behaviour under extrapolation, a setting in which standard validation schemes and performance metrics may be misleading due to spatial autocorrelation and limited environmental support. We study how validation design, environmental novelty, and data support jointly shape predictive performance in spatial risk modelling. Using plant health surveillance data on Xylella fastidiosa in France (2015–2023), we analyse a high-dimensional spatial prediction problem combining climatic, soil, and land-use predictors. We propose a spatially informed modelling framework integrating ensemble-based feature selection under environmental block cross-validation, a spatially weighted variant of XGBoost based on predictor-specific smoothing of spatially structured predictors, and explicit diagnostics of prediction support through the Area of Applicability, and compare it to a Bayesian hierarchical spatial logistic regression benchmark. Motivated by the east–west spread of Xylella fastidiosa , we introduce a spatial transfer evaluation scheme that assesses predictive performance in previously unobserved regions under progressive incorporation of local data. This scheme reveals a non-linear transition from extrapolative to interpolative prediction regimes governed by expansion of the applicability domain. Resulting gains in discrimination and calibration dominate over the more limited stabilizing effect of spatial smoothing near the extrapolation boundary. These results emphasize the need to interpret spatial predictions conditionally on their domain of applicability and highlight the role of validation and support diagnostics in spatial statistical modelling.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Soil Geostatistics and Mapping",
+        "Statistical Methods and Inference"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial data"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "verified_status": "待核验"
+    },
+    {
       "title": "Weighted D-optimal design for spatial regression model in the presence of heteroscedasticity",
       "authors": [
         "Bodunwa O. Kikelomo"
@@ -218,6 +246,107 @@
       "verified_status": "待核验"
     },
     {
+      "title": "Transferability of spatial and temporal learning models for winter wheat mapping in data-scarce environments: A case study in Armenia",
+      "authors": [
+        "Ashutosh Tiwari",
+        "Lei Zhao",
+        "Sayantan Sarkar",
+        "Vardan Urutyan",
+        "Uday Santhosh Raju Vysyaraju",
+        "Sejeong Moon",
+        "Benjamin Ghansah",
+        "Garnik Sevoyan",
+        "Juan A. Landivar",
+        "Yuri Clements Daglia Calil",
+        "Mahendra Bhandari"
+      ],
+      "year": 2026,
+      "venue": "Remote Sensing Applications Society and Environment",
+      "doi": "https://doi.org/10.1016/j.rsase.2026.101885",
+      "url": "https://doi.org/10.1016/j.rsase.2026.101885",
+      "language": "en",
+      "abstract": "Winter wheat constitutes a key component of Armenia’s agricultural economy and national food security. Accurate and timely identification and mapping of winter wheat fields can support informed policymaking, infrastructure planning, resource allocation, and crop monitoring. However, large-scale crop mapping using traditional field-based surveys is labor-intensive, spatially limited, and often impractical. In this study, we present a machine learning framework for large-scale winter wheat field mapping in Armenia under limited ground truth availability using multi-source satellite images. We evaluate the possibility of cross-region generalization through image-based semantic segmentation models (3D Unet and SegNet) and pointwise temporal classification models (Random Forest, one-dimensional convolutional neural network, and long short-term memory (LSTM)) using multi-temporal Sentinel-2 and PlanetScope images. We train these models using large, well-labeled winter wheat datasets from United States counties and a limited set of known winter wheat fields in Armenia, and subsequently transfer and test across five independent test regions in Armenia. Models trained on Sentinel-2 imagery generalize well within the United States, achieving test accuracy and F1-scores of 0.96 and 0.86, respectively. However, their performance degrades when transferred to fragmented agricultural landscapes in Armenia, particularly for image-based semantic segmentation models. In contrast, the LSTM-based temporal model demonstrates superior transferability, achieving accuracy and F1-scores of 0.96 and 0.96, respectively, while effectively suppressing non-crop features and identifying both known and previously unmapped winter wheat fields. Using the best-performing model, we generate provincial-scale winter wheat maps for Shirak Province for the years 2023, 2024, and 2025, estimating cultivated areas of 25,641 ha, 21,088 ha (approximately 3% higher than the USDA Foreign Agricultural Service estimate), and 28,909 ha, respectively. These results highlight the potential of temporal machine learning models for scalable winter wheat mapping in data-scarce regions, offering a practical pathway toward nationwide crop inventory generation and agricultural decision support.",
+      "keywords": [
+        "Remote Sensing in Agriculture",
+        "Smart Agriculture and AI",
+        "Remote-Sensing Image Classification"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial data"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Transferability of machine/deep learning-based prediction of fluvial flood extent to distinct river sections in Slovakia based on benchmark flood maps and high-resolution spatial data",
+      "authors": [
+        "Matej Vojtek",
+        "Dávid Držík",
+        "Jozef Kapusta",
+        "Jana Vojteková"
+      ],
+      "year": 2026,
+      "venue": "Journal of Hydrology Regional Studies",
+      "doi": "https://doi.org/10.1016/j.ejrh.2026.103339",
+      "url": "https://doi.org/10.1016/j.ejrh.2026.103339",
+      "language": "en",
+      "abstract": "Slovakia: Kysuca, Torysa, Topľa, and Gidra rivers Efficient and accurate prediction of fluvial floods is a necessary task for flood preparedness and risk reduction. This study focuses on predicting the extent of fluvial floods under three flood scenarios (Q 10 , Q 100 , Q 1000 ) using three machine learning models: random forest (RF), extreme gradient boosting (XGBoost), neural networks (NN) and one deep learning model (U-Net). The models were trained using official flood maps, created under the second cycle of EU Flood Directive (2007) implementation, and seven high-resolution physical-geographic and land cover predictors. Model performance was assessed using three metrics and training time. Overall, we studied four river sections in Slovakia (Kysuca, Gidra, Torysa, and Topľa) for model development, with three river sections being used for training and the remaining one for testing and calculating performance measures. Results suggest that transferability of the modeled fluvial flood extent on similarly long and large river sections provided the highest performance. This finding is demonstrated by lower and balanced numbers of FP and FN pixels, specifically, for the Torysa/Kysuca, Topľa/Kysuca or Kysuca/Torysa training/testing river sections. The RF and XGBoost models required the least time for training. The optimized U-Net model resulted in less training time than the NN model. The results have high potential for near real-time flood mapping or operational early warning. • Machine and deep learning were used to transfer fluvial flood extent among rivers. • Models were innovatively trained/tested on official flood maps and seven predictors. • RF, XGBoost, NN, U-Net models and Q 10 , Q 100 , Q 1000 flood scenarios were applied. • The highest performance was achieved on similarly long and large river sections.",
+      "keywords": [
+        "Flood Risk Assessment and Management",
+        "Hydrological Forecasting Using AI",
+        "Remote-Sensing Image Classification"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial data"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Transfer learning integrated with SCOPE model for maize yield prediction based on spectral data for different spatial scales",
+      "authors": [
+        "Ruomei Zhao",
+        "Yanling Zhang",
+        "Weimin Guo",
+        "Wei Liu",
+        "Long Zhao",
+        "Xiaoyuan Tian",
+        "Yelu Zeng",
+        "Lulu An",
+        "Aiguo Wang",
+        "Qiang Xu",
+        "Hong Sun"
+      ],
+      "year": 2026,
+      "venue": "Computers and Electronics in Agriculture",
+      "doi": "https://doi.org/10.1016/j.compag.2026.112381",
+      "url": "https://doi.org/10.1016/j.compag.2026.112381",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Remote Sensing in Agriculture",
+        "Smart Agriculture and AI",
+        "Spectroscopy and Chemometric Analyses"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial data"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "verified_status": "待核验"
+    },
+    {
       "title": "Transfer learning in regression with outliers",
       "authors": [
         "Bingbing Wang",
@@ -243,6 +372,34 @@
       "source": "OpenAlex",
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Transfer learning for spatial stochastic frontier model",
+      "authors": [
+        "Yixuan Li",
+        "Yunquan Song",
+        "Weiyu Li"
+      ],
+      "year": 2026,
+      "venue": "Spatial Economic Analysis",
+      "doi": "https://doi.org/10.1080/17421772.2025.2597818",
+      "url": "https://doi.org/10.1080/17421772.2025.2597818",
+      "language": "en",
+      "abstract": "The spatial stochastic frontier model approaches to evaluate firm-level productivity and maximum potential output, while accounting for the influence of neighbouring geographical areas or economies. Existing studies, however, overlook small-sample scenarios. We propose integrating machine learning with traditional statistical methods to address this gap. Specifically, transfer learning which leverages knowledge from related tasks is introduced to enhance estimation under limited data. Novel algorithms are developed for cases with known or unknown source datasets, aiming to improve parameter estimation efficiency by addressing spatial correlation and endogeneity in small samples.",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Efficiency Analysis Using DEA",
+        "Regional Economic Trends and Sectoral Structure"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial data"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -289,7 +446,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -336,7 +493,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -386,6 +543,33 @@
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
+      "title": "Transfer Learning for Spatial Durbin Stochastic Frontier Model",
+      "authors": [
+        "Jiaqi Lv",
+        "Yunquan Song"
+      ],
+      "year": 2026,
+      "venue": "Networks and Spatial Economics",
+      "doi": "https://doi.org/10.1007/s11067-026-09766-7",
+      "url": "https://doi.org/10.1007/s11067-026-09766-7",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Spatial and Panel Data Analysis",
+        "Efficiency Analysis Using DEA",
+        "Regional Economic Trends and Sectoral Structure"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial data"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "verified_status": "待核验"
+    },
+    {
       "title": "Transfer Learning for Spatial Autoregressive Models with Application to U.S. Presidential Election Prediction",
       "authors": [
         "Hao Zeng",
@@ -431,7 +615,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -478,7 +662,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-22",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -632,7 +816,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -685,7 +869,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -802,7 +986,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -829,7 +1013,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -856,7 +1040,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -1027,7 +1211,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -1054,7 +1238,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -1083,7 +1267,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -1111,6 +1295,60 @@
       "source": "OpenAlex",
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "STransfer: a transfer learning-enhanced graph convolutional network for clustering spatial transcriptomics data",
+      "authors": [
+        "Chaojie Wang",
+        "Xin Yu"
+      ],
+      "year": 2026,
+      "venue": "Bioinformatics",
+      "doi": "https://doi.org/10.1093/bioinformatics/btag049",
+      "url": "https://doi.org/10.1093/bioinformatics/btag049",
+      "language": "en",
+      "abstract": "MOTIVATION: Capturing spatial structure is fundamental to the analysis of spatial transcriptomics data. However, most existing methods focus on clustering within individual tissue slices and often ignore the high inter-slice similarity inherent in multi-slice datasets. RESULTS: To address this limitation, we propose STransfer, a novel transfer learning framework that combines graph convolutional networks (GCNs) with positive pointwise mutual information (PPMI) to model both local and global spatial dependencies. An attention-based module is introduced to fuse features from multiple graphs into unified node representations, facilitating the learning of low-dimensional embeddings that jointly encode gene expression and spatial context. By transferring knowledge from labeled slices to adjacent unlabeled ones, STransfer significantly enhances clustering accuracy while reducing manual annotation costs. Extensive experiments demonstrate that STransfer consistently outperforms state-of-the-art methods in both spatial modeling and cross-slice transfer performance. AVAILABILITY AND IMPLEMENTATION: The code for STransfer has been uploaded to GitHub: https://github.com/Saki-JSU/Publications/tree/main/STransfer.",
+      "keywords": [
+        "Single-cell and spatial transcriptomics",
+        "Gene expression and cancer classification",
+        "Spatial and Panel Data Analysis"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial data"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Robust variable selection for spatial point processes via transfer learning",
+      "authors": [
+        "S W",
+        "Yunquan Song"
+      ],
+      "year": 2026,
+      "venue": "Statistics and Computing",
+      "doi": "https://doi.org/10.1007/s11222-026-10937-2",
+      "url": "https://doi.org/10.1007/s11222-026-10937-2",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Statistical Methods and Inference",
+        "Point processes and geometric inequalities",
+        "Spatial and Panel Data Analysis"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial data"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -1187,7 +1425,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -1240,7 +1478,37 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Representation Learning for Tabular Data: A Comprehensive Survey",
+      "authors": [
+        "Junpeng Jiang",
+        "Si-Yang Liu",
+        "Hao-Run Cai",
+        "Qi-Le Zhou",
+        "Han-Jia Ye"
+      ],
+      "year": 2026,
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "doi": "https://doi.org/10.1109/tpami.2026.3657217",
+      "url": "https://doi.org/10.1109/tpami.2026.3657217",
+      "language": "en",
+      "abstract": "Tabular data, structured as rows and columns, is among the most prevalent data types in machine learning classification and regression applications. Models for learning from tabular data have continuously evolved, with Deep Neural Networks (DNNs) recently demonstrating promising results through their capability of representation learning. In this survey, we systematically introduce the field of tabular representation learning, covering the background, challenges, and benchmarks, along with the pros and cons of using DNNs. We organize existing methods into three main categories according to their generalization capabilities: specialized, transferable, and general models. Specialized models focus on tasks where training and evaluation occur within the same data distribution. We introduce a hierarchical taxonomy for specialized models based on the key aspects of tabular data-features, samples, and objectives-and delve into detailed strategies for obtaining high-quality feature- and sample-level representations. Transferable models are pre-trained on one or more datasets and subsequently fine-tuned on downstream tasks, leveraging knowledge acquired from homogeneous or heterogeneous sources, or even cross-modalities such as vision and language. General models, also known as tabular foundation models, extend this concept further, allowing direct application to downstream tasks without additional fine-tuning. We group these general models based on the strategies used to adapt across heterogeneous datasets. Additionally, we explore ensemble methods, which integrate the strengths of multiple tabular models. Finally, we discuss representative extensions of tabular learning, including open-environment tabular machine learning, multimodal learning with tabular data, and tabular understanding tasks.",
+      "keywords": [
+        "Domain Adaptation and Few-Shot Learning",
+        "Machine Learning and Data Classification",
+        "Neural Networks and Applications"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial econometrics transfer learning"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -1334,6 +1602,33 @@
       "source": "OpenAlex",
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Pedotransfer functions in the era of machine learning: Data limitations, spatial scale, transferability, and future directions",
+      "authors": [
+        "Frank Anyoka Adekilae",
+        "Vinit Sehgal"
+      ],
+      "year": 2026,
+      "venue": "Vadose Zone Journal",
+      "doi": "https://doi.org/10.1002/vzj2.70154",
+      "url": "https://doi.org/10.1002/vzj2.70154",
+      "language": "en",
+      "abstract": "Pedotransfer functions (PTFs) are predictive relationships that estimate difficult‐to‐measure soil hydraulic properties from readily available data such as texture, bulk density, and organic matter content. This review synthesizes PTF development from early regression‐based approaches to modern machine‐learning techniques, including artificial neural networks, Random Forest, and physics‐informed approaches. While methodological advances have improved predictive performance, critical challenges persist: (i) transferability limitations when models are applied to different regions and climates; (ii) data representativeness biases favoring temperate European and North American soils; (iii) failure to capture temporal variability induced by climate change and land‐use transitions; and (iv) measurement protocol inconsistencies affecting data quality. We critically evaluate different PTF types (class, continuous, point, parameter, and pseudo‐continuous) and emphasize that statistical metrics alone ( R 2 , root mean square error, etc.) are insufficient for assessing performance. Functional validation within hydrological models and rigorous uncertainty analysis are essential. We present the Transferability, Representativeness, Adaptability, Validation, Interpretability, and Scalability (TRAVIS) framework for evaluating PTFs, alongside a practical guide to PTF selection and validation that considers data availability, climatic context, and transferability risk. Future research should integrate physics‐informed machine learning, climate‐adaptive dynamic PTFs, expanded datasets for tropical and arid regions, standardized measurement and metadata protocols, and transfer learning approaches to improve model generalizability, reproducibility, and predictive performance across diverse climatic, environmental, and soil conditions worldwide. We argue that no single PTF approach is universally optimal and that selection must balance predictive accuracy, interpretability, and transferability with the application context. More fundamentally, we contend that the primary bottleneck constraining PTF performance is not algorithmic sophistication but the representativeness, consistency, and geographic breadth of available training data.",
+      "keywords": [
+        "Soil and Unsaturated Flow",
+        "Soil Moisture and Remote Sensing",
+        "Soil Geostatistics and Mapping"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial data"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -1441,7 +1736,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-22",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -1498,7 +1793,34 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Fusing CFD and measurement data using transfer learning",
+      "authors": [
+        "Alexander Barklage",
+        "Philipp Bekemeyer"
+      ],
+      "year": 2026,
+      "venue": "Aerospace Science and Technology",
+      "doi": "https://doi.org/10.1016/j.ast.2026.112743",
+      "url": "https://doi.org/10.1016/j.ast.2026.112743",
+      "language": "en",
+      "abstract": "Aerodynamic analysis during aircraft design usually involves methods of varying accuracy and spatial resolution, which all have their advantages and disadvantages. It is therefore desirable to create data-driven models which effectively combine these advantages. Such data fusion methods for distributed quantities mainly rely on proper orthogonal decomposition as of now, which is a linear method. In this paper, we introduce a non-linear method based on neural networks combining simulation and measurement data via transfer learning. The network training accounts for the heterogeneity of the data, as simulation data usually features a high spatial resolution, while measurement data is sparse but more accurate. In a first step, the neural network is trained on simulation data to learn spatial features of the distributed quantities. The second step involves transfer learning on the measurement data to correct for systematic errors between simulation and measurement by re-training a subset of the entire neural network model. This approach is applied to a multilayer perceptron architecture and shows significant improvements over the established method based on proper orthogonal decomposition by producing more physical solutions near nonlinearities. In addition, the neural network provides solutions at arbitrary flow conditions, thus making the model useful for flight mechanical design, structural sizing, and certification. As the proposed training strategy is very general, it can also be applied to more complex neural network architectures in the future.",
+      "keywords": [
+        "Model Reduction and Neural Networks",
+        "Aerospace and Aviation Technology",
+        "Computational Fluid Dynamics and Aerodynamics"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial data"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -1528,7 +1850,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -1555,7 +1877,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -1638,7 +1960,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -1669,6 +1991,34 @@
       "source": "OpenAlex",
       "first_seen": "2026-11-18",
       "last_seen": "2026-11-20",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "Disentangling Over-Integration of Single-Cell and Spatial Multiomics Data with Transfer Learning",
+      "authors": [
+        "Risheng Lu",
+        "Shixiong Zhang",
+        "Lin Gao"
+      ],
+      "year": 2026,
+      "venue": "Big Data Mining and Analytics",
+      "doi": "https://doi.org/10.26599/bdma.2025.9020112",
+      "url": "https://doi.org/10.26599/bdma.2025.9020112",
+      "language": "en",
+      "abstract": "",
+      "keywords": [
+        "Single-cell and spatial transcriptomics",
+        "Bioinformatics and Genomic Networks",
+        "Gene expression and cancer classification"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial data"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -1720,7 +2070,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -1748,7 +2098,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -1885,7 +2235,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -1971,7 +2321,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -2001,6 +2351,38 @@
       "source": "OpenAlex",
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-11",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "A transfer learning framework for spatial mapping in data-scarce regions: A case study on groundwater-dependent ecosystem identification",
+      "authors": [
+        "Jian Liu",
+        "Liang Fang",
+        "Junkang Guo",
+        "Tanya M. Doody",
+        "Xin Zhang",
+        "Sicong Gao",
+        "Lei Gao"
+      ],
+      "year": 2026,
+      "venue": "Environmental Modelling & Software",
+      "doi": "https://doi.org/10.1016/j.envsoft.2026.107233",
+      "url": "https://doi.org/10.1016/j.envsoft.2026.107233",
+      "language": "en",
+      "abstract": "ABSTRACT : Mapping groundwater-dependent ecosystems (GDEs) in data-scarce regions remains challenging, reflecting broader issues in spatial mapping under limited data. This study develops a transfer learning framework for label-scarce mapping, with GDE identification as a representative case study. Using the Australian GDE Atlas, we conducted transfer experiments involving different models (seven machine learning algorithms), transfer strategies, source domain selection, and training scales. A Transferability Index (TI) was proposed to guide source domain selection. Results show: (1) source domain selection critically determines transfer performance; (2) tree-based ensembles, particularly XGBoost and LightGBM, demonstrate superior transferability, achieving average accuracies of 60.91%/60.49% (terrestrial) and 56.86%/57.19% (aquatic) for GDE identification, outperforming other algorithms by 0.8–4.0% and 0.4–2.8%; (3) the TI identified the best source domain in 70% of cases (7/10), and a near-optimal domain otherwise; and (4) multi-source training reduced sensitivity to source selection. This framework provides guidance for environmental spatial mapping in data-scarce regions.",
+      "keywords": [
+        "Domain Adaptation and Few-Shot Learning",
+        "Remote-Sensing Image Classification",
+        "Soil Geostatistics and Mapping"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "transfer learning spatial data"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -2070,6 +2452,32 @@
       "source": "OpenAlex",
       "first_seen": "2026-11-18",
       "last_seen": "2026-11-20",
+      "verified_status": "待核验"
+    },
+    {
+      "title": "A Residual Feature-Gated Variational Autoencoder with Transfer Learning for Economic Systemic Risk Exposure Prediction",
+      "authors": [
+        "Shiqiong Pan"
+      ],
+      "year": 2026,
+      "venue": "Annals of Emerging Technologies in Computing",
+      "doi": "https://doi.org/10.33166/aetic.2026.03.003",
+      "url": "https://doi.org/10.33166/aetic.2026.03.003",
+      "language": "en",
+      "abstract": "Accurate prediction of systemic economic risk is important for financial supervision and policy design, yet existing econometric and machine-learning models often suffer from limited data and unstable generalization. This paper proposes a two-step learning framework for predicting systemic risk exposure using a simulated economic resilience dataset. First, a Variational Autoencoder (VAE) is trained on real observations and used to generate 100,000 synthetic samples for data augmentation. Second, a residual neural network with a feature-gating mechanism is pretrained on the synthetic data and then fine-tuned on real samples through transfer learning. Experiments show that the proposed strategy leads to large performance gains. Compared with training from scratch, the two-stage model improves R² from 0.958 to 0.998, while reducing RMSE from 0.015 to 0.003 and MAE from 0.011 to 0.003. Classical models also benefit from augmentation: for SVR, R² increases from 0.018 to 0.090 after adding synthetic data. Feature screening based on mutual information highlights growth dynamics and risk control indicators as the most influential drivers of systemic risk. Ablation studies further show that residual connections and feature gating are both essential, with the full model achieving the lowest error levels. These results demonstrate that generative data augmentation combined with transfer learning provides an effective and general solution for economic risk prediction under limited data conditions.",
+      "keywords": [
+        "Banking stability, regulation, efficiency",
+        "Stock Market Forecasting Methods",
+        "Financial Distress and Bankruptcy Prediction"
+      ],
+      "method": "",
+      "novelty": "",
+      "matched_queries": [
+        "spatial econometrics transfer learning"
+      ],
+      "source": "OpenAlex",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -2431,7 +2839,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -2461,7 +2869,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -2600,7 +3008,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -2794,7 +3202,7 @@
         }
       ],
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "verified_status": "分享页导入；题录与摘要待独立核验"
     },
     {
@@ -3197,7 +3605,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -4180,7 +4588,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -4334,7 +4742,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -4363,7 +4771,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -4861,7 +5269,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -5384,7 +5792,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -5649,7 +6057,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -5704,7 +6112,7 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     },
     {
@@ -5818,11 +6226,11 @@
       ],
       "source": "OpenAlex",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-22",
       "verified_status": "待核验"
     }
   ],
-  "updated_at": "2026-11-21T23:53:47+08:00",
+  "updated_at": "2026-11-22T23:54:52+08:00",
   "imported_from": {
     "url": "https://chatgpt.com/share/6ad8c885-aa00-83ea-9ca9-5145830ee3ee",
     "title": "TL-SAR 每日文献追踪｜第 1 期",
