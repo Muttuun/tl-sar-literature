@@ -486,6 +486,17 @@
           "error": "HTTP Error 429: Too Many Requests"
         }
       ]
+    },
+    {
+      "run_date": "2026-11-24",
+      "completed_at": "2026-11-24T03:48:23+08:00",
+      "candidate_count": 50,
+      "new_count": 1,
+      "duplicate_count": 49,
+      "total_count": 194,
+      "error_count": 0,
+      "status": "success",
+      "errors": []
     }
   ]
 }
